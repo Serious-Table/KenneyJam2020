@@ -2259,3 +2259,1457 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.21-18.17.59:588][772]AssetCheck: New page: Asset Save: multiple assets
 [2020.08.21-18.17.59:588][772]LogContentValidation: Display: Validating Material /Game/Materials/metalDark.metalDark
 [2020.08.21-18.17.59:588][772]LogContentValidation: Display: Validating Material /Game/Materials/metal.metal
+[2020.08.21-18.20.33:406][428]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/craft_speederB.craft_speederB
+[2020.08.21-18.20.33:540][428]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-18.20.33:540][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-18.24.21:877][385]LogSlate: Window 'craft_speederB' being destroyed
+[2020.08.21-18.24.21:880][385]LogSlate: Window 'craft_speederB' being destroyed
+[2020.08.21-18.24.21:888][385]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-18.24.21:888][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-18.55.18:638][410]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.08.21-18.55.22:764][655]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-18.55.23:135][655]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 125 classes and 0 folders.
+[2020.08.21-18.55.25:668][759]LogRenderer: Reallocating scene render targets to support 1144x908 Format 10 NumSamples 1 (Frame:93).
+[2020.08.21-18.55.26:428][802]LogSlate: Window 'Player_BP' being destroyed
+[2020.08.21-18.56.27:332][446]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/craft_speederB.craft_speederB
+[2020.08.21-18.56.27:450][446]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-18.56.27:450][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-18.56.27:588][447]LogRenderer: Reallocating scene render targets to support 1432x932 Format 10 NumSamples 1 (Frame:1).
+[2020.08.21-18.56.59:732][373]LogEditorFactories: Performing atomic reimport of [E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/craft_speederB.fbx]
+[2020.08.21-18.56.59:760][373]LogFbx: Loading FBX Scene from E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/craft_speederB.fbx
+[2020.08.21-18.56.59:767][373]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.21-18.56.59:797][373]LogStaticMesh: Building static mesh craft_speederB...
+[2020.08.21-18.56.59:805][373]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/craft_speederB.craft_speederB
+[2020.08.21-18.56.59:813][373]LogEditorFactories: -- imported successfully
+[2020.08.21-18.56.59:815][373]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.21-18.57.35:220][492]LogEditorFactories: Performing atomic reimport of [E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/craft_speederB.fbx]
+[2020.08.21-18.57.35:239][492]LogFbx: Loading FBX Scene from E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/craft_speederB.fbx
+[2020.08.21-18.57.35:246][492]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.21-18.57.35:263][492]LogStaticMesh: Building static mesh craft_speederB...
+[2020.08.21-18.57.35:271][492]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/craft_speederB.craft_speederB
+[2020.08.21-18.57.35:280][492]LogEditorFactories: -- imported successfully
+[2020.08.21-18.57.35:282][492]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.21-18.57.46:569][165]LogEditorFactories: Performing atomic reimport of [E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/craft_speederB.fbx]
+[2020.08.21-18.57.46:593][165]LogFbx: Loading FBX Scene from E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/craft_speederB.fbx
+[2020.08.21-18.57.46:599][165]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.21-18.57.46:615][165]LogStaticMesh: Building static mesh craft_speederB...
+[2020.08.21-18.57.46:624][165]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/craft_speederB.craft_speederB
+[2020.08.21-18.57.46:631][165]LogEditorFactories: -- imported successfully
+[2020.08.21-18.57.46:633][165]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.21-18.58.16:107][929]LogEditorFactories: Performing atomic reimport of [E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/craft_speederB.fbx]
+[2020.08.21-18.58.16:129][929]LogFbx: Loading FBX Scene from E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/craft_speederB.fbx
+[2020.08.21-18.58.16:136][929]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.21-18.58.16:151][929]LogStaticMesh: Building static mesh craft_speederB...
+[2020.08.21-18.58.16:160][929]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/craft_speederB.craft_speederB
+[2020.08.21-18.58.16:168][929]LogEditorFactories: -- imported successfully
+[2020.08.21-18.58.16:170][929]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.21-18.58.21:931][270]LogEditorFactories: Performing atomic reimport of [E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/craft_speederB.fbx]
+[2020.08.21-18.58.21:954][270]LogFbx: Loading FBX Scene from E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/craft_speederB.fbx
+[2020.08.21-18.58.21:961][270]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.21-18.58.21:977][270]LogStaticMesh: Building static mesh craft_speederB...
+[2020.08.21-18.58.21:986][270]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/craft_speederB.craft_speederB
+[2020.08.21-18.58.21:993][270]LogEditorFactories: -- imported successfully
+[2020.08.21-18.58.21:995][270]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.21-18.58.40:539][378]LogEditorFactories: Performing atomic reimport of [E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/craft_speederB.fbx]
+[2020.08.21-18.58.40:558][378]LogFbx: Loading FBX Scene from E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/craft_speederB.fbx
+[2020.08.21-18.58.40:565][378]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.21-18.58.40:582][378]LogStaticMesh: Building static mesh craft_speederB...
+[2020.08.21-18.58.40:591][378]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/craft_speederB.craft_speederB
+[2020.08.21-18.58.40:598][378]LogEditorFactories: -- imported successfully
+[2020.08.21-18.58.40:600][378]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.21-18.58.57:193][369]LogEditorFactories: Performing atomic reimport of [E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/craft_speederB.fbx]
+[2020.08.21-18.58.57:218][369]LogFbx: Loading FBX Scene from E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/craft_speederB.fbx
+[2020.08.21-18.58.57:225][369]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.21-18.58.57:242][369]LogStaticMesh: Building static mesh craft_speederB...
+[2020.08.21-18.58.57:251][369]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/craft_speederB.craft_speederB
+[2020.08.21-18.58.57:259][369]LogEditorFactories: -- imported successfully
+[2020.08.21-18.58.57:261][369]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.21-18.59.05:670][869]LogEditorFactories: Performing atomic reimport of [E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/craft_speederB.fbx]
+[2020.08.21-18.59.05:690][869]LogFbx: Loading FBX Scene from E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/craft_speederB.fbx
+[2020.08.21-18.59.05:697][869]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.21-18.59.05:713][869]LogStaticMesh: Building static mesh craft_speederB...
+[2020.08.21-18.59.05:723][869]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/craft_speederB.craft_speederB
+[2020.08.21-18.59.05:732][869]LogEditorFactories: -- imported successfully
+[2020.08.21-18.59.05:734][869]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.21-18.59.07:884][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/craft_speederB" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Meshes/craft_speederB.uasset" SILENT=true
+[2020.08.21-18.59.07:904][991]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/craft_speederBB60BF6564F1F41BE6E67989F8578A4DE.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Meshes/craft_speederB.uasset'
+[2020.08.21-18.59.07:913][991]AssetCheck: New page: Asset Save: craft_speederB
+[2020.08.21-18.59.07:913][991]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/craft_speederB.craft_speederB
+[2020.08.21-18.59.09:026][ 58]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-18.59.09:026][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-18.59.40:048][915]BlueprintLog: New page: Compile Player_BP
+[2020.08.21-18.59.40:102][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.08.21-18.59.40:529][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.21-18.59.40:557][938]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP9C3A342E4D023A1BF3483A9FCB6EE786.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.21-18.59.40:567][938]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.21-18.59.40:567][938]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-19.01.26:311][281]BlueprintLog: New page: Compile Player_BP
+[2020.08.21-19.01.26:339][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.08.21-19.01.26:848][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.21-19.01.26:864][309]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BPB47353F54CB0B4CD1AF9DF95FA6BFF66.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.21-19.01.26:871][309]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.21-19.01.26:871][309]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-19.01.29:149][445]LogActorFactory: Actor Factory created craft_speederB
+[2020.08.21-19.01.30:413][521]LogActorFactory: Actor Factory created craft_speederB
+[2020.08.21-19.01.36:986][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-19.01.36:988][913]PIE: New page: SIE session: Untitled_1 (Aug 21, 2020, 9:01:36 AM)
+[2020.08.21-19.01.36:990][913]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.08.21-19.01.36:991][913]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.08.21-19.01.36:991][913]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-19.01.36:993][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001870s)
+[2020.08.21-19.01.36:994][913]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.21-19.01.36:994][913]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022F96782400), frame # 63913
+[2020.08.21-19.01.36:994][913]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022F0D9C6340), frame # 63913
+[2020.08.21-19.01.36:995][913]LogPlayLevel: PIE: World Init took: (0.001514s)
+[2020.08.21-19.01.36:995][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003504s)
+[2020.08.21-19.01.37:012][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.08.21-19.01.37:014][913]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-19.01.37:014][913]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-19.01.37:014][913]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-19.01.37:014][913]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-19.01.37:014][913]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-19.01.37:014][913]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-19.01.37:014][913]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-19.01.37:014][913]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-19.01.37:014][913]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-19.01.37:014][913]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-19.01.37:035][913]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-19.01.37:035][913]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-19.01.37:044][913]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.21-19.01.37:045][913]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.21-19.01.37:045][913]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.21-19.01.37:045][913]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.21-19.01.37:045][913]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.21-19.01.37:056][913]LogInit: FAudioDevice initialized.
+[2020.08.21-19.01.37:067][913]LogLoad: Game class is 'GameModeBase'
+[2020.08.21-19.01.37:069][913]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.08.21-14.01.37
+[2020.08.21-19.01.37:069][913]LogWorld: Bringing up level for play took: 0.000422
+[2020.08.21-19.01.37:069][913]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2020.08.21-19.01.37:095][913]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.08.21-19.01.37:096][913]PIE: Server logged in
+[2020.08.21-19.01.37:097][913]PIE: Play in editor total start time 0.126 seconds.
+[2020.08.21-19.01.40:717][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-19.01.40:717][114]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-19.01.40:717][114]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-19.01.40:717][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-19.01.40:724][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-19.01.40:727][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-19.01.40:762][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-19.01.40:777][114]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022F0D9C6340), frame # 64114
+[2020.08.21-19.01.40:777][114]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022F96782400), frame # 64114
+[2020.08.21-19.01.40:780][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.08.21-19.01.40:796][115]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2020.08.21-19.02.28:377][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.08.21-19.02.28:379][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Autosaves/Temp/Untitled_1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.08.21-19.02.28:406][925]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Untitled_1_Auto21AF980F6487B71624B16239F85F3B10C.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
+[2020.08.21-19.02.28:411][925]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.058
+[2020.08.21-19.02.28:411][925]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.058
+[2020.08.21-19.02.28:412][925]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player_BP] ([1] browsable assets)...
+[2020.08.21-19.02.28:421][925]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player_BP.Player_BP]
+[2020.08.21-19.02.28:421][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player_BP]
+[2020.08.21-19.02.28:421][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Autosaves/Game/Blueprints/Player_BP_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.08.21-19.02.28:431][925]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP_Auto269C988FA4BEBE019B8D3F4BB43A44941.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Autosaves/Game/Blueprints/Player_BP_Auto2.uasset'
+[2020.08.21-19.02.28:432][925]LogFileHelpers: Auto-saving content packages took 0.022
+[2020.08.21-19.03.39:321][176]BlueprintLog: New page: Compile Player_BP
+[2020.08.21-19.03.39:355][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.08.21-19.03.39:829][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.21-19.03.39:841][202]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BPE90ECE4A4683C300C9F13D8A154108E6.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.21-19.03.39:852][202]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.21-19.03.39:852][202]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-19.03.42:373][354]LogTemp: Repeating last play command: Simulate
+[2020.08.21-19.03.42:381][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-19.03.42:381][354]PIE: New page: SIE session: Untitled_1 (Aug 21, 2020, 9:03:42 AM)
+[2020.08.21-19.03.42:381][354]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-19.03.42:383][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001621s)
+[2020.08.21-19.03.42:384][354]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.21-19.03.42:384][354]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022F7A692200), frame # 71354
+[2020.08.21-19.03.42:384][354]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022F6E3D2E80), frame # 71354
+[2020.08.21-19.03.42:384][354]LogPlayLevel: PIE: World Init took: (0.001555s)
+[2020.08.21-19.03.42:384][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003272s)
+[2020.08.21-19.03.42:407][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.08.21-19.03.42:408][354]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-19.03.42:408][354]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-19.03.42:408][354]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-19.03.42:408][354]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-19.03.42:408][354]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-19.03.42:408][354]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-19.03.42:408][354]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-19.03.42:408][354]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-19.03.42:409][354]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-19.03.42:409][354]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-19.03.42:410][354]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-19.03.42:410][354]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-19.03.42:419][354]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.21-19.03.42:419][354]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.21-19.03.42:419][354]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.21-19.03.42:419][354]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.21-19.03.42:420][354]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.21-19.03.42:431][354]LogInit: FAudioDevice initialized.
+[2020.08.21-19.03.42:442][354]LogLoad: Game class is 'GameModeBase'
+[2020.08.21-19.03.42:442][354]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.08.21-14.03.42
+[2020.08.21-19.03.42:443][354]LogWorld: Bringing up level for play took: 0.000383
+[2020.08.21-19.03.42:443][354]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2020.08.21-19.03.42:444][354]PIE: Server logged in
+[2020.08.21-19.03.42:444][354]PIE: Play in editor total start time 0.064 seconds.
+[2020.08.21-19.03.48:301][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-19.03.48:301][704]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-19.03.48:301][704]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-19.03.48:302][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-19.03.48:307][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-19.03.48:310][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-19.03.48:343][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-19.03.48:344][704]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022F6E3D2E80), frame # 71704
+[2020.08.21-19.03.48:344][704]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022F7A692200), frame # 71704
+[2020.08.21-19.03.48:346][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.08.21-19.03.48:380][706]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.08.21-19.09.18:565][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.08.21-19.09.22:369][565]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.21-19.09.28:242][918]Cmd: DELETE
+[2020.08.21-19.09.28:242][918]Cmd: ACTOR DELETE
+[2020.08.21-19.09.28:261][918]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.21-19.09.28:280][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.08.21-19.09.28:282][918]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2020.08.21-19.09.35:234][335]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.08.21-19.09.35:234][335]LogPlayLevel: [PlayLevel] Compiling Player_BP before play...
+[2020.08.21-19.09.35:278][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.08.21-19.09.35:280][335]LogPlayLevel: PlayLevel: Blueprint regeneration took 45 ms (1 blueprints)
+[2020.08.21-19.09.35:280][335]PIE: New page: SIE session: Untitled_1 (Aug 21, 2020, 9:09:35 AM)
+[2020.08.21-19.09.35:322][335]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-19.09.35:323][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001574s)
+[2020.08.21-19.09.35:324][335]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.21-19.09.35:324][335]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022F9B593E00), frame # 82335
+[2020.08.21-19.09.35:324][335]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022F6CF39800), frame # 82335
+[2020.08.21-19.09.35:325][335]LogPlayLevel: PIE: World Init took: (0.001231s)
+[2020.08.21-19.09.35:325][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002946s)
+[2020.08.21-19.09.35:346][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.08.21-19.09.35:346][335]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-19.09.35:346][335]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-19.09.35:346][335]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-19.09.35:346][335]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-19.09.35:346][335]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-19.09.35:346][335]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-19.09.35:346][335]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-19.09.35:346][335]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-19.09.35:347][335]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-19.09.35:347][335]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-19.09.35:348][335]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-19.09.35:348][335]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-19.09.35:357][335]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.21-19.09.35:357][335]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.21-19.09.35:357][335]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.21-19.09.35:357][335]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.21-19.09.35:357][335]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.21-19.09.35:368][335]LogInit: FAudioDevice initialized.
+[2020.08.21-19.09.35:376][335]LogLoad: Game class is 'GameModeBase'
+[2020.08.21-19.09.35:377][335]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.08.21-14.09.35
+[2020.08.21-19.09.35:393][335]LogWorld: Bringing up level for play took: 0.016487
+[2020.08.21-19.09.35:393][335]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2020.08.21-19.09.35:395][335]PIE: Server logged in
+[2020.08.21-19.09.35:395][335]PIE: Play in editor total start time 0.163 seconds.
+[2020.08.21-19.09.37:821][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-19.09.37:821][479]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-19.09.37:822][479]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-19.09.37:822][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-19.09.37:832][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-19.09.37:835][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-19.09.37:854][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-19.09.37:869][479]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022F6CF39800), frame # 82479
+[2020.08.21-19.09.37:869][479]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022F9B593E00), frame # 82479
+[2020.08.21-19.09.37:871][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.08.21-19.09.37:912][481]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.08.21-19.10.21:659][103]BlueprintLog: New page: Compile Player_BP
+[2020.08.21-19.10.21:696][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.08.21-19.10.22:396][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.21-19.10.22:411][143]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BPE3418E8548F44A8AC4E688B2D3B86E98.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.21-19.10.22:420][143]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.21-19.10.22:420][143]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-19.10.40:786][245]BlueprintLog: New page: Compile Player_BP
+[2020.08.21-19.10.40:822][245]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.08.21-19.10.41:294][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.21-19.10.41:305][271]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP832842774CB99899502E09B5C619377C.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.21-19.10.41:314][271]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.21-19.10.41:314][271]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-19.10.43:107][379]LogTemp: Repeating last play command: Simulate
+[2020.08.21-19.10.43:115][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-19.10.43:115][379]PIE: New page: SIE session: Untitled_1 (Aug 21, 2020, 9:10:43 AM)
+[2020.08.21-19.10.43:115][379]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-19.10.43:116][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001556s)
+[2020.08.21-19.10.43:118][379]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.21-19.10.43:118][379]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022F714A3A00), frame # 86379
+[2020.08.21-19.10.43:118][379]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022F7E804CC0), frame # 86379
+[2020.08.21-19.10.43:118][379]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2020.08.21-19.10.43:118][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002901s)
+[2020.08.21-19.10.43:138][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.08.21-19.10.43:139][379]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-19.10.43:139][379]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-19.10.43:139][379]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-19.10.43:139][379]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-19.10.43:139][379]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-19.10.43:139][379]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-19.10.43:139][379]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-19.10.43:139][379]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-19.10.43:139][379]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-19.10.43:139][379]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-19.10.43:140][379]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-19.10.43:140][379]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-19.10.43:149][379]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.21-19.10.43:149][379]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.21-19.10.43:149][379]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.21-19.10.43:150][379]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.21-19.10.43:150][379]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.21-19.10.43:162][379]LogInit: FAudioDevice initialized.
+[2020.08.21-19.10.43:170][379]LogLoad: Game class is 'GameModeBase'
+[2020.08.21-19.10.43:170][379]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-19.10.43:170][379]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-19.10.43:170][379]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.08.21-14.10.43
+[2020.08.21-19.10.43:171][379]LogWorld: Bringing up level for play took: 0.000625
+[2020.08.21-19.10.43:171][379]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2020.08.21-19.10.43:172][379]PIE: Server logged in
+[2020.08.21-19.10.43:172][379]PIE: Play in editor total start time 0.059 seconds.
+[2020.08.21-19.10.45:812][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-19.10.45:812][536]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-19.10.45:813][536]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-19.10.45:813][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-19.10.45:823][536]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-19.10.45:827][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-19.10.45:859][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-19.10.45:859][536]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022F7E804CC0), frame # 86536
+[2020.08.21-19.10.45:859][536]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022F714A3A00), frame # 86536
+[2020.08.21-19.10.45:862][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.08.21-19.10.45:905][537]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.08.21-19.11.02:652][467]LogSlate: Window 'Message Log' being destroyed
+[2020.08.21-19.11.02:655][467]LogSlate: Window 'Message Log' being destroyed
+[2020.08.21-19.11.18:422][410]BlueprintLog: New page: Compile Player_BP
+[2020.08.21-19.11.18:457][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.08.21-19.11.18:927][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.21-19.11.18:938][436]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP2FADEB5A4AB3410C835A709313903C4C.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.21-19.11.18:946][436]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.21-19.11.18:946][436]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-19.11.20:654][539]LogTemp: Repeating last play command: Simulate
+[2020.08.21-19.11.20:663][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-19.11.20:663][539]PIE: New page: SIE session: Untitled_1 (Aug 21, 2020, 9:11:20 AM)
+[2020.08.21-19.11.20:663][539]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-19.11.20:664][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001493s)
+[2020.08.21-19.11.20:666][539]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.21-19.11.20:666][539]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022F9B592A00), frame # 88539
+[2020.08.21-19.11.20:666][539]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022F6DED6E80), frame # 88539
+[2020.08.21-19.11.20:666][539]LogPlayLevel: PIE: World Init took: (0.001735s)
+[2020.08.21-19.11.20:666][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003330s)
+[2020.08.21-19.11.20:687][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.08.21-19.11.20:688][539]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-19.11.20:688][539]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-19.11.20:688][539]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-19.11.20:688][539]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-19.11.20:688][539]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-19.11.20:688][539]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-19.11.20:688][539]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-19.11.20:688][539]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-19.11.20:689][539]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-19.11.20:689][539]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-19.11.20:690][539]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-19.11.20:690][539]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-19.11.20:698][539]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.21-19.11.20:698][539]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.21-19.11.20:698][539]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.21-19.11.20:698][539]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.21-19.11.20:698][539]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.21-19.11.20:709][539]LogInit: FAudioDevice initialized.
+[2020.08.21-19.11.20:717][539]LogLoad: Game class is 'GameModeBase'
+[2020.08.21-19.11.20:717][539]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.08.21-14.11.20
+[2020.08.21-19.11.20:718][539]LogWorld: Bringing up level for play took: 0.000528
+[2020.08.21-19.11.20:718][539]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2020.08.21-19.11.20:719][539]PIE: Server logged in
+[2020.08.21-19.11.20:719][539]PIE: Play in editor total start time 0.058 seconds.
+[2020.08.21-19.11.24:203][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-19.11.24:203][746]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-19.11.24:203][746]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-19.11.24:203][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-19.11.24:212][746]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-19.11.24:216][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-19.11.24:249][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-19.11.24:249][746]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022F6DED6E80), frame # 88746
+[2020.08.21-19.11.24:249][746]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022F9B592A00), frame # 88746
+[2020.08.21-19.11.24:251][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.08.21-19.11.24:269][747]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2020.08.21-19.11.39:301][648]BlueprintLog: New page: Compile Player_BP
+[2020.08.21-19.11.39:335][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.08.21-19.11.39:835][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.21-19.11.39:846][676]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP7CA5089444009E7BB7E80F9E6BA24973.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.21-19.11.39:854][676]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.21-19.11.39:854][676]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-19.11.41:462][773]LogTemp: Repeating last play command: Simulate
+[2020.08.21-19.11.41:470][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-19.11.41:470][773]PIE: New page: SIE session: Untitled_1 (Aug 21, 2020, 9:11:41 AM)
+[2020.08.21-19.11.41:470][773]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-19.11.41:472][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001725s)
+[2020.08.21-19.11.41:473][773]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.21-19.11.41:473][773]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022F0E445E00), frame # 89773
+[2020.08.21-19.11.41:473][773]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022F7A1E0A40), frame # 89773
+[2020.08.21-19.11.41:474][773]LogPlayLevel: PIE: World Init took: (0.001603s)
+[2020.08.21-19.11.41:474][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003433s)
+[2020.08.21-19.11.41:497][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.08.21-19.11.41:498][773]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-19.11.41:498][773]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-19.11.41:498][773]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-19.11.41:498][773]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-19.11.41:498][773]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-19.11.41:498][773]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-19.11.41:498][773]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-19.11.41:498][773]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-19.11.41:498][773]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-19.11.41:498][773]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-19.11.41:499][773]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-19.11.41:499][773]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-19.11.41:507][773]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.21-19.11.41:507][773]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.21-19.11.41:507][773]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.21-19.11.41:507][773]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.21-19.11.41:507][773]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.21-19.11.41:519][773]LogInit: FAudioDevice initialized.
+[2020.08.21-19.11.41:529][773]LogLoad: Game class is 'GameModeBase'
+[2020.08.21-19.11.41:530][773]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.08.21-14.11.41
+[2020.08.21-19.11.41:531][773]LogWorld: Bringing up level for play took: 0.000510
+[2020.08.21-19.11.41:531][773]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2020.08.21-19.11.41:532][773]PIE: Server logged in
+[2020.08.21-19.11.41:533][773]PIE: Play in editor total start time 0.063 seconds.
+[2020.08.21-19.12.01:672][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-19.12.01:672][980]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-19.12.01:673][980]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-19.12.01:673][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-19.12.01:679][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-19.12.01:683][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-19.12.01:716][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-19.12.01:717][980]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022F7A1E0A40), frame # 90980
+[2020.08.21-19.12.01:717][980]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022F0E445E00), frame # 90980
+[2020.08.21-19.12.01:719][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.08.21-19.12.01:753][982]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2020.08.21-19.12.29:328][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.21-19.12.49:337][834]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.08.21-19.12.53:482][ 82]LogEditorViewport: Clicking on Actor (LMB): Player_BP_C (Player_BP)
+[2020.08.21-19.12.56:254][248]LogTemp: Repeating last play command: Simulate
+[2020.08.21-19.12.56:262][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-19.12.56:262][248]PIE: New page: SIE session: Untitled_1 (Aug 21, 2020, 9:12:56 AM)
+[2020.08.21-19.12.56:262][248]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-19.12.56:265][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002223s)
+[2020.08.21-19.12.56:266][248]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.21-19.12.56:266][248]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022F87B71600), frame # 94248
+[2020.08.21-19.12.56:266][248]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022F63AD9300), frame # 94248
+[2020.08.21-19.12.56:267][248]LogPlayLevel: PIE: World Init took: (0.001809s)
+[2020.08.21-19.12.56:267][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004127s)
+[2020.08.21-19.12.56:288][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.08.21-19.12.56:291][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-19.12.56:291][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-19.12.56:291][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-19.12.56:291][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-19.12.56:291][248]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-19.12.56:291][248]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-19.12.56:291][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-19.12.56:291][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-19.12.56:291][248]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-19.12.56:291][248]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-19.12.56:293][248]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-19.12.56:293][248]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-19.12.56:301][248]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.21-19.12.56:302][248]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.21-19.12.56:302][248]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.21-19.12.56:302][248]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.21-19.12.56:302][248]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.21-19.12.56:314][248]LogInit: FAudioDevice initialized.
+[2020.08.21-19.12.56:318][248]LogLoad: Game class is 'GameModeBase'
+[2020.08.21-19.12.56:320][248]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.08.21-14.12.56
+[2020.08.21-19.12.56:320][248]LogWorld: Bringing up level for play took: 0.000819
+[2020.08.21-19.12.56:320][248]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2020.08.21-19.12.56:322][248]PIE: Server logged in
+[2020.08.21-19.12.56:322][248]PIE: Play in editor total start time 0.06 seconds.
+[2020.08.21-19.13.00:072][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-19.13.00:072][471]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-19.13.00:073][471]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-19.13.00:073][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-19.13.00:082][471]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-19.13.00:085][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-19.13.00:118][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-19.13.00:119][471]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022F63AD9300), frame # 94471
+[2020.08.21-19.13.00:119][471]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022F87B71600), frame # 94471
+[2020.08.21-19.13.00:121][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.08.21-19.13.00:155][473]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2020.08.21-19.13.01:404][548]LogEditorViewport: Clicking on Actor (LMB): Player_BP_C (Player_BP)
+[2020.08.21-19.13.05:725][807]LogTemp: Repeating last play command: Simulate
+[2020.08.21-19.13.05:733][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-19.13.05:733][807]PIE: New page: SIE session: Untitled_1 (Aug 21, 2020, 9:13:05 AM)
+[2020.08.21-19.13.05:733][807]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-19.13.05:736][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002284s)
+[2020.08.21-19.13.05:736][807]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.21-19.13.05:736][807]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022F9ABB3E00), frame # 94807
+[2020.08.21-19.13.05:737][807]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022F9BA74180), frame # 94807
+[2020.08.21-19.13.05:737][807]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2020.08.21-19.13.05:737][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003553s)
+[2020.08.21-19.13.05:758][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.08.21-19.13.05:759][807]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-19.13.05:759][807]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-19.13.05:759][807]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-19.13.05:759][807]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-19.13.05:759][807]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-19.13.05:759][807]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-19.13.05:759][807]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-19.13.05:759][807]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-19.13.05:759][807]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-19.13.05:759][807]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-19.13.05:760][807]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-19.13.05:760][807]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-19.13.05:768][807]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.21-19.13.05:768][807]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.21-19.13.05:768][807]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.21-19.13.05:768][807]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.21-19.13.05:768][807]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.21-19.13.05:781][807]LogInit: FAudioDevice initialized.
+[2020.08.21-19.13.05:786][807]LogLoad: Game class is 'GameModeBase'
+[2020.08.21-19.13.05:786][807]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.08.21-14.13.05
+[2020.08.21-19.13.05:787][807]LogWorld: Bringing up level for play took: 0.000552
+[2020.08.21-19.13.05:787][807]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2020.08.21-19.13.05:788][807]PIE: Server logged in
+[2020.08.21-19.13.05:789][807]PIE: Play in editor total start time 0.056 seconds.
+[2020.08.21-19.13.14:462][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-19.13.14:462][325]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-19.13.14:463][325]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-19.13.14:463][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-19.13.14:469][325]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-19.13.14:472][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-19.13.14:506][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-19.13.14:507][325]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022F9BA74180), frame # 95325
+[2020.08.21-19.13.14:507][325]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022F9ABB3E00), frame # 95325
+[2020.08.21-19.13.14:509][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.08.21-19.13.14:544][327]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.08.21-19.13.15:611][391]LogEditorViewport: Clicking on Actor (LMB): Player_BP_C (Player_BP)
+[2020.08.21-19.13.19:581][629]LogTemp: Repeating last play command: Simulate
+[2020.08.21-19.13.19:589][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-19.13.19:589][629]PIE: New page: SIE session: Untitled_1 (Aug 21, 2020, 9:13:19 AM)
+[2020.08.21-19.13.19:589][629]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-19.13.19:591][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002090s)
+[2020.08.21-19.13.19:592][629]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.21-19.13.19:592][629]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022F868BBE00), frame # 95629
+[2020.08.21-19.13.19:592][629]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022F6DED91C0), frame # 95629
+[2020.08.21-19.13.19:592][629]LogPlayLevel: PIE: World Init took: (0.001346s)
+[2020.08.21-19.13.19:592][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003572s)
+[2020.08.21-19.13.19:614][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.08.21-19.13.19:615][629]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-19.13.19:615][629]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-19.13.19:615][629]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-19.13.19:615][629]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-19.13.19:615][629]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-19.13.19:615][629]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-19.13.19:615][629]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-19.13.19:615][629]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-19.13.19:615][629]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-19.13.19:615][629]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-19.13.19:616][629]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-19.13.19:616][629]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-19.13.19:624][629]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.21-19.13.19:624][629]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.21-19.13.19:624][629]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.21-19.13.19:624][629]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.21-19.13.19:625][629]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.21-19.13.19:637][629]LogInit: FAudioDevice initialized.
+[2020.08.21-19.13.19:646][629]LogLoad: Game class is 'GameModeBase'
+[2020.08.21-19.13.19:646][629]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.08.21-14.13.19
+[2020.08.21-19.13.19:647][629]LogWorld: Bringing up level for play took: 0.000580
+[2020.08.21-19.13.19:647][629]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2020.08.21-19.13.19:648][629]PIE: Server logged in
+[2020.08.21-19.13.19:649][629]PIE: Play in editor total start time 0.06 seconds.
+[2020.08.21-19.13.29:902][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-19.13.29:902][242]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-19.13.29:903][242]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-19.13.29:903][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-19.13.29:911][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-19.13.29:914][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-19.13.29:947][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-19.13.29:948][242]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022F6DED91C0), frame # 96242
+[2020.08.21-19.13.29:948][242]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022F868BBE00), frame # 96242
+[2020.08.21-19.13.29:950][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.08.21-19.13.29:967][243]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2020.08.21-19.13.54:149][693]BlueprintLog: New page: Compile Player_BP
+[2020.08.21-19.13.54:185][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.08.21-19.13.54:671][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.21-19.13.54:684][720]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BPA889FB3B4390ECBBB1CE3EB2E25C1A16.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.21-19.13.54:693][720]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.21-19.13.54:693][720]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-19.13.56:479][828]LogTemp: Repeating last play command: Simulate
+[2020.08.21-19.13.56:488][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-19.13.56:488][828]PIE: New page: SIE session: Untitled_1 (Aug 21, 2020, 9:13:56 AM)
+[2020.08.21-19.13.56:488][828]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-19.13.56:490][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002269s)
+[2020.08.21-19.13.56:491][828]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.21-19.13.56:491][828]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022EA73F6000), frame # 97828
+[2020.08.21-19.13.56:491][828]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022F7A1E0CC0), frame # 97828
+[2020.08.21-19.13.56:492][828]LogPlayLevel: PIE: World Init took: (0.001194s)
+[2020.08.21-19.13.56:492][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003613s)
+[2020.08.21-19.13.56:515][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.08.21-19.13.56:515][828]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-19.13.56:515][828]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-19.13.56:515][828]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-19.13.56:515][828]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-19.13.56:515][828]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-19.13.56:515][828]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-19.13.56:515][828]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-19.13.56:515][828]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-19.13.56:516][828]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-19.13.56:516][828]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-19.13.56:517][828]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-19.13.56:517][828]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-19.13.56:525][828]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.21-19.13.56:525][828]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.21-19.13.56:525][828]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.21-19.13.56:525][828]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.21-19.13.56:525][828]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.21-19.13.56:526][828]LogInit: FAudioDevice initialized.
+[2020.08.21-19.13.56:540][828]LogLoad: Game class is 'GameModeBase'
+[2020.08.21-19.13.56:541][828]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.08.21-14.13.56
+[2020.08.21-19.13.56:542][828]LogWorld: Bringing up level for play took: 0.000595
+[2020.08.21-19.13.56:542][828]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2020.08.21-19.13.56:543][828]PIE: Server logged in
+[2020.08.21-19.13.56:544][828]PIE: Play in editor total start time 0.056 seconds.
+[2020.08.21-19.14.38:833][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-19.14.38:833][361]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-19.14.38:833][361]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-19.14.38:833][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-19.14.38:838][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-19.14.38:841][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-19.14.38:874][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-19.14.38:875][361]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022F7A1E0CC0), frame # 100361
+[2020.08.21-19.14.38:875][361]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022EA73F6000), frame # 100361
+[2020.08.21-19.14.38:877][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.08.21-19.14.38:914][363]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2020.08.21-19.15.02:710][789]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-19.15.02:710][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-19.15.04:429][890]LogEditorViewport: Clicking on Actor (LMB): Player_BP_C (Player_BP)
+[2020.08.21-19.15.05:683][964]Cmd: DELETE
+[2020.08.21-19.15.05:683][964]Cmd: ACTOR DELETE
+[2020.08.21-19.15.05:684][964]LogEditorActor: Deleted Actor: Player_BP_C
+[2020.08.21-19.15.05:724][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.08.21-19.15.05:726][964]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2020.08.21-19.15.07:997][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.08.21-19.15.09:474][ 99]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.21-19.15.10:219][ 99]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-19.15.10:567][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.08.21-19.15.10:696][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.08.21-19.15.10:710][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.08.21-19.15.10:724][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.08.21-19.15.44:818][622]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.08.21-19.15.47:858][801]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1862)].
+[2020.08.21-19.15.47:886][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.08.21-19.15.47:888][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Autosaves/Temp/Untitled_1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.08.21-19.15.47:902][801]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Untitled_1_Auto33427F7574CC5E2DD136C80B4E59863C1.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Autosaves/Temp/Untitled_1_Auto3.umap'
+[2020.08.21-19.15.47:903][801]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.031
+[2020.08.21-19.15.47:903][801]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.031
+[2020.08.21-19.15.47:903][801]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player] ([1] browsable assets)...
+[2020.08.21-19.15.47:903][801]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player]
+[2020.08.21-19.15.47:903][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Autosaves/Game/Blueprints/Player_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.08.21-19.15.47:913][801]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_Auto385E2CC654A21674B2B34B782A4C303EE.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Autosaves/Game/Blueprints/Player_Auto3.uasset'
+[2020.08.21-19.15.47:913][801]LogFileHelpers: Auto-saving content packages took 0.010
+[2020.08.21-19.15.51:551][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.08.21-19.15.51:553][ 17]LogMetaData: Removing '/Game/Blueprints/Player_BP.Player_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Player.PackageMetaData'
+[2020.08.21-19.15.51:553][ 17]LogMetaData: Removing '/Game/Blueprints/Player_BP.SKEL_Player_BP_C' ref from Metadata '/Game/Blueprints/Player.PackageMetaData'
+[2020.08.21-19.15.51:553][ 17]LogMetaData: Removing '/Game/Blueprints/Player_BP.Player_BP_C' ref from Metadata '/Game/Blueprints/Player.PackageMetaData'
+[2020.08.21-19.15.51:553][ 17]LogMetaData: Removing '/Game/Blueprints/Player_BP.Player_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Player.PackageMetaData'
+[2020.08.21-19.15.51:553][ 17]LogMetaData: Removing '/Game/Blueprints/Player_BP.Player_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Player.PackageMetaData'
+[2020.08.21-19.15.51:553][ 17]LogMetaData: Removing '/Game/Blueprints/Player_BP.Player_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Player.PackageMetaData'
+[2020.08.21-19.15.51:569][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.21-19.15.51:578][ 17]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP0571906F49BE473F787C5BB9B4FAC0C3.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.21-19.15.51:679][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.08.21-19.15.51:696][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.08.21-19.15.51:710][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.08.21-19.15.51:730][ 17]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.21-19.15.51:730][ 17]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-19.15.57:798][381]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-19.16.32:009][412]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-19.16.32:009][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-19.16.35:425][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.08.21-19.16.36:688][613]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.21-19.16.36:742][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.08.21-19.16.36:763][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.08.21-19.16.36:779][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.08.21-19.16.40:448][772]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.08.21-19.16.44:125][992]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-19.22.24:468][ 44]BlueprintLog: New page: Compile Player_BP
+[2020.08.21-19.22.24:502][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.08.21-19.22.25:127][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.21-19.22.25:139][ 78]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP6901D04444825F9291D9AC979ED7636B.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.21-19.22.25:148][ 78]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.21-19.22.25:148][ 78]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-19.23.18:291][264]BlueprintLog: New page: Compile Player_BP
+[2020.08.21-19.23.18:354][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.08.21-19.23.18:758][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.21-19.23.18:774][286]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BPEBDE226D447420B03E0D509202C3071D.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.21-19.23.18:782][286]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.21-19.23.18:782][286]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-19.23.49:351][119]BlueprintLog: New page: Compile Player_BP
+[2020.08.21-19.23.49:402][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.08.21-19.23.49:938][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.21-19.23.49:950][149]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP124979CF4E0BAE5B50B16EB2C899F002.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.21-19.23.49:958][149]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.21-19.23.49:958][149]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-19.24.23:829][  9]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.08.21-19.24.30:820][427]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/HoverComponent_BP.HoverComponent_BP
+[2020.08.21-19.24.32:676][521]LogSlate: Window 'HoverComponent_BP' being destroyed
+[2020.08.21-19.24.51:653][  5]LogSlate: Took 0.004415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.08.21-19.26.36:502][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.08.21-19.26.36:504][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Autosaves/Temp/Untitled_1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.08.21-19.26.36:519][880]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Untitled_1_Auto4886CD99E4C2C484948E99399AA0DA49A.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Autosaves/Temp/Untitled_1_Auto4.umap'
+[2020.08.21-19.26.36:520][880]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.041
+[2020.08.21-19.26.36:520][880]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.041
+[2020.08.21-19.26.36:521][880]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HoverComponent_BP] ([1] browsable assets)...
+[2020.08.21-19.26.36:521][880]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HoverComponent_BP]
+[2020.08.21-19.26.36:546][880]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/HoverComponent_BP_Auto404A0CC274E40A9FF4532ECA73A55BEC2.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Autosaves/Game/Blueprints/HoverComponent_BP_Auto4.uasset'
+[2020.08.21-19.26.36:547][880]LogFileHelpers: Auto-saving content packages took 0.026
+[2020.08.21-19.26.38:749][999]BlueprintLog: New page: Compile HoverComponent_BP
+[2020.08.21-19.26.38:771][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.08.21-19.26.39:209][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HoverComponent_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset" SILENT=true
+[2020.08.21-19.26.39:217][ 24]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/HoverComponent_BP93A70D8F4EC1020F1741E48878E522A6.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset'
+[2020.08.21-19.26.39:229][ 24]AssetCheck: New page: Asset Save: HoverComponent_BP
+[2020.08.21-19.26.39:229][ 24]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/HoverComponent_BP.HoverComponent_BP
+[2020.08.21-19.27.09:595][841]BlueprintLog: New page: Compile Player_BP
+[2020.08.21-19.27.09:633][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.08.21-19.27.10:026][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.21-19.27.10:038][862]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP22C779EB4B7CE7CC929FE59A57D756FD.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.21-19.27.10:045][862]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.21-19.27.10:045][862]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-19.29.48:256][  2]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.08.21-19.29.55:033][407]BlueprintLog: New page: Compile HoverComponent_BP
+[2020.08.21-19.29.55:076][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.08.21-19.30.34:302][746]BlueprintLog: New page: Compile HoverComponent_BP
+[2020.08.21-19.30.34:341][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.08.21-19.30.35:030][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HoverComponent_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset" SILENT=true
+[2020.08.21-19.30.35:044][786]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/HoverComponent_BPDCAC03E647CBDD8C6FD2ECBC0EFB4B52.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset'
+[2020.08.21-19.30.35:053][786]AssetCheck: New page: Asset Save: HoverComponent_BP
+[2020.08.21-19.30.35:053][786]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/HoverComponent_BP.HoverComponent_BP
+[2020.08.21-19.32.04:505][398]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/barrel.fbx)
+[2020.08.21-19.32.04:514][398]LogFbx: Loading FBX Scene from E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/barrel.fbx
+[2020.08.21-19.32.04:519][398]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.21-19.33.06:446][398]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.08.21-19.36.36:973][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.08.21-19.36.36:976][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Autosaves/Temp/Untitled_1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.08.21-19.36.36:991][ 67]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Untitled_1_Auto53487D5B24D090FA718502488453DC089.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Autosaves/Temp/Untitled_1_Auto5.umap'
+[2020.08.21-19.36.36:992][ 67]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.042
+[2020.08.21-19.36.36:992][ 67]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.042
+[2020.08.21-20.32.53:141][709]BlueprintLog: New page: Compile HoverComponent_BP
+[2020.08.21-20.32.53:179][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.08.21-20.32.53:976][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HoverComponent_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset" SILENT=true
+[2020.08.21-20.32.53:993][755]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/HoverComponent_BPCE74546B4B4ED3EB72D197858EE5D42C.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset'
+[2020.08.21-20.32.54:002][755]AssetCheck: New page: Asset Save: HoverComponent_BP
+[2020.08.21-20.32.54:002][755]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/HoverComponent_BP.HoverComponent_BP
+[2020.08.21-20.33.09:991][181]BlueprintLog: New page: Compile HoverComponent_BP
+[2020.08.21-20.33.10:030][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.08.21-20.33.10:428][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HoverComponent_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset" SILENT=true
+[2020.08.21-20.33.10:439][203]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/HoverComponent_BPB6C97E864DFC9E498B9013A10375626C.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset'
+[2020.08.21-20.33.10:448][203]AssetCheck: New page: Asset Save: HoverComponent_BP
+[2020.08.21-20.33.10:448][203]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/HoverComponent_BP.HoverComponent_BP
+[2020.08.21-20.33.35:261][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.08.21-20.33.35:262][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Autosaves/Temp/Untitled_1_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.08.21-20.33.35:275][334]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Untitled_1_Auto6E2FBA3F647B70BE24AFFE691D088613F.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Autosaves/Temp/Untitled_1_Auto6.umap'
+[2020.08.21-20.33.35:278][334]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.036
+[2020.08.21-20.33.35:278][334]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.036
+[2020.08.21-20.33.35:278][334]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player_BP] ([1] browsable assets)...
+[2020.08.21-20.33.35:278][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player_BP]
+[2020.08.21-20.33.35:278][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Autosaves/Game/Blueprints/Player_BP_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.08.21-20.33.35:290][334]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP_Auto69643A01F4E0B2BAADC5D4F92FFCB3F42.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Autosaves/Game/Blueprints/Player_BP_Auto6.uasset'
+[2020.08.21-20.33.35:291][334]LogFileHelpers: Auto-saving content packages took 0.013
+[2020.08.21-20.35.21:480][859]BlueprintLog: New page: Compile HoverComponent_BP
+[2020.08.21-20.35.21:518][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.08.21-20.35.22:095][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HoverComponent_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset" SILENT=true
+[2020.08.21-20.35.22:105][892]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/HoverComponent_BP174874A843ABF89D61149AAFEBD2A575.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset'
+[2020.08.21-20.35.22:113][892]AssetCheck: New page: Asset Save: HoverComponent_BP
+[2020.08.21-20.35.22:113][892]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/HoverComponent_BP.HoverComponent_BP
+[2020.08.21-20.37.36:529][914]BlueprintLog: New page: Compile HoverComponent_BP
+[2020.08.21-20.37.36:569][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.08.21-20.37.36:921][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HoverComponent_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset" SILENT=true
+[2020.08.21-20.37.36:933][933]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/HoverComponent_BPE310987644D77C5E152435A4EB0B759F.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset'
+[2020.08.21-20.37.36:942][933]AssetCheck: New page: Asset Save: HoverComponent_BP
+[2020.08.21-20.37.36:942][933]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/HoverComponent_BP.HoverComponent_BP
+[2020.08.21-20.43.36:024][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.08.21-20.43.36:026][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Autosaves/Temp/Untitled_1_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.08.21-20.43.36:039][988]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Untitled_1_Auto7E5818EA044E79EB03D18159AA6F4ACE1.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Autosaves/Temp/Untitled_1_Auto7.umap'
+[2020.08.21-20.43.36:042][988]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.039
+[2020.08.21-20.43.36:042][988]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.039
+[2020.08.21-20.43.36:042][988]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HoverComponent_BP] ([1] browsable assets)...
+[2020.08.21-20.43.36:042][988]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HoverComponent_BP]
+[2020.08.21-20.43.36:060][988]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/HoverComponent_BP_Auto7BB76CD004F3F87EF887AE0A04A14D2B3.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Autosaves/Game/Blueprints/HoverComponent_BP_Auto7.uasset'
+[2020.08.21-20.43.36:060][988]LogFileHelpers: Auto-saving content packages took 0.019
+[2020.08.21-20.45.05:801][530]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.08.21-20.45.37:580][952]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.08.21-20.46.24:012][405]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.08.21-20.48.19:246][950]BlueprintLog: New page: Compile HoverComponent_BP
+[2020.08.21-20.48.19:290][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.08.21-20.48.19:686][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HoverComponent_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset" SILENT=true
+[2020.08.21-20.48.19:701][972]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/HoverComponent_BP596041CF4E19A1DE4DA6D29315D85FDD.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset'
+[2020.08.21-20.48.19:713][972]AssetCheck: New page: Asset Save: HoverComponent_BP
+[2020.08.21-20.48.19:713][972]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/HoverComponent_BP.HoverComponent_BP
+[2020.08.21-20.51.08:434][217]BlueprintLog: New page: Compile Player_BP
+[2020.08.21-20.51.08:474][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.08.21-20.51.09:144][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.21-20.51.09:160][255]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BPFE15CB25416C27A9407829875E3F8D6C.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.21-20.51.09:170][255]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.21-20.51.09:170][255]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-20.51.10:511][336]BlueprintLog: New page: Compile HoverComponent_BP
+[2020.08.21-20.51.10:514][336]LogBlueprint: Error: [Compiler HoverComponent_BP] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2020.08.21-20.51.10:549][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.08.21-20.51.11:664][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HoverComponent_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset" SILENT=true
+[2020.08.21-20.51.11:683][401]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/HoverComponent_BP79671DB54E5DCA27215DB5B894177A4B.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset'
+[2020.08.21-20.51.11:692][401]AssetCheck: New page: Asset Save: HoverComponent_BP
+[2020.08.21-20.51.11:692][401]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/HoverComponent_BP.HoverComponent_BP
+[2020.08.21-20.54.24:553][972]BlueprintLog: New page: Compile HoverComponent_BP
+[2020.08.21-20.54.24:594][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.08.21-20.54.25:047][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HoverComponent_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset" SILENT=true
+[2020.08.21-20.54.25:063][997]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/HoverComponent_BP8FBC14B14CAD8AF17F90208E585D4D21.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset'
+[2020.08.21-20.54.25:071][997]AssetCheck: New page: Asset Save: HoverComponent_BP
+[2020.08.21-20.54.25:071][997]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/HoverComponent_BP.HoverComponent_BP
+[2020.08.21-20.54.37:279][730]BlueprintLog: New page: Compile HoverComponent_BP
+[2020.08.21-20.54.37:319][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.08.21-20.54.37:838][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HoverComponent_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset" SILENT=true
+[2020.08.21-20.54.37:854][759]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/HoverComponent_BP41BC8BA149EB04118BC312B0C3813E64.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset'
+[2020.08.21-20.54.37:863][759]AssetCheck: New page: Asset Save: HoverComponent_BP
+[2020.08.21-20.54.37:863][759]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/HoverComponent_BP.HoverComponent_BP
+[2020.08.21-20.55.03:498][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.08.21-20.55.03:499][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Autosaves/Temp/Untitled_1_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.08.21-20.55.03:511][342]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Untitled_1_Auto881496C5B4DA561F7C30854BDE472B653.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Autosaves/Temp/Untitled_1_Auto8.umap'
+[2020.08.21-20.55.03:512][342]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.036
+[2020.08.21-20.55.03:512][342]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.036
+[2020.08.21-20.55.03:512][342]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HoverComponent_BP] ([1] browsable assets)...
+[2020.08.21-20.55.03:512][342]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HoverComponent_BP]
+[2020.08.21-20.55.03:529][342]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/HoverComponent_BP_Auto80A3AEFD14D225F3C4146D281242B2CB2.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Autosaves/Game/Blueprints/HoverComponent_BP_Auto8.uasset'
+[2020.08.21-20.55.03:531][342]LogFileHelpers: Auto-saving content packages took 0.019
+[2020.08.21-20.55.29:521][901]BlueprintLog: New page: Compile HoverComponent_BP
+[2020.08.21-20.55.29:558][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.08.21-20.55.30:040][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HoverComponent_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset" SILENT=true
+[2020.08.21-20.55.30:056][928]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/HoverComponent_BP6F4944074BB18995C3FF4891E5C1BB84.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset'
+[2020.08.21-20.55.30:068][928]AssetCheck: New page: Asset Save: HoverComponent_BP
+[2020.08.21-20.55.30:068][928]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/HoverComponent_BP.HoverComponent_BP
+[2020.08.21-20.55.31:433][ 10]LogEditorViewport: Clicking on Actor (LMB): Brush (Cone Brush)
+[2020.08.21-20.55.58:794][849]BlueprintLog: New page: Compile HoverComponent_BP
+[2020.08.21-20.55.58:833][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.08.21-20.55.59:358][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HoverComponent_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset" SILENT=true
+[2020.08.21-20.55.59:375][878]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/HoverComponent_BP9B0FF17947F8B68999DDA69246980EBC.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset'
+[2020.08.21-20.55.59:385][878]AssetCheck: New page: Asset Save: HoverComponent_BP
+[2020.08.21-20.55.59:385][878]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/HoverComponent_BP.HoverComponent_BP
+[2020.08.21-20.56.11:362][382]BlueprintLog: New page: Compile HoverComponent_BP
+[2020.08.21-20.56.11:402][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.08.21-20.56.12:268][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HoverComponent_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset" SILENT=true
+[2020.08.21-20.56.12:288][432]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/HoverComponent_BPD19C8B9B47C6F6BBF3DFEB91D034AE7C.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset'
+[2020.08.21-20.56.12:299][432]AssetCheck: New page: Asset Save: HoverComponent_BP
+[2020.08.21-20.56.12:299][432]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/HoverComponent_BP.HoverComponent_BP
+[2020.08.21-20.56.32:146][918]BlueprintLog: New page: Compile HoverComponent_BP
+[2020.08.21-20.56.32:185][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.08.21-20.56.32:601][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HoverComponent_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset" SILENT=true
+[2020.08.21-20.56.32:617][941]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/HoverComponent_BP88A70770414E11FA5A8D60A0865E846A.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/HoverComponent_BP.uasset'
+[2020.08.21-20.56.32:627][941]AssetCheck: New page: Asset Save: HoverComponent_BP
+[2020.08.21-20.56.32:627][941]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/HoverComponent_BP.HoverComponent_BP
+[2020.08.21-20.56.52:522][133]BlueprintLog: New page: Compile Player_BP
+[2020.08.21-20.56.52:565][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.08.21-20.56.52:935][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.21-20.56.52:951][153]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BPEA49CFB94D9FC8E86B8C24BEC504E854.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.21-20.56.52:959][153]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.21-20.56.52:959][153]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-20.56.55:433][302]LogTemp: Repeating last play command: Simulate
+[2020.08.21-20.56.55:442][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-20.56.55:442][302]PIE: New page: SIE session: Untitled_1 (Aug 21, 2020, 10:56:55 AM)
+[2020.08.21-20.56.55:442][302]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-20.56.55:444][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002303s)
+[2020.08.21-20.56.55:445][302]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.21-20.56.55:445][302]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022FBBA08A00), frame # 195302
+[2020.08.21-20.56.55:445][302]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022FBD7FC900), frame # 195302
+[2020.08.21-20.56.55:445][302]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2020.08.21-20.56.55:445][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003319s)
+[2020.08.21-20.56.55:466][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.08.21-20.56.55:467][302]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-20.56.55:467][302]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-20.56.55:467][302]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-20.56.55:468][302]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-20.56.55:468][302]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-20.56.55:468][302]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-20.56.55:468][302]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-20.56.55:468][302]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-20.56.55:468][302]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-20.56.55:468][302]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-20.56.55:469][302]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-20.56.55:469][302]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-20.56.55:479][302]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.21-20.56.55:479][302]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.21-20.56.55:479][302]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.21-20.56.55:479][302]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.21-20.56.55:479][302]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.21-20.56.55:491][302]LogInit: FAudioDevice initialized.
+[2020.08.21-20.56.55:497][302]LogLoad: Game class is 'GameModeBase'
+[2020.08.21-20.56.55:498][302]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.08.21-15.56.55
+[2020.08.21-20.56.55:498][302]LogWorld: Bringing up level for play took: 0.000548
+[2020.08.21-20.56.55:498][302]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2020.08.21-20.56.55:499][302]PIE: Server logged in
+[2020.08.21-20.56.55:500][302]PIE: Play in editor total start time 0.059 seconds.
+[2020.08.21-20.56.55:516][302]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:526][303]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:542][304]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:559][305]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:575][306]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:592][307]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:609][308]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:626][309]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:642][310]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:659][311]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:676][312]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:692][313]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:709][314]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:725][315]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:742][316]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:759][317]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:775][318]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:792][319]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:809][320]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:826][321]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:842][322]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:859][323]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:876][324]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:892][325]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:909][326]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:926][327]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:942][328]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:959][329]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:976][330]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.55:992][331]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:008][332]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:025][333]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:042][334]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:058][335]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:075][336]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:093][337]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:109][338]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:125][339]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:142][340]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:159][341]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:176][342]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:192][343]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:209][344]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:226][345]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:242][346]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:259][347]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:275][348]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:292][349]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:308][350]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:325][351]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:342][352]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:358][353]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:375][354]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:392][355]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:408][356]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:425][357]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:442][358]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:458][359]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:475][360]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:492][361]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:509][362]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:525][363]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:542][364]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:558][365]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:575][366]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:592][367]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:608][368]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:626][369]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:642][370]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:659][371]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:676][372]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:692][373]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:709][374]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:725][375]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:742][376]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:759][377]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:775][378]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:792][379]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:809][380]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:825][381]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:842][382]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:859][383]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:875][384]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:892][385]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:909][386]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:926][387]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:942][388]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:959][389]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:975][390]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.56:992][391]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.57:009][392]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.57:025][393]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.57:042][394]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.57:059][395]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.57:075][396]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.57:092][397]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.57:108][398]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.57:125][399]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.57:142][400]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.57:158][401]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.57:176][402]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.57:192][403]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.57:209][404]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.57:226][405]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.57:242][406]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.57:259][407]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.57:276][408]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.57:293][409]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.57:309][410]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.57:326][411]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.57:343][412]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.57:408][416]PIE: Warning: Player_BP_2.PlayerShip craft_speederB has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2020.08.21-20.56.57:442][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-20.56.57:442][416]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-20.56.57:442][416]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-20.56.57:442][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-20.56.57:446][416]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-20.56.57:449][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-20.56.57:481][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-20.56.57:482][416]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022FBD7FC900), frame # 195416
+[2020.08.21-20.56.57:482][416]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022FBBA08A00), frame # 195416
+[2020.08.21-20.56.57:483][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.08.21-20.56.57:546][417]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2020.08.21-20.57.02:191][691]LogSlate: Window 'Message Log' being destroyed
+[2020.08.21-20.57.02:194][691]LogSlate: Window 'Message Log' being destroyed
+[2020.08.21-20.57.12:111][285]BlueprintLog: New page: Compile Player_BP
+[2020.08.21-20.57.12:153][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.08.21-20.57.12:624][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.21-20.57.12:636][310]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP06BDC5C74A1BFBCDA89C628314CDFC5B.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.21-20.57.12:644][310]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.21-20.57.12:644][310]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-20.57.14:365][414]LogTemp: Repeating last play command: Simulate
+[2020.08.21-20.57.14:373][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-20.57.14:373][414]PIE: New page: SIE session: Untitled_1 (Aug 21, 2020, 10:57:14 AM)
+[2020.08.21-20.57.14:374][414]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-20.57.14:376][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002245s)
+[2020.08.21-20.57.14:377][414]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.21-20.57.14:377][414]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022FBD660C00), frame # 196414
+[2020.08.21-20.57.14:377][414]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022FC688BEC0), frame # 196414
+[2020.08.21-20.57.14:377][414]LogPlayLevel: PIE: World Init took: (0.001368s)
+[2020.08.21-20.57.14:377][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003717s)
+[2020.08.21-20.57.14:397][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.08.21-20.57.14:398][414]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-20.57.14:398][414]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-20.57.14:398][414]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-20.57.14:398][414]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-20.57.14:398][414]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-20.57.14:398][414]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-20.57.14:398][414]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-20.57.14:398][414]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-20.57.14:399][414]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-20.57.14:399][414]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-20.57.14:400][414]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-20.57.14:400][414]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-20.57.14:408][414]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.21-20.57.14:408][414]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.21-20.57.14:408][414]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.21-20.57.14:408][414]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.21-20.57.14:408][414]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.21-20.57.14:420][414]LogInit: FAudioDevice initialized.
+[2020.08.21-20.57.14:427][414]LogLoad: Game class is 'GameModeBase'
+[2020.08.21-20.57.14:428][414]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.08.21-15.57.14
+[2020.08.21-20.57.14:429][414]LogWorld: Bringing up level for play took: 0.000559
+[2020.08.21-20.57.14:429][414]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2020.08.21-20.57.14:430][414]PIE: Server logged in
+[2020.08.21-20.57.14:430][414]PIE: Play in editor total start time 0.057 seconds.
+[2020.08.21-20.57.23:631][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-20.57.23:631][964]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-20.57.23:631][964]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-20.57.23:632][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-20.57.23:641][964]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-20.57.23:644][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-20.57.23:677][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-20.57.23:678][964]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022FC688BEC0), frame # 196964
+[2020.08.21-20.57.23:678][964]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022FBD660C00), frame # 196964
+[2020.08.21-20.57.23:679][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.08.21-20.57.23:698][965]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2020.08.21-20.58.40:945][242]LogEditorViewport: Clicking on Actor (LMB): Player_BP_C (Player_BP)
+[2020.08.21-20.58.43:080][369]LogTemp: Repeating last play command: Simulate
+[2020.08.21-20.58.43:090][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-20.58.43:090][369]PIE: New page: SIE session: Untitled_1 (Aug 21, 2020, 10:58:43 AM)
+[2020.08.21-20.58.43:090][369]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-20.58.43:093][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002676s)
+[2020.08.21-20.58.43:094][369]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.21-20.58.43:094][369]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022EA73F6A00), frame # 198369
+[2020.08.21-20.58.43:094][369]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022FBD7FC180), frame # 198369
+[2020.08.21-20.58.43:094][369]LogPlayLevel: PIE: World Init took: (0.001440s)
+[2020.08.21-20.58.43:094][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004267s)
+[2020.08.21-20.58.43:116][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.08.21-20.58.43:118][369]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-20.58.43:118][369]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-20.58.43:118][369]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-20.58.43:118][369]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-20.58.43:119][369]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-20.58.43:119][369]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-20.58.43:119][369]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-20.58.43:119][369]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-20.58.43:119][369]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-20.58.43:119][369]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-20.58.43:120][369]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-20.58.43:120][369]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-20.58.43:129][369]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.21-20.58.43:129][369]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.21-20.58.43:129][369]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.21-20.58.43:129][369]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.21-20.58.43:130][369]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.21-20.58.43:141][369]LogInit: FAudioDevice initialized.
+[2020.08.21-20.58.43:151][369]LogLoad: Game class is 'GameModeBase'
+[2020.08.21-20.58.43:152][369]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.08.21-15.58.43
+[2020.08.21-20.58.43:152][369]LogWorld: Bringing up level for play took: 0.000584
+[2020.08.21-20.58.43:152][369]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2020.08.21-20.58.43:154][369]PIE: Server logged in
+[2020.08.21-20.58.43:154][369]PIE: Play in editor total start time 0.066 seconds.
+[2020.08.21-20.59.02:102][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-20.59.02:102][502]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-20.59.02:103][502]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-20.59.02:103][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-20.59.02:114][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-20.59.02:117][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-20.59.02:136][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-20.59.02:151][502]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022FBD7FC180), frame # 199502
+[2020.08.21-20.59.02:152][502]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022EA73F6A00), frame # 199502
+[2020.08.21-20.59.02:153][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.08.21-20.59.02:183][503]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2020.08.21-20.59.03:032][554]LogTemp: Repeating last play command: Simulate
+[2020.08.21-20.59.03:041][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-20.59.03:041][554]PIE: New page: SIE session: Untitled_1 (Aug 21, 2020, 10:59:03 AM)
+[2020.08.21-20.59.03:041][554]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-20.59.03:044][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002558s)
+[2020.08.21-20.59.03:045][554]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.21-20.59.03:045][554]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022F514DD800), frame # 199554
+[2020.08.21-20.59.03:045][554]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022FBBCC02C0), frame # 199554
+[2020.08.21-20.59.03:046][554]LogPlayLevel: PIE: World Init took: (0.001573s)
+[2020.08.21-20.59.03:046][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004395s)
+[2020.08.21-20.59.03:067][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.08.21-20.59.03:067][554]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-20.59.03:067][554]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-20.59.03:067][554]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-20.59.03:067][554]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-20.59.03:068][554]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-20.59.03:068][554]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-20.59.03:068][554]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-20.59.03:068][554]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-20.59.03:068][554]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-20.59.03:068][554]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-20.59.03:069][554]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-20.59.03:069][554]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-20.59.03:077][554]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.21-20.59.03:077][554]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.21-20.59.03:077][554]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.21-20.59.03:077][554]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.21-20.59.03:077][554]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.21-20.59.03:089][554]LogInit: FAudioDevice initialized.
+[2020.08.21-20.59.03:095][554]LogLoad: Game class is 'GameModeBase'
+[2020.08.21-20.59.03:096][554]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.08.21-15.59.03
+[2020.08.21-20.59.03:096][554]LogWorld: Bringing up level for play took: 0.000515
+[2020.08.21-20.59.03:096][554]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2020.08.21-20.59.03:097][554]PIE: Server logged in
+[2020.08.21-20.59.03:098][554]PIE: Play in editor total start time 0.057 seconds.
+[2020.08.21-20.59.31:952][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-20.59.31:952][283]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-20.59.31:952][283]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-20.59.31:953][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-20.59.31:958][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-20.59.31:961][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-20.59.31:981][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-20.59.31:994][283]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022FBBCC02C0), frame # 201283
+[2020.08.21-20.59.31:994][283]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022F514DD800), frame # 201283
+[2020.08.21-20.59.31:996][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.08.21-20.59.32:024][284]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2020.08.21-21.00.43:673][575]BlueprintLog: New page: Compile Player_BP
+[2020.08.21-21.00.43:721][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.08.21-21.00.44:088][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.21-21.00.44:100][594]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BPD85E9C9C44FCBAA04FCDACAE0D99B559.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.21-21.00.44:108][594]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.21-21.00.44:109][594]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-21.00.45:721][691]LogTemp: Repeating last play command: Simulate
+[2020.08.21-21.00.45:730][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-21.00.45:730][691]PIE: New page: SIE session: Untitled_1 (Aug 21, 2020, 11:00:45 AM)
+[2020.08.21-21.00.45:731][691]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-21.00.45:733][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002736s)
+[2020.08.21-21.00.45:734][691]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.21-21.00.45:734][691]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022FBC311000), frame # 205691
+[2020.08.21-21.00.45:734][691]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022FC68ED300), frame # 205691
+[2020.08.21-21.00.45:734][691]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2020.08.21-21.00.45:734][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003883s)
+[2020.08.21-21.00.45:757][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.08.21-21.00.45:758][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-21.00.45:758][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-21.00.45:758][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-21.00.45:758][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-21.00.45:758][691]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-21.00.45:758][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-21.00.45:758][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-21.00.45:758][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-21.00.45:758][691]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-21.00.45:758][691]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-21.00.45:760][691]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-21.00.45:760][691]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-21.00.45:769][691]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.21-21.00.45:769][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.21-21.00.45:769][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.21-21.00.45:769][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.21-21.00.45:770][691]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.21-21.00.45:781][691]LogInit: FAudioDevice initialized.
+[2020.08.21-21.00.45:791][691]LogLoad: Game class is 'GameModeBase'
+[2020.08.21-21.00.45:792][691]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.00.45:792][691]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.00.45:793][691]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.08.21-16.00.45
+[2020.08.21-21.00.45:793][691]LogWorld: Bringing up level for play took: 0.000649
+[2020.08.21-21.00.45:793][691]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2020.08.21-21.00.45:794][691]PIE: Server logged in
+[2020.08.21-21.00.45:795][691]PIE: Play in editor total start time 0.064 seconds.
+[2020.08.21-21.00.45:795][691]PIE: Warning: Player_BP_2.Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2020.08.21-21.00.45:805][692]PIE: Warning: Player_BP_2.Sphere has to have 'CollisionEnabled' set to 'Query and Physics' or 'Physics only' if you'd like to AddForceAtLocation. 
+[2020.08.21-21.00.57:494][391]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.00.57:494][391]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.01.04:544][814]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.01.04:544][814]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.01.05:461][869]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.01.05:461][869]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.01.07:893][ 15]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.21-21.01.20:112][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-21.01.20:112][745]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-21.01.20:113][745]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-21.01.20:113][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-21.01.20:123][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-21.01.20:126][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-21.01.20:145][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-21.01.20:160][745]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022FC68ED300), frame # 207745
+[2020.08.21-21.01.20:160][745]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022FBC311000), frame # 207745
+[2020.08.21-21.01.20:162][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.08.21-21.01.20:226][746]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2020.08.21-21.01.31:948][445]LogSlate: Window 'Message Log' being destroyed
+[2020.08.21-21.01.31:951][445]LogSlate: Window 'Message Log' being destroyed
+[2020.08.21-21.02.02:631][282]BlueprintLog: New page: Compile Player_BP
+[2020.08.21-21.02.02:670][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.08.21-21.02.03:186][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.21-21.02.03:203][309]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP1DB882E846E976E234A57BB71F1F3F53.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.21-21.02.03:211][309]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.21-21.02.03:211][309]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-21.02.05:465][445]LogTemp: Repeating last play command: Simulate
+[2020.08.21-21.02.05:474][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-21.02.05:474][445]PIE: New page: SIE session: Untitled_1 (Aug 21, 2020, 11:02:05 AM)
+[2020.08.21-21.02.05:474][445]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-21.02.05:477][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002348s)
+[2020.08.21-21.02.05:478][445]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.21-21.02.05:478][445]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022F6E4EC600), frame # 210445
+[2020.08.21-21.02.05:478][445]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022FCF6D9A80), frame # 210445
+[2020.08.21-21.02.05:478][445]LogPlayLevel: PIE: World Init took: (0.001559s)
+[2020.08.21-21.02.05:478][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004043s)
+[2020.08.21-21.02.05:499][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.08.21-21.02.05:500][445]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-21.02.05:500][445]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-21.02.05:500][445]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-21.02.05:500][445]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-21.02.05:500][445]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-21.02.05:500][445]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-21.02.05:500][445]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-21.02.05:500][445]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-21.02.05:501][445]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-21.02.05:501][445]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-21.02.05:502][445]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-21.02.05:502][445]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-21.02.05:510][445]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.21-21.02.05:511][445]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.21-21.02.05:511][445]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.21-21.02.05:511][445]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.21-21.02.05:511][445]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.21-21.02.05:523][445]LogInit: FAudioDevice initialized.
+[2020.08.21-21.02.05:531][445]LogLoad: Game class is 'GameModeBase'
+[2020.08.21-21.02.05:532][445]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.02.05:532][445]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.02.05:532][445]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.08.21-16.02.05
+[2020.08.21-21.02.05:532][445]LogWorld: Bringing up level for play took: 0.000640
+[2020.08.21-21.02.05:532][445]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2020.08.21-21.02.05:534][445]PIE: Server logged in
+[2020.08.21-21.02.05:534][445]PIE: Play in editor total start time 0.06 seconds.
+[2020.08.21-21.02.07:587][568]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.21-21.02.21:874][425]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.02.21:874][425]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.02.21:875][425]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.02.21:875][425]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.02.26:091][678]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.02.26:091][678]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.02.29:607][889]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.02.29:607][889]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.02.29:607][889]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.02.29:608][889]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.02.37:726][376]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.02.37:726][376]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.02.47:160][942]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.02.47:160][942]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.02.47:161][942]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.02.47:161][942]PIE: Warning: Invalid Simulate Options: Body (Player_BP_2.Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2020.08.21-21.02.59:802][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-21.02.59:802][698]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-21.02.59:803][698]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-21.02.59:803][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-21.02.59:813][698]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-21.02.59:816][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-21.02.59:851][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-21.02.59:851][698]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022FCF6D9A80), frame # 213698
+[2020.08.21-21.02.59:851][698]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022F6E4EC600), frame # 213698
+[2020.08.21-21.02.59:853][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.08.21-21.02.59:923][699]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2020.08.21-21.03.04:510][972]LogSlate: Window 'Message Log' being destroyed
+[2020.08.21-21.03.04:513][972]LogSlate: Window 'Message Log' being destroyed
+[2020.08.21-21.03.11:258][375]BlueprintLog: New page: Compile Player_BP
+[2020.08.21-21.03.11:302][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.08.21-21.03.11:755][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.21-21.03.11:767][400]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP8DC2F87C451B5C075936C1B141F86B59.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.21-21.03.11:776][400]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.21-21.03.11:776][400]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-21.03.24:228][147]BlueprintLog: New page: Compile Player_BP
+[2020.08.21-21.03.24:267][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.08.21-21.03.24:714][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.21-21.03.24:726][171]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP77A96D104D77068196C5EC862DA275B5.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.21-21.03.24:734][171]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.21-21.03.24:734][171]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-21.03.26:773][294]LogTemp: Repeating last play command: Simulate
+[2020.08.21-21.03.26:782][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-21.03.26:782][294]PIE: New page: SIE session: Untitled_1 (Aug 21, 2020, 11:03:26 AM)
+[2020.08.21-21.03.26:782][294]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-21.03.26:785][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002677s)
+[2020.08.21-21.03.26:786][294]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.21-21.03.26:786][294]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022FC4316A00), frame # 215294
+[2020.08.21-21.03.26:786][294]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022FCFC5D080), frame # 215294
+[2020.08.21-21.03.26:787][294]LogPlayLevel: PIE: World Init took: (0.001467s)
+[2020.08.21-21.03.26:787][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004298s)
+[2020.08.21-21.03.26:808][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.08.21-21.03.26:809][294]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-21.03.26:809][294]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-21.03.26:809][294]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-21.03.26:809][294]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-21.03.26:809][294]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-21.03.26:809][294]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-21.03.26:809][294]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-21.03.26:809][294]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-21.03.26:809][294]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-21.03.26:809][294]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-21.03.26:811][294]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-21.03.26:811][294]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-21.03.26:820][294]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.21-21.03.26:820][294]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.21-21.03.26:820][294]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.21-21.03.26:820][294]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.21-21.03.26:820][294]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.21-21.03.26:832][294]LogInit: FAudioDevice initialized.
+[2020.08.21-21.03.26:840][294]LogLoad: Game class is 'GameModeBase'
+[2020.08.21-21.03.26:841][294]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.08.21-16.03.26
+[2020.08.21-21.03.26:841][294]LogWorld: Bringing up level for play took: 0.000556
+[2020.08.21-21.03.26:842][294]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2020.08.21-21.03.26:843][294]PIE: Server logged in
+[2020.08.21-21.03.26:844][294]PIE: Play in editor total start time 0.062 seconds.
+[2020.08.21-21.13.31:462][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-21.13.31:463][336]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-21.13.31:463][336]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-21.13.31:463][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-21.13.31:474][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-21.13.31:477][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-21.13.31:511][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-21.13.31:512][336]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022FCFC5D080), frame # 246336
+[2020.08.21-21.13.31:512][336]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022FC4316A00), frame # 246336
+[2020.08.21-21.13.31:514][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.08.21-21.13.31:542][337]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2020.08.21-21.13.54:567][718]BlueprintLog: New page: Compile Player_BP
+[2020.08.21-21.13.54:610][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.08.21-21.13.55:024][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.21-21.13.55:041][740]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BPBEEFC1C84A24DCCD5F1A25A878B31B7B.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.21-21.13.55:050][740]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.21-21.13.55:050][740]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-21.15.35:324][265]LogTemp: Repeating last play command: Simulate
+[2020.08.21-21.15.35:333][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-21.15.35:333][265]PIE: New page: SIE session: Untitled_1 (Aug 21, 2020, 11:15:35 AM)
+[2020.08.21-21.15.35:333][265]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-21.15.35:335][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002609s)
+[2020.08.21-21.15.35:336][265]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.21-21.15.35:336][265]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022F15852600), frame # 249265
+[2020.08.21-21.15.35:336][265]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022FBAF61A80), frame # 249265
+[2020.08.21-21.15.35:336][265]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2020.08.21-21.15.35:336][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003651s)
+[2020.08.21-21.15.35:358][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.08.21-21.15.35:361][265]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-21.15.35:361][265]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-21.15.35:361][265]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-21.15.35:361][265]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-21.15.35:361][265]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-21.15.35:361][265]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-21.15.35:361][265]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-21.15.35:361][265]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-21.15.35:362][265]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-21.15.35:362][265]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-21.15.35:363][265]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-21.15.35:363][265]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-21.15.35:372][265]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.21-21.15.35:372][265]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.21-21.15.35:372][265]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.21-21.15.35:372][265]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.21-21.15.35:373][265]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.21-21.15.35:384][265]LogInit: FAudioDevice initialized.
+[2020.08.21-21.15.35:394][265]LogLoad: Game class is 'GameModeBase'
+[2020.08.21-21.15.35:395][265]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.08.21-16.15.35
+[2020.08.21-21.15.35:395][265]LogWorld: Bringing up level for play took: 0.000677
+[2020.08.21-21.15.35:395][265]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2020.08.21-21.15.35:396][265]PIE: Server logged in
+[2020.08.21-21.15.35:397][265]PIE: Play in editor total start time 0.065 seconds.
+[2020.08.21-21.16.20:533][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-21.16.20:533][967]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-21.16.20:534][967]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-21.16.20:534][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-21.16.20:545][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-21.16.20:548][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-21.16.20:581][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-21.16.20:582][967]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022FBAF61A80), frame # 251967
+[2020.08.21-21.16.20:582][967]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022F15852600), frame # 251967
+[2020.08.21-21.16.20:583][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.08.21-21.16.20:618][968]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2020.08.21-21.16.26:853][342]BlueprintLog: New page: Compile Player_BP
+[2020.08.21-21.16.26:896][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.08.21-21.16.27:189][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.21-21.16.27:202][357]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BPFDACDB6147EB8E454E95C8868B01A2BD.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.21-21.16.27:209][357]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.21-21.16.27:209][357]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.21-21.17.51:636][808]LogTemp: Repeating last play command: Simulate
+[2020.08.21-21.17.51:644][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.21-21.17.51:644][808]PIE: New page: SIE session: Untitled_1 (Aug 21, 2020, 11:17:51 AM)
+[2020.08.21-21.17.51:644][808]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-21.17.51:647][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002501s)
+[2020.08.21-21.17.51:648][808]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.21-21.17.51:648][808]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022FC86FEC00), frame # 253808
+[2020.08.21-21.17.51:648][808]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022FC42CF880), frame # 253808
+[2020.08.21-21.17.51:648][808]LogPlayLevel: PIE: World Init took: (0.001534s)
+[2020.08.21-21.17.51:648][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004150s)
+[2020.08.21-21.17.51:670][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.08.21-21.17.51:673][808]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.21-21.17.51:673][808]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.21-21.17.51:674][808]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.21-21.17.51:674][808]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.21-21.17.51:674][808]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.21-21.17.51:674][808]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.21-21.17.51:674][808]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.21-21.17.51:674][808]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.21-21.17.51:674][808]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.21-21.17.51:674][808]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.21-21.17.51:675][808]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.21-21.17.51:675][808]LogAudioMixer: Display: 1: FrontRight
+[2020.08.21-21.17.51:684][808]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.21-21.17.51:684][808]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.21-21.17.51:684][808]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.21-21.17.51:684][808]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.21-21.17.51:684][808]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.21-21.17.51:696][808]LogInit: FAudioDevice initialized.
+[2020.08.21-21.17.51:702][808]LogLoad: Game class is 'GameModeBase'
+[2020.08.21-21.17.51:704][808]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.08.21-16.17.51
+[2020.08.21-21.17.51:704][808]LogWorld: Bringing up level for play took: 0.000669
+[2020.08.21-21.17.51:704][808]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2020.08.21-21.17.51:705][808]PIE: Server logged in
+[2020.08.21-21.17.51:706][808]PIE: Play in editor total start time 0.062 seconds.
+[2020.08.21-21.17.55:473][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-21.17.55:474][ 33]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.08.21-21.17.55:474][ 33]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.21-21.17.55:474][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-21.17.55:479][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.21-21.17.55:482][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.21-21.17.55:501][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.21-21.17.55:515][ 33]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022FC42CF880), frame # 254033
+[2020.08.21-21.17.55:515][ 33]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022FC86FEC00), frame # 254033
+[2020.08.21-21.17.55:517][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.08.21-21.17.55:568][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_59
