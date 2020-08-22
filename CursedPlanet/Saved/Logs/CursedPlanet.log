@@ -9617,3 +9617,95 @@ Script Stack (0 frames):
 [2020.08.22-19.11.57:618][989]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/MainLevelAFA064B540503088D7B77C9B4C389752.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Maps/MainLevel.umap'
 [2020.08.22-19.11.57:672][989]AssetCheck: New page: Asset Save: MainLevel
 [2020.08.22-19.11.57:672][989]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2020.08.22-19.13.37:977][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.08.22-19.13.39:307][752]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.22-19.13.40:350][752]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-19.13.40:350][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-19.13.40:792][752]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-19.13.40:792][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-19.13.40:815][752]LogUObjectGlobals: Force Deleting 15 Package(s):
+	Asset Name: /Game/Meshes/LevelMeshes/terrain_sideCornerInner.terrain_sideCornerInner
+	Asset Name: /Game/Meshes/LevelMeshes/crater.crater
+	Asset Name: /Game/Meshes/LevelMeshes/craterLarge.craterLarge
+	Asset Name: /Game/Meshes/LevelMeshes/terrain.terrain
+	Asset Name: /Game/Meshes/LevelMeshes/terrain_ramp.terrain_ramp
+	Asset Name: /Game/Meshes/LevelMeshes/terrain_rampLarge.terrain_rampLarge
+	Asset Name: /Game/Meshes/LevelMeshes/terrain_rampLarge_detailed.terrain_rampLarge_detailed
+	Asset Name: /Game/Meshes/LevelMeshes/terrain_roadCorner.terrain_roadCorner
+	Asset Name: /Game/Meshes/LevelMeshes/terrain_roadCross.terrain_roadCross
+	Asset Name: /Game/Meshes/LevelMeshes/terrain_roadEnd.terrain_roadEnd
+[2020.08.22-19.13.44:040][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.08.22-19.13.44:065][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.08.22-19.13.44:088][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.08.22-19.13.44:110][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.08.22-19.13.44:132][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.08.22-19.13.44:153][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.08.22-19.13.44:175][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.08.22-19.13.44:200][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.08.22-19.13.44:224][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.08.22-19.13.44:261][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.08.22-19.13.44:282][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.08.22-19.13.44:304][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.08.22-19.13.44:326][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.08.22-19.13.44:348][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.08.22-19.13.44:370][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.08.22-19.13.44:395][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.08.22-19.13.44:421][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.08.22-19.15.00:390][846]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.08.22-19.15.32:024][630]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.08.22-19.20.30:483][784]Cmd: TRANSACTION UNDO
+[2020.08.22-19.20.30:483][784]LogEditorTransaction: Undo Create Actors
+[2020.08.22-19.20.36:473][382]LogPhysics: Warning: Scale for /Game/Maps/MainLevel.MainLevel:PersistentLevel.RockObstacle_BP_6.Rock has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.08.22-19.20.36:473][382]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/MainLevel.MainLevel:PersistentLevel.RockObstacle_BP_6.Rock' 
+[2020.08.22-19.20.36:473][382]LogPhysics: Warning: Scale for /Game/Maps/MainLevel.MainLevel:PersistentLevel.RockObstacle_BP_6.Rock has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.08.22-19.20.36:473][382]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/MainLevel.MainLevel:PersistentLevel.RockObstacle_BP_6.Rock' 
+[2020.08.22-19.20.36:473][382]LogPhysics: Warning: Scale for /Game/Maps/MainLevel.MainLevel:PersistentLevel.RockObstacle_BP_6.Rock has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.08.22-19.20.36:473][382]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/MainLevel.MainLevel:PersistentLevel.RockObstacle_BP_6.Rock' 
+[2020.08.22-19.20.36:783][419]LogPhysics: Warning: Scale for /Game/Maps/MainLevel.MainLevel:PersistentLevel.RockObstacle_BP_6.Rock has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.08.22-19.20.36:784][419]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/MainLevel.MainLevel:PersistentLevel.RockObstacle_BP_6.Rock' 
+[2020.08.22-19.20.36:784][419]LogPhysics: Warning: Scale for /Game/Maps/MainLevel.MainLevel:PersistentLevel.RockObstacle_BP_6.Rock has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.08.22-19.20.36:784][419]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/MainLevel.MainLevel:PersistentLevel.RockObstacle_BP_6.Rock' 
+[2020.08.22-19.20.36:784][419]LogPhysics: Warning: Scale for /Game/Maps/MainLevel.MainLevel:PersistentLevel.RockObstacle_BP_6.Rock has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.08.22-19.20.36:784][419]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/MainLevel.MainLevel:PersistentLevel.RockObstacle_BP_6.Rock' 
+[2020.08.22-19.21.29:362][218]Cmd: TRANSACTION UNDO
+[2020.08.22-19.21.29:362][218]LogEditorTransaction: Undo Scale Actors
+[2020.08.22-19.21.54:407][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.22-19.21.54:438][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.08.22-19.21.54:983][115]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/MainLevel08218B194802DB372055A2AC7A3B9D24.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Maps/MainLevel.umap'
+[2020.08.22-19.21.55:018][115]AssetCheck: New page: Asset Save: MainLevel
+[2020.08.22-19.21.55:018][115]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
+[2020.08.22-19.22.06:865][502]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.08.22-19.22.30:537][280]LogActorFactory: Actor Factory created gate_complex
+[2020.08.22-19.22.32:871][554]LogActorFactory: Actor Factory created gate_complex
+[2020.08.22-19.22.39:533][306]Cmd: DELETE
+[2020.08.22-19.22.39:533][306]Cmd: ACTOR DELETE
+[2020.08.22-19.22.39:549][306]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.22-19.22.39:576][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.08.22-19.22.39:585][306]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2020.08.22-19.22.55:580][110]LogEditorViewport: Clicking on Actor (LMB): RockObstacle_BP_C (RockObstacle_BP)
+[2020.08.22-19.23.31:115][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainLevel" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.22-19.23.31:141][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.08.22-19.23.31:203][317]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.08.22-19.23.31:207][317]LogTexture: Display: Building textures: Texture2D_180 (BGRA8, 16X16)
+[2020.08.22-19.23.31:208][317]LogTexture: Display: Building textures: Texture2D_181 (BGRA8, 16X16)
+[2020.08.22-19.23.31:208][317]LogTexture: Display: Building textures: Texture2D_182 (BGRA8, 16X16)
+[2020.08.22-19.23.31:208][317]LogTexture: Display: Building textures: Texture2D_183 (BGRA8, 16X16)
+[2020.08.22-19.23.31:209][317]LogTexture: Display: Building textures: Texture2D_172 (BGRA8, 16X16)
+[2020.08.22-19.23.31:209][317]LogTexture: Display: Building textures: Texture2D_173 (BGRA8, 16X16)
+[2020.08.22-19.23.31:210][317]LogTexture: Display: Building textures: Texture2D_174 (BGRA8, 16X16)
+[2020.08.22-19.23.31:210][317]LogTexture: Display: Building textures: Texture2D_175 (BGRA8, 16X16)
+[2020.08.22-19.23.31:210][317]LogTexture: Display: Building textures: Texture2D_166 (BGRA8, 16X16)
+[2020.08.22-19.23.31:211][317]LogTexture: Display: Building textures: Texture2D_167 (BGRA8, 16X16)
+[2020.08.22-19.23.31:211][317]LogTexture: Display: Building textures: Texture2D_168 (BGRA8, 16X16)
+[2020.08.22-19.23.31:211][317]LogTexture: Display: Building textures: Texture2D_176 (BGRA8, 16X16)
+[2020.08.22-19.23.31:212][317]LogTexture: Display: Building textures: Texture2D_159 (BGRA8, 16X16)
+[2020.08.22-19.23.31:212][317]LogTexture: Display: Building textures: Texture2D_160 (BGRA8, 16X16)
+[2020.08.22-19.23.31:213][317]LogTexture: Display: Building textures: Texture2D_161 (BGRA8, 16X16)
+[2020.08.22-19.23.31:213][317]LogTexture: Display: Building textures: Texture2D_162 (BGRA8, 16X16)
+[2020.08.22-19.23.31:213][317]LogTexture: Display: Building textures: Texture2D_147 (BGRA8, 16X16)
+[2020.08.22-19.23.31:214][317]LogTexture: Display: Building textures: Texture2D_148 (BGRA8, 16X16)
+[2020.08.22-19.23.31:214][317]LogTexture: Display: Building textures: Texture2D_149 (BGRA8, 16X16)
+[2020.08.22-19.23.31:214][317]LogTexture: Display: Building textures: Texture2D_150 (BGRA8, 16X16)
+[2020.08.22-19.23.31:686][317]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/MainLevel76F75F43438B316A481B298DB7C96FC0.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Maps/MainLevel.umap'
+[2020.08.22-19.23.31:724][317]AssetCheck: New page: Asset Save: MainLevel
+[2020.08.22-19.23.31:724][317]LogContentValidation: Display: Validating World /Game/Maps/MainLevel.MainLevel
