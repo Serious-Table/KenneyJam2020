@@ -3935,3 +3935,628 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.22-03.25.30:690][889]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BPC801F8DF40D92ACCE5EEA7BD526E8B46.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
 [2020.08.22-03.25.30:700][889]AssetCheck: New page: Asset Save: Player_BP
 [2020.08.22-03.25.30:700][889]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.22-03.26.50:183][867]BlueprintLog: New page: Compile Player_BP
+[2020.08.22-03.26.50:229][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.08.22-03.26.50:573][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.22-03.26.50:599][899]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP426B1A7D400C2590EB264591CFFC8C99.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.22-03.26.50:610][899]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.22-03.26.50:610][899]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.22-03.28.26:086][725]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\GameDev\Assets\Kenney\spaceKit_2.0_patreonPreview\Models\FBX format\meteor.fbx)
+[2020.08.22-03.28.26:097][725]LogFbx: Loading FBX Scene from E:\GameDev\Assets\Kenney\spaceKit_2.0_patreonPreview\Models\FBX format\meteor.fbx
+[2020.08.22-03.28.26:103][725]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.22-03.28.28:558][725]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.08.22-03.28.28:681][725]LogMaterial: Display: Missing cached shader map for material rockTrack, compiling. 
+[2020.08.22-03.28.28:713][725]LogStaticMesh: Building static mesh meteor...
+[2020.08.22-03.28.28:720][725]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.08.22-03.28.28:720][725]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.08.22-03.28.28:720][725]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.08.22-03.28.28:720][725]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.08.22-03.28.28:720][725]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.08.22-03.28.28:720][725]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.08.22-03.28.28:720][725]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.08.22-03.28.28:720][725]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.08.22-03.28.28:720][725]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/meteor.meteor
+[2020.08.22-03.28.28:729][725]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.22-03.28.31:375][928]LogSlate: Window 'Message Log' being destroyed
+[2020.08.22-03.28.31:378][928]LogSlate: Window 'Message Log' being destroyed
+[2020.08.22-03.28.35:467][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/rockTrack" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Materials/rockTrack.uasset" SILENT=true
+[2020.08.22-03.28.35:476][372]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/rockTrackF20D50CB4DCCA8CBADACF3AEA5438275.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Materials/rockTrack.uasset'
+[2020.08.22-03.28.35:628][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.08.22-03.28.35:659][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.08.22-03.28.35:679][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.08.22-03.28.35:703][372]AssetCheck: New page: Asset Save: rockTrack
+[2020.08.22-03.28.35:703][372]LogContentValidation: Display: Validating Material /Game/Materials/rockTrack.rockTrack
+[2020.08.22-03.28.37:336][551]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/rockTrack.rockTrack
+[2020.08.22-03.28.37:337][551]LogMaterial: Display: Missing cached shader map for material rockTrack, compiling. 
+[2020.08.22-03.28.37:560][551]LogMaterial: Display: Missing cached shader map for material rockTrack, compiling. 
+[2020.08.22-03.28.37:566][551]LogMaterial: Display: Missing cached shader map for material rockTrack, compiling. 
+[2020.08.22-03.28.37:577][551]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.08.22-03.28.37:577][551]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.08.22-03.28.37:577][551]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.08.22-03.28.37:577][551]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.08.22-03.28.37:577][551]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.08.22-03.28.37:577][551]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.08.22-03.28.37:577][551]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.08.22-03.28.37:577][551]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.08.22-03.28.37:580][551]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.22-03.28.38:144][570]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.08.22-03.28.38:197][573]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.08.22-03.28.38:347][581]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.08.22-03.28.38:460][587]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.08.22-03.28.38:495][589]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2020.08.22-03.28.38:644][598]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.22-03.28.38:644][598]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.08.22-03.28.38:644][598]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.22-03.28.38:644][598]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.22-03.28.48:910][641]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.22-03.28.48:914][641]LogMaterial: Display: Missing cached shader map for material rockTrack, compiling. 
+[2020.08.22-03.28.48:919][641]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.08.22-03.28.48:919][641]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.08.22-03.28.48:919][641]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.08.22-03.28.48:919][641]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.08.22-03.28.48:953][644]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2020.08.22-03.28.48:953][644]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2020.08.22-03.28.48:953][644]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2020.08.22-03.28.48:953][644]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.08.22-03.28.49:425][668]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2020.08.22-03.28.49:483][671]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.08.22-03.28.49:504][672]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.08.22-03.28.49:561][675]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2020.08.22-03.28.49:580][676]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.08.22-03.28.50:206][716]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.22-03.28.50:206][716]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.08.22-03.28.50:206][716]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.22-03.28.50:206][716]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.22-03.28.51:724][868]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.22-03.28.51:729][868]LogMaterial: Display: Missing cached shader map for material rockTrack, compiling. 
+[2020.08.22-03.28.51:742][869]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2020.08.22-03.28.51:742][869]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2020.08.22-03.28.51:742][869]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.08.22-03.28.51:742][869]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2020.08.22-03.28.51:742][869]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2020.08.22-03.28.51:742][869]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2020.08.22-03.28.51:742][869]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2020.08.22-03.28.51:742][869]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.08.22-03.28.52:254][896]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2020.08.22-03.28.52:307][899]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.08.22-03.28.52:327][900]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.08.22-03.28.52:374][903]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2020.08.22-03.28.52:391][904]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.08.22-03.28.53:041][947]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.22-03.28.53:041][947]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.08.22-03.28.53:041][947]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.22-03.28.53:041][947]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.22-03.28.54:773][124]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.22-03.28.54:777][124]LogMaterial: Display: Missing cached shader map for material rockTrack, compiling. 
+[2020.08.22-03.28.54:782][124]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.08.22-03.28.54:782][124]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.08.22-03.28.54:782][124]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.08.22-03.28.54:782][124]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.08.22-03.28.54:810][127]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2020.08.22-03.28.54:810][127]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2020.08.22-03.28.54:810][127]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2020.08.22-03.28.54:810][127]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.08.22-03.28.55:310][153]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2020.08.22-03.28.55:329][154]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.08.22-03.28.55:401][158]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.08.22-03.28.55:401][158]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2020.08.22-03.28.55:449][161]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.08.22-03.28.56:070][203]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.22-03.28.56:070][203]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.08.22-03.28.56:070][203]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.22-03.28.56:070][203]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.22-03.28.57:585][350]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.22-03.28.57:590][350]LogMaterial: Display: Missing cached shader map for material rockTrack, compiling. 
+[2020.08.22-03.28.57:594][350]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.08.22-03.28.57:595][350]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.08.22-03.28.57:595][350]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.08.22-03.28.57:595][350]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.08.22-03.28.57:629][353]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2020.08.22-03.28.57:629][353]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2020.08.22-03.28.57:629][353]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2020.08.22-03.28.57:629][353]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.08.22-03.28.58:109][377]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2020.08.22-03.28.58:149][379]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.08.22-03.28.58:184][381]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.08.22-03.28.58:200][382]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2020.08.22-03.28.58:235][384]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.08.22-03.28.58:877][426]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.22-03.28.58:877][426]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.08.22-03.28.58:877][426]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.22-03.28.58:877][426]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.22-03.29.01:037][639]LogMaterial: Display: Missing cached shader map for material rockTrack, compiling. 
+[2020.08.22-03.29.01:049][639]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.22-03.29.01:051][639]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.08.22-03.29.01:051][639]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.08.22-03.29.01:051][639]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.08.22-03.29.01:051][639]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.08.22-03.29.01:052][639]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.08.22-03.29.01:052][639]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.08.22-03.29.01:052][639]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.08.22-03.29.01:052][639]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.08.22-03.29.01:060][639]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.22-03.29.01:065][639]LogMaterial: Display: Missing cached shader map for material rockTrack, compiling. 
+[2020.08.22-03.29.01:073][639]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.22-03.29.01:078][639]LogMaterial: Display: Missing cached shader map for material rockTrack, compiling. 
+[2020.08.22-03.29.01:093][639]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.22-03.29.01:100][639]LogMaterial: Display: Missing cached shader map for material rockTrack, compiling. 
+[2020.08.22-03.29.01:107][639]LogSlate: Window 'Color Picker' being destroyed
+[2020.08.22-03.29.01:659][665]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2020.08.22-03.29.01:698][667]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2020.08.22-03.29.01:901][679]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2020.08.22-03.29.01:956][682]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2020.08.22-03.29.01:975][683]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.08.22-03.29.02:009][685]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2020.08.22-03.29.02:025][686]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2020.08.22-03.29.02:056][688]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2020.08.22-03.29.02:155][694]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.08.22-03.29.02:289][701]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.08.22-03.29.02:485][711]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.08.22-03.29.02:542][714]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.08.22-03.29.02:561][715]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.08.22-03.29.02:857][731]LogMaterial: Display: Missing cached shader map for material rockTrack, compiling. 
+[2020.08.22-03.29.02:862][731]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.08.22-03.29.02:862][731]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2020.08.22-03.29.02:862][731]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.08.22-03.29.02:862][731]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.08.22-03.29.02:952][735]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.08.22-03.29.03:015][739]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2020.08.22-03.29.03:220][749]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.08.22-03.29.03:249][750]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.08.22-03.29.03:385][757]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2020.08.22-03.29.03:901][791]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.22-03.29.03:901][791]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.08.22-03.29.03:901][791]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.22-03.29.03:901][791]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.22-03.29.06:739][ 78]LogMaterial: Display: Missing cached shader map for material rockTrack, compiling. 
+[2020.08.22-03.29.06:764][ 79]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.08.22-03.29.06:764][ 79]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.08.22-03.29.06:764][ 79]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.08.22-03.29.06:764][ 79]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.08.22-03.29.06:764][ 79]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.08.22-03.29.06:764][ 79]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.08.22-03.29.06:764][ 79]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.08.22-03.29.06:764][ 79]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.08.22-03.29.07:283][108]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.08.22-03.29.07:710][137]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.22-03.29.07:710][137]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.08.22-03.29.07:710][137]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.22-03.29.07:710][137]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.22-03.29.07:931][160]LogMaterial: Display: Missing cached shader map for material rockTrack, compiling. 
+[2020.08.22-03.29.07:952][161]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.08.22-03.29.07:952][161]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.08.22-03.29.07:952][161]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.08.22-03.29.07:952][161]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.08.22-03.29.07:952][161]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.08.22-03.29.07:952][161]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.08.22-03.29.07:952][161]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.08.22-03.29.07:952][161]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.08.22-03.29.08:473][190]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.08.22-03.29.08:915][220]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.22-03.29.08:916][220]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.08.22-03.29.08:916][220]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.22-03.29.08:916][220]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.22-03.29.11:571][490]LogMaterial: Display: Missing cached shader map for material rockTrack, compiling. 
+[2020.08.22-03.29.11:586][491]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.08.22-03.29.11:586][491]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.08.22-03.29.11:586][491]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.08.22-03.29.11:586][491]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.08.22-03.29.11:586][491]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.08.22-03.29.11:586][491]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.08.22-03.29.11:586][491]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.08.22-03.29.11:586][491]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.08.22-03.29.12:189][525]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.08.22-03.29.12:639][554]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.22-03.29.12:639][554]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.08.22-03.29.12:640][554]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.22-03.29.12:640][554]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.22-03.29.15:254][843]LogMaterial: Display: Missing cached shader map for material rockTrack, compiling. 
+[2020.08.22-03.29.15:260][843]LogMaterial: Display: Missing cached shader map for material rockTrack, compiling. 
+[2020.08.22-03.29.15:272][844]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.08.22-03.29.15:273][844]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.08.22-03.29.15:273][844]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.08.22-03.29.15:273][844]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.08.22-03.29.15:273][844]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.08.22-03.29.15:273][844]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.08.22-03.29.15:273][844]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.08.22-03.29.15:273][844]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.08.22-03.29.15:849][878]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.08.22-03.29.16:320][910]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.22-03.29.16:320][910]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.08.22-03.29.16:320][910]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.22-03.29.16:320][910]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.22-03.29.19:400][255]LogMaterial: Display: Missing cached shader map for material rockTrack, compiling. 
+[2020.08.22-03.29.19:406][255]LogMaterial: Display: Missing cached shader map for material rockTrack, compiling. 
+[2020.08.22-03.29.19:426][257]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.08.22-03.29.19:426][257]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.08.22-03.29.19:426][257]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.08.22-03.29.19:426][257]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.08.22-03.29.19:426][257]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.08.22-03.29.19:426][257]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.08.22-03.29.19:426][257]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.08.22-03.29.19:426][257]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.08.22-03.29.19:990][290]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.08.22-03.29.20:425][322]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.08.22-03.29.20:425][322]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.08.22-03.29.20:425][322]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.22-03.29.20:425][322]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.22-03.29.23:495][663]LogMaterialEditor: Applying material rockTrack
+[2020.08.22-03.29.25:292][663]LogMaterial: Display: Missing cached shader map for material rockTrack, compiling. 
+[2020.08.22-03.29.25:311][663]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.08.22-03.29.25:311][663]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.08.22-03.29.25:311][663]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.08.22-03.29.25:311][663]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.08.22-03.29.25:311][663]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.08.22-03.29.25:311][663]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.08.22-03.29.25:311][663]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.08.22-03.29.25:311][663]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.08.22-03.29.25:333][663]LogMaterial: Display: Missing cached shader map for material rockTrack, compiling. 
+[2020.08.22-03.29.25:372][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.08.22-03.29.25:384][663]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.22-03.29.25:947][663]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2020.08.22-03.29.25:947][663]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2020.08.22-03.29.25:947][663]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2020.08.22-03.29.25:947][663]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2020.08.22-03.29.25:947][663]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2020.08.22-03.29.25:947][663]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2020.08.22-03.29.25:947][663]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.08.22-03.29.25:947][663]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.08.22-03.29.25:947][663]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2020.08.22-03.29.26:101][663]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.08.22-03.29.26:101][663]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2020.08.22-03.29.26:112][663]TextureStreamingBuild: Display: Compiling optional shaders took 0.733 seconds.
+[2020.08.22-03.29.26:143][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.08.22-03.29.26:610][686]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.08.22-03.29.26:706][692]LogSlate: Window 'rockTrack' being destroyed
+[2020.08.22-03.29.26:712][692]LogSlate: Window 'rockTrack' being destroyed
+[2020.08.22-03.29.26:738][692]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.08.22-03.29.26:741][692]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2020.08.22-03.29.26:773][692]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-03.29.26:774][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-03.29.35:465][340]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.08.22-03.29.40:039][879]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MeteorProjectile_BP.MeteorProjectile_BP
+[2020.08.22-03.30.12:924][100]BlueprintLog: New page: Compile MeteorProjectile_BP
+[2020.08.22-03.30.12:965][100]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.08.22-03.30.13:296][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MeteorProjectile_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/MeteorProjectile_BP.uasset" SILENT=true
+[2020.08.22-03.30.13:308][127]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/MeteorProjectile_BP2BAB79D14A3D23A584F756A8EC9D1114.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/MeteorProjectile_BP.uasset'
+[2020.08.22-03.30.13:319][127]AssetCheck: New page: Asset Save: MeteorProjectile_BP
+[2020.08.22-03.30.13:319][127]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MeteorProjectile_BP.MeteorProjectile_BP
+[2020.08.22-03.30.14:713][261]LogSlate: Window 'MeteorProjectile_BP' being destroyed
+[2020.08.22-03.30.16:504][469]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/meteor.meteor
+[2020.08.22-03.30.16:651][469]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-03.30.16:651][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-03.30.17:055][470]LogRenderer: Reallocating scene render targets to support 1432x932 Format 10 NumSamples 1 (Frame:1).
+[2020.08.22-03.30.33:008][378]LogEditorFactories: Performing atomic reimport of [E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/meteor.fbx]
+[2020.08.22-03.30.33:034][378]LogFbx: Loading FBX Scene from E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/meteor.fbx
+[2020.08.22-03.30.33:039][378]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.22-03.30.33:056][378]LogStaticMesh: Building static mesh meteor...
+[2020.08.22-03.30.33:061][378]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/meteor.meteor
+[2020.08.22-03.30.33:072][378]LogEditorFactories: -- imported successfully
+[2020.08.22-03.30.33:074][378]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.22-03.30.39:494][ 81]LogEditorFactories: Performing atomic reimport of [E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/meteor.fbx]
+[2020.08.22-03.30.39:520][ 81]LogFbx: Loading FBX Scene from E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/meteor.fbx
+[2020.08.22-03.30.39:526][ 81]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.22-03.30.39:542][ 81]LogStaticMesh: Building static mesh meteor...
+[2020.08.22-03.30.39:547][ 81]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/meteor.meteor
+[2020.08.22-03.30.39:556][ 81]LogEditorFactories: -- imported successfully
+[2020.08.22-03.30.39:558][ 81]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.22-03.30.47:456][989]LogEditorFactories: Performing atomic reimport of [E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/meteor.fbx]
+[2020.08.22-03.30.47:480][989]LogFbx: Loading FBX Scene from E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/meteor.fbx
+[2020.08.22-03.30.47:485][989]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.22-03.30.47:501][989]LogStaticMesh: Building static mesh meteor...
+[2020.08.22-03.30.47:506][989]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/meteor.meteor
+[2020.08.22-03.30.47:515][989]LogEditorFactories: -- imported successfully
+[2020.08.22-03.30.47:517][989]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.22-03.31.10:697][696]LogEditorFactories: Performing atomic reimport of [E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/meteor.fbx]
+[2020.08.22-03.31.10:721][696]LogFbx: Loading FBX Scene from E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/meteor.fbx
+[2020.08.22-03.31.10:727][696]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.22-03.31.10:737][696]LogStaticMesh: Building static mesh meteor...
+[2020.08.22-03.31.10:742][696]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/meteor.meteor
+[2020.08.22-03.31.10:751][696]LogEditorFactories: -- imported successfully
+[2020.08.22-03.31.10:753][696]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.22-03.31.16:882][371]LogEditorFactories: Performing atomic reimport of [E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/meteor.fbx]
+[2020.08.22-03.31.16:901][371]LogFbx: Loading FBX Scene from E:/GameDev/Assets/Kenney/spaceKit_2.0_patreonPreview/Models/FBX format/meteor.fbx
+[2020.08.22-03.31.16:907][371]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.22-03.31.16:917][371]LogStaticMesh: Building static mesh meteor...
+[2020.08.22-03.31.16:922][371]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/meteor.meteor
+[2020.08.22-03.31.16:931][371]LogEditorFactories: -- imported successfully
+[2020.08.22-03.31.16:933][371]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.22-03.31.19:260][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/meteor" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Meshes/meteor.uasset" SILENT=true
+[2020.08.22-03.31.19:270][613]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/meteorAC90B2E14E5C2940274D27B113E98EFE.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Meshes/meteor.uasset'
+[2020.08.22-03.31.19:282][613]AssetCheck: New page: Asset Save: meteor
+[2020.08.22-03.31.19:282][613]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/meteor.meteor
+[2020.08.22-03.31.20:428][739]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-03.31.20:428][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-03.31.45:099][657]BlueprintLog: New page: Compile MeteorProjectile_BP
+[2020.08.22-03.31.45:182][657]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.08.22-03.31.45:623][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MeteorProjectile_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/MeteorProjectile_BP.uasset" SILENT=true
+[2020.08.22-03.31.45:639][702]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/MeteorProjectile_BPB37645A84CAFA28AC81B4BAA45AA556F.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/MeteorProjectile_BP.uasset'
+[2020.08.22-03.31.45:649][702]AssetCheck: New page: Asset Save: MeteorProjectile_BP
+[2020.08.22-03.31.45:649][702]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MeteorProjectile_BP.MeteorProjectile_BP
+[2020.08.22-03.32.45:228][802]BlueprintLog: New page: Compile MeteorProjectile_BP
+[2020.08.22-03.32.45:275][802]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.08.22-03.32.45:719][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MeteorProjectile_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/MeteorProjectile_BP.uasset" SILENT=true
+[2020.08.22-03.32.45:731][851]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/MeteorProjectile_BPAC1BF2B9448A98DD8ECCAA83A97F3541.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/MeteorProjectile_BP.uasset'
+[2020.08.22-03.32.45:742][851]AssetCheck: New page: Asset Save: MeteorProjectile_BP
+[2020.08.22-03.32.45:742][851]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MeteorProjectile_BP.MeteorProjectile_BP
+[2020.08.22-03.33.09:841][706]BlueprintLog: New page: Compile Player_BP
+[2020.08.22-03.33.09:897][706]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.08.22-03.33.10:337][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.22-03.33.10:366][750]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP5535978741096353DB69C389237315F3.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.22-03.33.10:377][750]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.22-03.33.10:377][750]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.22-03.34.12:539][ 30]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.22-03.35.05:727][234]BlueprintLog: New page: Compile Player_BP
+[2020.08.22-03.35.05:785][234]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.08.22-03.35.06:971][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.22-03.35.06:997][366]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP37435AAD4BD348D6689D2C953DD326BE.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.22-03.35.07:009][366]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.22-03.35.07:009][366]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.22-03.35.12:544][ 19]BlueprintLog: New page: Compile Player_BP
+[2020.08.22-03.35.12:601][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.08.22-03.35.12:977][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.22-03.35.13:003][ 53]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BPA2784DAA49597D7B897B99BA4AF36DE0.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.22-03.35.13:016][ 53]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.22-03.35.13:016][ 53]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.22-03.35.14:115][179]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.22-03.35.14:126][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.22-03.35.14:126][179]PIE: New page: PIE session: TestMap (Aug 21, 2020, 5:35:14 PM)
+[2020.08.22-03.35.14:158][179]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.08.22-03.35.14:163][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005377s)
+[2020.08.22-03.35.14:164][179]LogAIModule: Creating AISystem for world TestMap
+[2020.08.22-03.35.14:164][179]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C6A2CABC00), frame # 607179
+[2020.08.22-03.35.14:164][179]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C6B6BC6200), frame # 607179
+[2020.08.22-03.35.14:164][179]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2020.08.22-03.35.14:164][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.006367s)
+[2020.08.22-03.35.14:194][179]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.08.22-03.35.14:195][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.22-03.35.14:195][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.22-03.35.14:195][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.22-03.35.14:195][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.22-03.35.14:195][179]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.22-03.35.14:195][179]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.22-03.35.14:195][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.22-03.35.14:195][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.22-03.35.14:196][179]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.22-03.35.14:196][179]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.22-03.35.14:197][179]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.22-03.35.14:197][179]LogAudioMixer: Display: 1: FrontRight
+[2020.08.22-03.35.14:207][179]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.22-03.35.14:207][179]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.22-03.35.14:207][179]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.22-03.35.14:207][179]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.22-03.35.14:208][179]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.22-03.35.14:218][179]LogInit: FAudioDevice initialized.
+[2020.08.22-03.35.14:223][179]LogLoad: Game class is 'TestGameMode_C'
+[2020.08.22-03.35.14:224][179]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.08.21-22.35.14
+[2020.08.22-03.35.14:224][179]LogWorld: Bringing up level for play took: 0.000811
+[2020.08.22-03.35.14:224][179]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2020.08.22-03.35.14:226][179]PIE: Server logged in
+[2020.08.22-03.35.14:227][179]PIE: Play in editor total start time 0.1 seconds.
+[2020.08.22-03.35.19:169][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-03.35.19:169][767]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2020.08.22-03.35.19:169][767]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-03.35.19:170][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-03.35.19:176][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.22-03.35.19:181][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-03.35.19:218][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-03.35.19:218][767]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C6B6BC6200), frame # 607767
+[2020.08.22-03.35.19:218][767]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C6A2CABC00), frame # 607767
+[2020.08.22-03.35.19:221][767]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.08.22-03.35.19:248][768]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2020.08.22-03.35.25:565][504]BlueprintLog: New page: Compile Player_BP
+[2020.08.22-03.35.25:619][504]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.08.22-03.35.25:958][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.22-03.35.25:984][534]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BPE9AF4F234778855FD5EACA9C60BE9DE6.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.22-03.35.25:998][534]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.22-03.35.25:998][534]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.22-03.35.27:228][676]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.22-03.35.27:240][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.22-03.35.27:240][676]PIE: New page: PIE session: TestMap (Aug 21, 2020, 5:35:27 PM)
+[2020.08.22-03.35.27:240][676]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.08.22-03.35.27:246][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005619s)
+[2020.08.22-03.35.27:246][676]LogAIModule: Creating AISystem for world TestMap
+[2020.08.22-03.35.27:246][676]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C71AE4C200), frame # 608676
+[2020.08.22-03.35.27:247][676]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C721DC4400), frame # 608676
+[2020.08.22-03.35.27:247][676]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2020.08.22-03.35.27:247][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.006595s)
+[2020.08.22-03.35.27:275][676]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.08.22-03.35.27:275][676]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.22-03.35.27:276][676]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.22-03.35.27:276][676]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.22-03.35.27:276][676]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.22-03.35.27:276][676]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.22-03.35.27:276][676]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.22-03.35.27:276][676]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.22-03.35.27:276][676]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.22-03.35.27:276][676]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.22-03.35.27:276][676]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.22-03.35.27:277][676]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.22-03.35.27:277][676]LogAudioMixer: Display: 1: FrontRight
+[2020.08.22-03.35.27:286][676]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.22-03.35.27:286][676]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.22-03.35.27:286][676]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.22-03.35.27:286][676]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.22-03.35.27:286][676]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.22-03.35.27:296][676]LogInit: FAudioDevice initialized.
+[2020.08.22-03.35.27:301][676]LogLoad: Game class is 'TestGameMode_C'
+[2020.08.22-03.35.27:301][676]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.08.21-22.35.27
+[2020.08.22-03.35.27:302][676]LogWorld: Bringing up level for play took: 0.000684
+[2020.08.22-03.35.27:302][676]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2020.08.22-03.35.27:303][676]PIE: Server logged in
+[2020.08.22-03.35.27:304][676]PIE: Play in editor total start time 0.065 seconds.
+[2020.08.22-03.35.39:238][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-03.35.39:238][104]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2020.08.22-03.35.39:238][104]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-03.35.39:239][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-03.35.39:246][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.22-03.35.39:251][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-03.35.39:289][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-03.35.39:289][104]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C721DC4400), frame # 610104
+[2020.08.22-03.35.39:290][104]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C71AE4C200), frame # 610104
+[2020.08.22-03.35.39:292][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.08.22-03.35.39:326][105]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2020.08.22-03.35.57:894][292]BlueprintLog: New page: Compile Player_BP
+[2020.08.22-03.35.57:949][292]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.08.22-03.35.58:473][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.22-03.35.58:499][346]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BPF0A770D74A9050217E160E8CA9843A11.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.22-03.35.58:509][346]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.22-03.35.58:509][346]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.22-03.36.00:339][562]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.22-03.36.00:350][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.22-03.36.00:350][562]PIE: New page: PIE session: TestMap (Aug 21, 2020, 5:36:00 PM)
+[2020.08.22-03.36.00:350][562]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.08.22-03.36.00:356][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005964s)
+[2020.08.22-03.36.00:357][562]LogAIModule: Creating AISystem for world TestMap
+[2020.08.22-03.36.00:357][562]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C6E9496400), frame # 612562
+[2020.08.22-03.36.00:357][562]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C6B69BC680), frame # 612562
+[2020.08.22-03.36.00:357][562]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2020.08.22-03.36.00:357][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.006899s)
+[2020.08.22-03.36.00:385][562]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.08.22-03.36.00:387][562]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.22-03.36.00:387][562]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.22-03.36.00:387][562]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.22-03.36.00:387][562]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.22-03.36.00:387][562]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.22-03.36.00:387][562]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.22-03.36.00:387][562]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.22-03.36.00:387][562]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.22-03.36.00:387][562]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.22-03.36.00:387][562]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.22-03.36.00:389][562]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.22-03.36.00:389][562]LogAudioMixer: Display: 1: FrontRight
+[2020.08.22-03.36.00:396][562]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.22-03.36.00:396][562]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.22-03.36.00:396][562]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.22-03.36.00:396][562]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.22-03.36.00:397][562]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.22-03.36.00:406][562]LogInit: FAudioDevice initialized.
+[2020.08.22-03.36.00:411][562]LogLoad: Game class is 'TestGameMode_C'
+[2020.08.22-03.36.00:412][562]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.08.21-22.36.00
+[2020.08.22-03.36.00:412][562]LogWorld: Bringing up level for play took: 0.000673
+[2020.08.22-03.36.00:412][562]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2020.08.22-03.36.00:415][562]PIE: Server logged in
+[2020.08.22-03.36.00:415][562]PIE: Play in editor total start time 0.065 seconds.
+[2020.08.22-03.36.08:128][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-03.36.08:128][484]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2020.08.22-03.36.08:128][484]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-03.36.08:129][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-03.36.08:138][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.22-03.36.08:143][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-03.36.08:178][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-03.36.08:179][484]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C6B69BC680), frame # 613484
+[2020.08.22-03.36.08:179][484]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C6E9496400), frame # 613484
+[2020.08.22-03.36.08:182][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.08.22-03.36.08:211][485]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2020.08.22-03.36.22:858][230]BlueprintLog: New page: Compile MeteorProjectile_BP
+[2020.08.22-03.36.22:904][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.08.22-03.36.23:237][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MeteorProjectile_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/MeteorProjectile_BP.uasset" SILENT=true
+[2020.08.22-03.36.23:250][261]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/MeteorProjectile_BP9F52D3464A4BF7BFF25C9F933C61D909.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/MeteorProjectile_BP.uasset'
+[2020.08.22-03.36.23:259][261]AssetCheck: New page: Asset Save: MeteorProjectile_BP
+[2020.08.22-03.36.23:259][261]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MeteorProjectile_BP.MeteorProjectile_BP
+[2020.08.22-03.36.24:418][396]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.22-03.36.24:431][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.22-03.36.24:431][396]PIE: New page: PIE session: TestMap (Aug 21, 2020, 5:36:24 PM)
+[2020.08.22-03.36.24:458][396]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.08.22-03.36.24:463][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005509s)
+[2020.08.22-03.36.24:464][396]LogAIModule: Creating AISystem for world TestMap
+[2020.08.22-03.36.24:464][396]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C71E0A0600), frame # 615396
+[2020.08.22-03.36.24:464][396]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C6C5AA3100), frame # 615396
+[2020.08.22-03.36.24:464][396]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2020.08.22-03.36.24:464][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.006461s)
+[2020.08.22-03.36.24:493][396]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.08.22-03.36.24:494][396]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.22-03.36.24:494][396]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.22-03.36.24:494][396]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.22-03.36.24:494][396]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.22-03.36.24:494][396]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.22-03.36.24:494][396]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.22-03.36.24:494][396]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.22-03.36.24:494][396]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.22-03.36.24:494][396]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.22-03.36.24:494][396]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.22-03.36.24:495][396]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.22-03.36.24:495][396]LogAudioMixer: Display: 1: FrontRight
+[2020.08.22-03.36.24:503][396]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.22-03.36.24:504][396]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.22-03.36.24:504][396]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.22-03.36.24:504][396]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.22-03.36.24:504][396]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.22-03.36.24:514][396]LogInit: FAudioDevice initialized.
+[2020.08.22-03.36.24:521][396]LogLoad: Game class is 'TestGameMode_C'
+[2020.08.22-03.36.24:522][396]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.08.21-22.36.24
+[2020.08.22-03.36.24:522][396]LogWorld: Bringing up level for play took: 0.000719
+[2020.08.22-03.36.24:522][396]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2020.08.22-03.36.24:524][396]PIE: Server logged in
+[2020.08.22-03.36.24:524][396]PIE: Play in editor total start time 0.095 seconds.
+[2020.08.22-03.36.31:938][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-03.36.31:938][280]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2020.08.22-03.36.31:939][280]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-03.36.31:939][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-03.36.31:944][280]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.22-03.36.31:949][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-03.36.31:986][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-03.36.31:987][280]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C6C5AA3100), frame # 616280
+[2020.08.22-03.36.31:987][280]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C71E0A0600), frame # 616280
+[2020.08.22-03.36.31:990][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.08.22-03.36.32:019][281]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2020.08.22-03.37.27:513][792]BlueprintLog: New page: Compile MeteorProjectile_BP
+[2020.08.22-03.37.27:560][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.08.22-03.37.28:222][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MeteorProjectile_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/MeteorProjectile_BP.uasset" SILENT=true
+[2020.08.22-03.37.28:239][866]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/MeteorProjectile_BP46192DD24ED647C7D8CEDAAB69663BBD.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/MeteorProjectile_BP.uasset'
+[2020.08.22-03.37.28:251][866]AssetCheck: New page: Asset Save: MeteorProjectile_BP
+[2020.08.22-03.37.28:251][866]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MeteorProjectile_BP.MeteorProjectile_BP
+[2020.08.22-03.37.29:434][  5]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.22-03.37.29:447][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.22-03.37.29:447][  5]PIE: New page: PIE session: TestMap (Aug 21, 2020, 5:37:29 PM)
+[2020.08.22-03.37.29:478][  5]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.08.22-03.37.29:483][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005481s)
+[2020.08.22-03.37.29:484][  5]LogAIModule: Creating AISystem for world TestMap
+[2020.08.22-03.37.29:484][  5]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002C70AD66600), frame # 623005
+[2020.08.22-03.37.29:484][  5]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002C72BC107C0), frame # 623005
+[2020.08.22-03.37.29:484][  5]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2020.08.22-03.37.29:484][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.006428s)
+[2020.08.22-03.37.29:513][  5]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.08.22-03.37.29:514][  5]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.22-03.37.29:514][  5]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.22-03.37.29:514][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.22-03.37.29:514][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.22-03.37.29:514][  5]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.22-03.37.29:514][  5]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.22-03.37.29:514][  5]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.22-03.37.29:514][  5]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.22-03.37.29:514][  5]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.22-03.37.29:514][  5]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.22-03.37.29:516][  5]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.22-03.37.29:516][  5]LogAudioMixer: Display: 1: FrontRight
+[2020.08.22-03.37.29:526][  5]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.22-03.37.29:526][  5]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.22-03.37.29:526][  5]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.22-03.37.29:526][  5]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.22-03.37.29:526][  5]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.22-03.37.29:536][  5]LogInit: FAudioDevice initialized.
+[2020.08.22-03.37.29:544][  5]LogLoad: Game class is 'TestGameMode_C'
+[2020.08.22-03.37.29:545][  5]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.08.21-22.37.29
+[2020.08.22-03.37.29:545][  5]LogWorld: Bringing up level for play took: 0.000672
+[2020.08.22-03.37.29:546][  5]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2020.08.22-03.37.29:547][  5]PIE: Server logged in
+[2020.08.22-03.37.29:548][  5]PIE: Play in editor total start time 0.101 seconds.
+[2020.08.22-03.37.55:628][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-03.37.55:628][127]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2020.08.22-03.37.55:628][127]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-03.37.55:628][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-03.37.55:635][127]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.22-03.37.55:640][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-03.37.55:676][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-03.37.55:677][127]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002C72BC107C0), frame # 626127
+[2020.08.22-03.37.55:677][127]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002C70AD66600), frame # 626127
+[2020.08.22-03.37.55:680][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.08.22-03.37.55:709][128]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2020.08.22-03.37.57:031][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Maps/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.22-03.37.57:058][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.08.22-03.37.57:079][283]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/TestMapDA65302C41422BA958BD8C9A771DD900.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Maps/TestMap.umap'
+[2020.08.22-03.37.57:105][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap_BuiltData" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Maps/TestMap_BuiltData.uasset" SILENT=true
+[2020.08.22-03.37.57:119][283]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/TestMap_BuiltData06D9104C4B081CF677189BAEE6A826C2.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Maps/TestMap_BuiltData.uasset'
+[2020.08.22-03.37.57:134][283]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.22-03.37.57:134][283]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2020.08.22-03.37.57:134][283]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/TestMap_BuiltData.TestMap_BuiltData
