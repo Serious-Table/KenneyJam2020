@@ -5343,3 +5343,846 @@ Script Stack (0 frames):
 [2020.08.22-16.06.45:895][486]AssetCheck: New page: Asset Save: multiple assets
 [2020.08.22-16.06.45:895][486]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
 [2020.08.22-16.06.45:895][486]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/TestMap_BuiltData.TestMap_BuiltData
+[2020.08.22-16.07.41:347][900]BlueprintLog: New page: Compile Player_BP
+[2020.08.22-16.07.41:430][900]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.08.22-16.07.41:757][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.22-16.07.41:805][926]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP0F552ABC4803892C8C23C7B3D66074D1.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.22-16.07.41:817][926]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.22-16.07.41:817][926]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.22-16.07.42:987][ 60]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.22-16.07.43:002][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.22-16.07.43:002][ 60]PIE: New page: PIE session: TestMap (Aug 22, 2020, 6:07:43 AM)
+[2020.08.22-16.07.43:024][ 60]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.08.22-16.07.43:030][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005922s)
+[2020.08.22-16.07.43:031][ 60]LogAIModule: Creating AISystem for world TestMap
+[2020.08.22-16.07.43:031][ 60]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E00178B000), frame # 762060
+[2020.08.22-16.07.43:031][ 60]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E01F302AC0), frame # 762060
+[2020.08.22-16.07.43:031][ 60]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2020.08.22-16.07.43:031][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.006902s)
+[2020.08.22-16.07.43:063][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.08.22-16.07.43:064][ 60]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.22-16.07.43:064][ 60]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.22-16.07.43:064][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.22-16.07.43:064][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.22-16.07.43:064][ 60]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.22-16.07.43:064][ 60]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.22-16.07.43:064][ 60]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.22-16.07.43:064][ 60]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.22-16.07.43:064][ 60]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.22-16.07.43:064][ 60]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.22-16.07.43:066][ 60]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.22-16.07.43:066][ 60]LogAudioMixer: Display: 1: FrontRight
+[2020.08.22-16.07.43:075][ 60]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.22-16.07.43:075][ 60]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.22-16.07.43:075][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.22-16.07.43:075][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.22-16.07.43:076][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.22-16.07.43:086][ 60]LogInit: FAudioDevice initialized.
+[2020.08.22-16.07.43:095][ 60]LogLoad: Game class is 'TestGameMode_C'
+[2020.08.22-16.07.43:096][ 60]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.08.22-11.07.43
+[2020.08.22-16.07.43:096][ 60]LogWorld: Bringing up level for play took: 0.000831
+[2020.08.22-16.07.43:096][ 60]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2020.08.22-16.07.43:098][ 60]PIE: Server logged in
+[2020.08.22-16.07.43:099][ 60]PIE: Play in editor total start time 0.099 seconds.
+[2020.08.22-16.07.44:583][235]LogBlueprintUserMessages: [Player_BP_C_0] 1.016667
+[2020.08.22-16.07.44:583][235]LogBlueprintUserMessages: [Player_BP_C_0] 1.033195
+[2020.08.22-16.07.44:592][236]LogBlueprintUserMessages: [Player_BP_C_0] 1.049585
+[2020.08.22-16.07.44:592][236]LogBlueprintUserMessages: [Player_BP_C_0] 1.065838
+[2020.08.22-16.07.44:600][237]LogBlueprintUserMessages: [Player_BP_C_0] 1.081957
+[2020.08.22-16.07.44:600][237]LogBlueprintUserMessages: [Player_BP_C_0] 1.09794
+[2020.08.22-16.07.44:608][238]LogBlueprintUserMessages: [Player_BP_C_0] 1.11381
+[2020.08.22-16.07.44:608][238]LogBlueprintUserMessages: [Player_BP_C_0] 1.129548
+[2020.08.22-16.07.44:616][239]LogBlueprintUserMessages: [Player_BP_C_0] 1.145135
+[2020.08.22-16.07.44:617][239]LogBlueprintUserMessages: [Player_BP_C_0] 1.160593
+[2020.08.22-16.07.44:625][240]LogBlueprintUserMessages: [Player_BP_C_0] 1.175921
+[2020.08.22-16.07.44:625][240]LogBlueprintUserMessages: [Player_BP_C_0] 1.191122
+[2020.08.22-16.07.44:633][241]LogBlueprintUserMessages: [Player_BP_C_0] 1.206196
+[2020.08.22-16.07.44:633][241]LogBlueprintUserMessages: [Player_BP_C_0] 1.221145
+[2020.08.22-16.07.44:642][242]LogBlueprintUserMessages: [Player_BP_C_0] 1.235969
+[2020.08.22-16.07.44:642][242]LogBlueprintUserMessages: [Player_BP_C_0] 1.250669
+[2020.08.22-16.07.44:650][243]LogBlueprintUserMessages: [Player_BP_C_0] 1.265247
+[2020.08.22-16.07.44:650][243]LogBlueprintUserMessages: [Player_BP_C_0] 1.279703
+[2020.08.22-16.07.44:657][244]LogBlueprintUserMessages: [Player_BP_C_0] 1.294039
+[2020.08.22-16.07.44:657][244]LogBlueprintUserMessages: [Player_BP_C_0] 1.308256
+[2020.08.22-16.07.44:666][245]LogBlueprintUserMessages: [Player_BP_C_0] 1.322354
+[2020.08.22-16.07.44:666][245]LogBlueprintUserMessages: [Player_BP_C_0] 1.336335
+[2020.08.22-16.07.44:674][246]LogBlueprintUserMessages: [Player_BP_C_0] 1.350199
+[2020.08.22-16.07.44:674][246]LogBlueprintUserMessages: [Player_BP_C_0] 1.363947
+[2020.08.22-16.07.44:683][247]LogBlueprintUserMessages: [Player_BP_C_0] 1.377581
+[2020.08.22-16.07.44:683][247]LogBlueprintUserMessages: [Player_BP_C_0] 1.391101
+[2020.08.22-16.07.44:691][248]LogBlueprintUserMessages: [Player_BP_C_0] 1.404509
+[2020.08.22-16.07.44:691][248]LogBlueprintUserMessages: [Player_BP_C_0] 1.417805
+[2020.08.22-16.07.44:699][249]LogBlueprintUserMessages: [Player_BP_C_0] 1.43099
+[2020.08.22-16.07.44:699][249]LogBlueprintUserMessages: [Player_BP_C_0] 1.444065
+[2020.08.22-16.07.44:708][250]LogBlueprintUserMessages: [Player_BP_C_0] 1.457032
+[2020.08.22-16.07.44:708][250]LogBlueprintUserMessages: [Player_BP_C_0] 1.46989
+[2020.08.22-16.07.44:716][251]LogBlueprintUserMessages: [Player_BP_C_0] 1.482641
+[2020.08.22-16.07.44:716][251]LogBlueprintUserMessages: [Player_BP_C_0] 1.495286
+[2020.08.22-16.07.44:725][252]LogBlueprintUserMessages: [Player_BP_C_0] 1.507834
+[2020.08.22-16.07.44:725][252]LogBlueprintUserMessages: [Player_BP_C_0] 1.520277
+[2020.08.22-16.07.44:733][253]LogBlueprintUserMessages: [Player_BP_C_0] 1.532608
+[2020.08.22-16.07.44:733][253]LogBlueprintUserMessages: [Player_BP_C_0] 1.544837
+[2020.08.22-16.07.44:741][254]LogBlueprintUserMessages: [Player_BP_C_0] 1.556963
+[2020.08.22-16.07.44:741][254]LogBlueprintUserMessages: [Player_BP_C_0] 1.568989
+[2020.08.22-16.07.44:750][255]LogBlueprintUserMessages: [Player_BP_C_0] 1.580914
+[2020.08.22-16.07.44:750][255]LogBlueprintUserMessages: [Player_BP_C_0] 1.59274
+[2020.08.22-16.07.44:758][256]LogBlueprintUserMessages: [Player_BP_C_0] 1.604467
+[2020.08.22-16.07.44:758][256]LogBlueprintUserMessages: [Player_BP_C_0] 1.616096
+[2020.08.22-16.07.44:767][257]LogBlueprintUserMessages: [Player_BP_C_0] 1.627629
+[2020.08.22-16.07.44:767][257]LogBlueprintUserMessages: [Player_BP_C_0] 1.639066
+[2020.08.22-16.07.44:775][258]LogBlueprintUserMessages: [Player_BP_C_0] 1.650407
+[2020.08.22-16.07.44:775][258]LogBlueprintUserMessages: [Player_BP_C_0] 1.661654
+[2020.08.22-16.07.44:783][259]LogBlueprintUserMessages: [Player_BP_C_0] 1.672807
+[2020.08.22-16.07.44:783][259]LogBlueprintUserMessages: [Player_BP_C_0] 1.683867
+[2020.08.22-16.07.44:791][260]LogBlueprintUserMessages: [Player_BP_C_0] 1.694834
+[2020.08.22-16.07.44:792][260]LogBlueprintUserMessages: [Player_BP_C_0] 1.705711
+[2020.08.22-16.07.44:800][261]LogBlueprintUserMessages: [Player_BP_C_0] 1.716497
+[2020.08.22-16.07.44:800][261]LogBlueprintUserMessages: [Player_BP_C_0] 1.727193
+[2020.08.22-16.07.44:808][262]LogBlueprintUserMessages: [Player_BP_C_0] 1.737799
+[2020.08.22-16.07.44:808][262]LogBlueprintUserMessages: [Player_BP_C_0] 1.748318
+[2020.08.22-16.07.44:816][263]LogBlueprintUserMessages: [Player_BP_C_0] 1.758749
+[2020.08.22-16.07.44:816][263]LogBlueprintUserMessages: [Player_BP_C_0] 1.769092
+[2020.08.22-16.07.44:824][264]LogBlueprintUserMessages: [Player_BP_C_0] 1.77935
+[2020.08.22-16.07.44:824][264]LogBlueprintUserMessages: [Player_BP_C_0] 1.789522
+[2020.08.22-16.07.44:833][265]LogBlueprintUserMessages: [Player_BP_C_0] 1.799609
+[2020.08.22-16.07.44:833][265]LogBlueprintUserMessages: [Player_BP_C_0] 1.809613
+[2020.08.22-16.07.44:841][266]LogBlueprintUserMessages: [Player_BP_C_0] 1.819533
+[2020.08.22-16.07.44:841][266]LogBlueprintUserMessages: [Player_BP_C_0] 1.82937
+[2020.08.22-16.07.44:849][267]LogBlueprintUserMessages: [Player_BP_C_0] 1.839145
+[2020.08.22-16.07.44:850][267]LogBlueprintUserMessages: [Player_BP_C_0] 1.848837
+[2020.08.22-16.07.44:858][268]LogBlueprintUserMessages: [Player_BP_C_0] 1.858431
+[2020.08.22-16.07.44:858][268]LogBlueprintUserMessages: [Player_BP_C_0] 1.867944
+[2020.08.22-16.07.44:866][269]LogBlueprintUserMessages: [Player_BP_C_0] 1.877378
+[2020.08.22-16.07.44:866][269]LogBlueprintUserMessages: [Player_BP_C_0] 1.886733
+[2020.08.22-16.07.44:874][270]LogBlueprintUserMessages: [Player_BP_C_0] 1.896011
+[2020.08.22-16.07.44:874][270]LogBlueprintUserMessages: [Player_BP_C_0] 1.90521
+[2020.08.22-16.07.44:883][271]LogBlueprintUserMessages: [Player_BP_C_0] 1.914334
+[2020.08.22-16.07.44:883][271]LogBlueprintUserMessages: [Player_BP_C_0] 1.923381
+[2020.08.22-16.07.44:891][272]LogBlueprintUserMessages: [Player_BP_C_0] 1.932353
+[2020.08.22-16.07.44:891][272]LogBlueprintUserMessages: [Player_BP_C_0] 1.94125
+[2020.08.22-16.07.44:899][273]LogBlueprintUserMessages: [Player_BP_C_0] 1.950073
+[2020.08.22-16.07.44:899][273]LogBlueprintUserMessages: [Player_BP_C_0] 1.958823
+[2020.08.22-16.07.44:908][274]LogBlueprintUserMessages: [Player_BP_C_0] 1.967499
+[2020.08.22-16.07.44:908][274]LogBlueprintUserMessages: [Player_BP_C_0] 1.976104
+[2020.08.22-16.07.44:916][275]LogBlueprintUserMessages: [Player_BP_C_0] 1.984636
+[2020.08.22-16.07.44:916][275]LogBlueprintUserMessages: [Player_BP_C_0] 1.993098
+[2020.08.22-16.07.44:925][276]LogBlueprintUserMessages: [Player_BP_C_0] 2.001488
+[2020.08.22-16.07.44:925][276]LogBlueprintUserMessages: [Player_BP_C_0] 2.009809
+[2020.08.22-16.07.44:933][277]LogBlueprintUserMessages: [Player_BP_C_0] 2.018061
+[2020.08.22-16.07.44:933][277]LogBlueprintUserMessages: [Player_BP_C_0] 2.026244
+[2020.08.22-16.07.44:941][278]LogBlueprintUserMessages: [Player_BP_C_0] 2.034359
+[2020.08.22-16.07.44:941][278]LogBlueprintUserMessages: [Player_BP_C_0] 2.042406
+[2020.08.22-16.07.44:949][279]LogBlueprintUserMessages: [Player_BP_C_0] 2.050386
+[2020.08.22-16.07.44:949][279]LogBlueprintUserMessages: [Player_BP_C_0] 2.0583
+[2020.08.22-16.07.44:958][280]LogBlueprintUserMessages: [Player_BP_C_0] 2.066147
+[2020.08.22-16.07.44:958][280]LogBlueprintUserMessages: [Player_BP_C_0] 2.07393
+[2020.08.22-16.07.44:966][281]LogBlueprintUserMessages: [Player_BP_C_0] 2.08166
+[2020.08.22-16.07.44:966][281]LogBlueprintUserMessages: [Player_BP_C_0] 2.089325
+[2020.08.22-16.07.44:975][282]LogBlueprintUserMessages: [Player_BP_C_0] 2.096914
+[2020.08.22-16.07.44:975][282]LogBlueprintUserMessages: [Player_BP_C_0] 2.10444
+[2020.08.22-16.07.44:983][283]LogBlueprintUserMessages: [Player_BP_C_0] 2.111903
+[2020.08.22-16.07.44:983][283]LogBlueprintUserMessages: [Player_BP_C_0] 2.119303
+[2020.08.22-16.07.44:991][284]LogBlueprintUserMessages: [Player_BP_C_0] 2.126643
+[2020.08.22-16.07.44:991][284]LogBlueprintUserMessages: [Player_BP_C_0] 2.133921
+[2020.08.22-16.07.45:000][285]LogBlueprintUserMessages: [Player_BP_C_0] 2.141138
+[2020.08.22-16.07.45:000][285]LogBlueprintUserMessages: [Player_BP_C_0] 2.148295
+[2020.08.22-16.07.45:008][286]LogBlueprintUserMessages: [Player_BP_C_0] 2.155393
+[2020.08.22-16.07.45:008][286]LogBlueprintUserMessages: [Player_BP_C_0] 2.162431
+[2020.08.22-16.07.45:017][287]LogBlueprintUserMessages: [Player_BP_C_0] 2.169411
+[2020.08.22-16.07.45:017][287]LogBlueprintUserMessages: [Player_BP_C_0] 2.176332
+[2020.08.22-16.07.45:025][288]LogBlueprintUserMessages: [Player_BP_C_0] 2.183196
+[2020.08.22-16.07.45:025][288]LogBlueprintUserMessages: [Player_BP_C_0] 2.190003
+[2020.08.22-16.07.45:033][289]LogBlueprintUserMessages: [Player_BP_C_0] 2.196753
+[2020.08.22-16.07.45:033][289]LogBlueprintUserMessages: [Player_BP_C_0] 2.203447
+[2020.08.22-16.07.45:042][290]LogBlueprintUserMessages: [Player_BP_C_0] 2.210085
+[2020.08.22-16.07.45:042][290]LogBlueprintUserMessages: [Player_BP_C_0] 2.216668
+[2020.08.22-16.07.45:050][291]LogBlueprintUserMessages: [Player_BP_C_0] 2.223196
+[2020.08.22-16.07.45:050][291]LogBlueprintUserMessages: [Player_BP_C_0] 2.229669
+[2020.08.22-16.07.45:058][292]LogBlueprintUserMessages: [Player_BP_C_0] 2.236089
+[2020.08.22-16.07.45:058][292]LogBlueprintUserMessages: [Player_BP_C_0] 2.242455
+[2020.08.22-16.07.45:066][293]LogBlueprintUserMessages: [Player_BP_C_0] 2.248768
+[2020.08.22-16.07.45:066][293]LogBlueprintUserMessages: [Player_BP_C_0] 2.255028
+[2020.08.22-16.07.45:075][294]LogBlueprintUserMessages: [Player_BP_C_0] 2.261236
+[2020.08.22-16.07.45:075][294]LogBlueprintUserMessages: [Player_BP_C_0] 2.267393
+[2020.08.22-16.07.45:083][295]LogBlueprintUserMessages: [Player_BP_C_0] 2.273498
+[2020.08.22-16.07.45:083][295]LogBlueprintUserMessages: [Player_BP_C_0] 2.279552
+[2020.08.22-16.07.45:092][296]LogBlueprintUserMessages: [Player_BP_C_0] 2.285556
+[2020.08.22-16.07.45:092][296]LogBlueprintUserMessages: [Player_BP_C_0] 2.29151
+[2020.08.22-16.07.45:100][297]LogBlueprintUserMessages: [Player_BP_C_0] 2.297414
+[2020.08.22-16.07.45:100][297]LogBlueprintUserMessages: [Player_BP_C_0] 2.303269
+[2020.08.22-16.07.45:108][298]LogBlueprintUserMessages: [Player_BP_C_0] 2.309075
+[2020.08.22-16.07.45:108][298]LogBlueprintUserMessages: [Player_BP_C_0] 2.314833
+[2020.08.22-16.07.45:116][299]LogBlueprintUserMessages: [Player_BP_C_0] 2.320543
+[2020.08.22-16.07.45:117][299]LogBlueprintUserMessages: [Player_BP_C_0] 2.326205
+[2020.08.22-16.07.45:125][300]LogBlueprintUserMessages: [Player_BP_C_0] 2.33182
+[2020.08.22-16.07.45:125][300]LogBlueprintUserMessages: [Player_BP_C_0] 2.337388
+[2020.08.22-16.07.45:133][301]LogBlueprintUserMessages: [Player_BP_C_0] 2.34291
+[2020.08.22-16.07.45:133][301]LogBlueprintUserMessages: [Player_BP_C_0] 2.348386
+[2020.08.22-16.07.45:142][302]LogBlueprintUserMessages: [Player_BP_C_0] 2.353816
+[2020.08.22-16.07.45:142][302]LogBlueprintUserMessages: [Player_BP_C_0] 2.359201
+[2020.08.22-16.07.45:150][303]LogBlueprintUserMessages: [Player_BP_C_0] 2.364541
+[2020.08.22-16.07.45:150][303]LogBlueprintUserMessages: [Player_BP_C_0] 2.369836
+[2020.08.22-16.07.45:158][304]LogBlueprintUserMessages: [Player_BP_C_0] 2.375088
+[2020.08.22-16.07.45:158][304]LogBlueprintUserMessages: [Player_BP_C_0] 2.380295
+[2020.08.22-16.07.45:167][305]LogBlueprintUserMessages: [Player_BP_C_0] 2.385459
+[2020.08.22-16.07.45:167][305]LogBlueprintUserMessages: [Player_BP_C_0] 2.390581
+[2020.08.22-16.07.45:174][306]LogBlueprintUserMessages: [Player_BP_C_0] 2.395659
+[2020.08.22-16.07.45:174][306]LogBlueprintUserMessages: [Player_BP_C_0] 2.400696
+[2020.08.22-16.07.45:183][307]LogBlueprintUserMessages: [Player_BP_C_0] 2.40569
+[2020.08.22-16.07.45:183][307]LogBlueprintUserMessages: [Player_BP_C_0] 2.410642
+[2020.08.22-16.07.45:191][308]LogBlueprintUserMessages: [Player_BP_C_0] 2.415554
+[2020.08.22-16.07.45:191][308]LogBlueprintUserMessages: [Player_BP_C_0] 2.420424
+[2020.08.22-16.07.45:199][309]LogBlueprintUserMessages: [Player_BP_C_0] 2.425254
+[2020.08.22-16.07.45:199][309]LogBlueprintUserMessages: [Player_BP_C_0] 2.430044
+[2020.08.22-16.07.45:208][310]LogBlueprintUserMessages: [Player_BP_C_0] 2.434793
+[2020.08.22-16.07.45:208][310]LogBlueprintUserMessages: [Player_BP_C_0] 2.439504
+[2020.08.22-16.07.45:216][311]LogBlueprintUserMessages: [Player_BP_C_0] 2.444175
+[2020.08.22-16.07.45:216][311]LogBlueprintUserMessages: [Player_BP_C_0] 2.448807
+[2020.08.22-16.07.45:225][312]LogBlueprintUserMessages: [Player_BP_C_0] 2.453408
+[2020.08.22-16.07.45:225][312]LogBlueprintUserMessages: [Player_BP_C_0] 2.457972
+[2020.08.22-16.07.45:233][313]LogBlueprintUserMessages: [Player_BP_C_0] 2.462488
+[2020.08.22-16.07.45:233][313]LogBlueprintUserMessages: [Player_BP_C_0] 2.466968
+[2020.08.22-16.07.45:241][314]LogBlueprintUserMessages: [Player_BP_C_0] 2.47141
+[2020.08.22-16.07.45:241][314]LogBlueprintUserMessages: [Player_BP_C_0] 2.475815
+[2020.08.22-16.07.45:249][315]LogBlueprintUserMessages: [Player_BP_C_0] 2.480183
+[2020.08.22-16.07.45:249][315]LogBlueprintUserMessages: [Player_BP_C_0] 2.484515
+[2020.08.22-16.07.45:258][316]LogBlueprintUserMessages: [Player_BP_C_0] 2.488811
+[2020.08.22-16.07.45:258][316]LogBlueprintUserMessages: [Player_BP_C_0] 2.493071
+[2020.08.22-16.07.45:266][317]LogBlueprintUserMessages: [Player_BP_C_0] 2.497295
+[2020.08.22-16.07.45:266][317]LogBlueprintUserMessages: [Player_BP_C_0] 2.501485
+[2020.08.22-16.07.45:274][318]LogBlueprintUserMessages: [Player_BP_C_0] 2.505639
+[2020.08.22-16.07.45:274][318]LogBlueprintUserMessages: [Player_BP_C_0] 2.509759
+[2020.08.22-16.07.45:283][319]LogBlueprintUserMessages: [Player_BP_C_0] 2.513844
+[2020.08.22-16.07.45:283][319]LogBlueprintUserMessages: [Player_BP_C_0] 2.517895
+[2020.08.22-16.07.45:291][320]LogBlueprintUserMessages: [Player_BP_C_0] 2.521913
+[2020.08.22-16.07.45:291][320]LogBlueprintUserMessages: [Player_BP_C_0] 2.525897
+[2020.08.22-16.07.45:300][321]LogBlueprintUserMessages: [Player_BP_C_0] 2.529848
+[2020.08.22-16.07.45:300][321]LogBlueprintUserMessages: [Player_BP_C_0] 2.533766
+[2020.08.22-16.07.45:308][322]LogBlueprintUserMessages: [Player_BP_C_0] 2.537651
+[2020.08.22-16.07.45:308][322]LogBlueprintUserMessages: [Player_BP_C_0] 2.541504
+[2020.08.22-16.07.45:316][323]LogBlueprintUserMessages: [Player_BP_C_0] 2.545329
+[2020.08.22-16.07.45:316][323]LogBlueprintUserMessages: [Player_BP_C_0] 2.549123
+[2020.08.22-16.07.45:325][324]LogBlueprintUserMessages: [Player_BP_C_0] 2.55288
+[2020.08.22-16.07.45:325][324]LogBlueprintUserMessages: [Player_BP_C_0] 2.556606
+[2020.08.22-16.07.45:333][325]LogBlueprintUserMessages: [Player_BP_C_0] 2.560301
+[2020.08.22-16.07.45:333][325]LogBlueprintUserMessages: [Player_BP_C_0] 2.563965
+[2020.08.22-16.07.45:341][326]LogBlueprintUserMessages: [Player_BP_C_0] 2.567599
+[2020.08.22-16.07.45:341][326]LogBlueprintUserMessages: [Player_BP_C_0] 2.571203
+[2020.08.22-16.07.45:350][327]LogBlueprintUserMessages: [Player_BP_C_0] 2.574776
+[2020.08.22-16.07.45:350][327]LogBlueprintUserMessages: [Player_BP_C_0] 2.57832
+[2020.08.22-16.07.45:358][328]LogBlueprintUserMessages: [Player_BP_C_0] 2.581834
+[2020.08.22-16.07.45:358][328]LogBlueprintUserMessages: [Player_BP_C_0] 2.585318
+[2020.08.22-16.07.45:366][329]LogBlueprintUserMessages: [Player_BP_C_0] 2.588774
+[2020.08.22-16.07.45:366][329]LogBlueprintUserMessages: [Player_BP_C_0] 2.592201
+[2020.08.22-16.07.45:375][330]LogBlueprintUserMessages: [Player_BP_C_0] 2.595599
+[2020.08.22-16.07.45:375][330]LogBlueprintUserMessages: [Player_BP_C_0] 2.598969
+[2020.08.22-16.07.45:383][331]LogBlueprintUserMessages: [Player_BP_C_0] 2.602311
+[2020.08.22-16.07.45:383][331]LogBlueprintUserMessages: [Player_BP_C_0] 2.605625
+[2020.08.22-16.07.45:392][332]LogBlueprintUserMessages: [Player_BP_C_0] 2.608912
+[2020.08.22-16.07.45:392][332]LogBlueprintUserMessages: [Player_BP_C_0] 2.612171
+[2020.08.22-16.07.45:400][333]LogBlueprintUserMessages: [Player_BP_C_0] 2.615403
+[2020.08.22-16.07.45:400][333]LogBlueprintUserMessages: [Player_BP_C_0] 2.618608
+[2020.08.22-16.07.45:408][334]LogBlueprintUserMessages: [Player_BP_C_0] 2.621787
+[2020.08.22-16.07.45:408][334]LogBlueprintUserMessages: [Player_BP_C_0] 2.624938
+[2020.08.22-16.07.45:416][335]LogBlueprintUserMessages: [Player_BP_C_0] 2.628064
+[2020.08.22-16.07.45:417][335]LogBlueprintUserMessages: [Player_BP_C_0] 2.631163
+[2020.08.22-16.07.45:425][336]LogBlueprintUserMessages: [Player_BP_C_0] 2.634237
+[2020.08.22-16.07.45:425][336]LogBlueprintUserMessages: [Player_BP_C_0] 2.637285
+[2020.08.22-16.07.45:433][337]LogBlueprintUserMessages: [Player_BP_C_0] 2.640308
+[2020.08.22-16.07.45:433][337]LogBlueprintUserMessages: [Player_BP_C_0] 2.643305
+[2020.08.22-16.07.45:441][338]LogBlueprintUserMessages: [Player_BP_C_0] 2.646277
+[2020.08.22-16.07.45:442][338]LogBlueprintUserMessages: [Player_BP_C_0] 2.649225
+[2020.08.22-16.07.45:450][339]LogBlueprintUserMessages: [Player_BP_C_0] 2.652148
+[2020.08.22-16.07.45:450][339]LogBlueprintUserMessages: [Player_BP_C_0] 2.655047
+[2020.08.22-16.07.45:458][340]LogBlueprintUserMessages: [Player_BP_C_0] 2.657924
+[2020.08.22-16.07.45:458][340]LogBlueprintUserMessages: [Player_BP_C_0] 2.660777
+[2020.08.22-16.07.45:467][341]LogBlueprintUserMessages: [Player_BP_C_0] 2.663604
+[2020.08.22-16.07.45:467][341]LogBlueprintUserMessages: [Player_BP_C_0] 2.666407
+[2020.08.22-16.07.45:475][342]LogBlueprintUserMessages: [Player_BP_C_0] 2.669187
+[2020.08.22-16.07.45:475][342]LogBlueprintUserMessages: [Player_BP_C_0] 2.671944
+[2020.08.22-16.07.45:483][343]LogBlueprintUserMessages: [Player_BP_C_0] 2.674678
+[2020.08.22-16.07.45:483][343]LogBlueprintUserMessages: [Player_BP_C_0] 2.677389
+[2020.08.22-16.07.45:491][344]LogBlueprintUserMessages: [Player_BP_C_0] 2.680077
+[2020.08.22-16.07.45:492][344]LogBlueprintUserMessages: [Player_BP_C_0] 2.682743
+[2020.08.22-16.07.45:500][345]LogBlueprintUserMessages: [Player_BP_C_0] 2.685387
+[2020.08.22-16.07.45:500][345]LogBlueprintUserMessages: [Player_BP_C_0] 2.688009
+[2020.08.22-16.07.45:509][346]LogBlueprintUserMessages: [Player_BP_C_0] 2.690609
+[2020.08.22-16.07.45:509][346]LogBlueprintUserMessages: [Player_BP_C_0] 2.693187
+[2020.08.22-16.07.45:517][347]LogBlueprintUserMessages: [Player_BP_C_0] 2.695744
+[2020.08.22-16.07.45:517][347]LogBlueprintUserMessages: [Player_BP_C_0] 2.69828
+[2020.08.22-16.07.45:525][348]LogBlueprintUserMessages: [Player_BP_C_0] 2.700794
+[2020.08.22-16.07.45:525][348]LogBlueprintUserMessages: [Player_BP_C_0] 2.703287
+[2020.08.22-16.07.45:533][349]LogBlueprintUserMessages: [Player_BP_C_0] 2.70576
+[2020.08.22-16.07.45:533][349]LogBlueprintUserMessages: [Player_BP_C_0] 2.708212
+[2020.08.22-16.07.45:542][350]LogBlueprintUserMessages: [Player_BP_C_0] 2.710644
+[2020.08.22-16.07.45:542][350]LogBlueprintUserMessages: [Player_BP_C_0] 2.713055
+[2020.08.22-16.07.45:550][351]LogBlueprintUserMessages: [Player_BP_C_0] 2.715446
+[2020.08.22-16.07.45:550][351]LogBlueprintUserMessages: [Player_BP_C_0] 2.717818
+[2020.08.22-16.07.45:559][352]LogBlueprintUserMessages: [Player_BP_C_0] 2.720169
+[2020.08.22-16.07.45:559][352]LogBlueprintUserMessages: [Player_BP_C_0] 2.722501
+[2020.08.22-16.07.45:566][353]LogBlueprintUserMessages: [Player_BP_C_0] 2.724814
+[2020.08.22-16.07.45:566][353]LogBlueprintUserMessages: [Player_BP_C_0] 2.727107
+[2020.08.22-16.07.45:574][354]LogBlueprintUserMessages: [Player_BP_C_0] 2.729382
+[2020.08.22-16.07.45:574][354]LogBlueprintUserMessages: [Player_BP_C_0] 2.731637
+[2020.08.22-16.07.45:582][355]LogBlueprintUserMessages: [Player_BP_C_0] 2.733873
+[2020.08.22-16.07.45:582][355]LogBlueprintUserMessages: [Player_BP_C_0] 2.736091
+[2020.08.22-16.07.45:591][356]LogBlueprintUserMessages: [Player_BP_C_0] 2.73829
+[2020.08.22-16.07.45:591][356]LogBlueprintUserMessages: [Player_BP_C_0] 2.740471
+[2020.08.22-16.07.45:599][357]LogBlueprintUserMessages: [Player_BP_C_0] 2.742634
+[2020.08.22-16.07.45:599][357]LogBlueprintUserMessages: [Player_BP_C_0] 2.744779
+[2020.08.22-16.07.45:607][358]LogBlueprintUserMessages: [Player_BP_C_0] 2.746906
+[2020.08.22-16.07.45:607][358]LogBlueprintUserMessages: [Player_BP_C_0] 2.749015
+[2020.08.22-16.07.45:616][359]LogBlueprintUserMessages: [Player_BP_C_0] 2.751106
+[2020.08.22-16.07.45:616][359]LogBlueprintUserMessages: [Player_BP_C_0] 2.753181
+[2020.08.22-16.07.45:624][360]LogBlueprintUserMessages: [Player_BP_C_0] 2.755237
+[2020.08.22-16.07.45:624][360]LogBlueprintUserMessages: [Player_BP_C_0] 2.757277
+[2020.08.22-16.07.45:633][361]LogBlueprintUserMessages: [Player_BP_C_0] 2.7593
+[2020.08.22-16.07.45:633][361]LogBlueprintUserMessages: [Player_BP_C_0] 2.761306
+[2020.08.22-16.07.45:641][362]LogBlueprintUserMessages: [Player_BP_C_0] 2.763295
+[2020.08.22-16.07.45:641][362]LogBlueprintUserMessages: [Player_BP_C_0] 2.765267
+[2020.08.22-16.07.45:649][363]LogBlueprintUserMessages: [Player_BP_C_0] 2.767224
+[2020.08.22-16.07.45:649][363]LogBlueprintUserMessages: [Player_BP_C_0] 2.769163
+[2020.08.22-16.07.45:658][364]LogBlueprintUserMessages: [Player_BP_C_0] 2.771087
+[2020.08.22-16.07.45:658][364]LogBlueprintUserMessages: [Player_BP_C_0] 2.772995
+[2020.08.22-16.07.45:666][365]LogBlueprintUserMessages: [Player_BP_C_0] 2.774886
+[2020.08.22-16.07.45:666][365]LogBlueprintUserMessages: [Player_BP_C_0] 2.776762
+[2020.08.22-16.07.45:675][366]LogBlueprintUserMessages: [Player_BP_C_0] 2.778622
+[2020.08.22-16.07.45:675][366]LogBlueprintUserMessages: [Player_BP_C_0] 2.780467
+[2020.08.22-16.07.45:683][367]LogBlueprintUserMessages: [Player_BP_C_0] 2.782298
+[2020.08.22-16.07.45:683][367]LogBlueprintUserMessages: [Player_BP_C_0] 2.784114
+[2020.08.22-16.07.45:691][368]LogBlueprintUserMessages: [Player_BP_C_0] 2.785913
+[2020.08.22-16.07.45:691][368]LogBlueprintUserMessages: [Player_BP_C_0] 2.787697
+[2020.08.22-16.07.45:699][369]LogBlueprintUserMessages: [Player_BP_C_0] 2.789467
+[2020.08.22-16.07.45:699][369]LogBlueprintUserMessages: [Player_BP_C_0] 2.791221
+[2020.08.22-16.07.45:708][370]LogBlueprintUserMessages: [Player_BP_C_0] 2.792961
+[2020.08.22-16.07.45:708][370]LogBlueprintUserMessages: [Player_BP_C_0] 2.794686
+[2020.08.22-16.07.45:716][371]LogBlueprintUserMessages: [Player_BP_C_0] 2.796397
+[2020.08.22-16.07.45:716][371]LogBlueprintUserMessages: [Player_BP_C_0] 2.798094
+[2020.08.22-16.07.45:725][372]LogBlueprintUserMessages: [Player_BP_C_0] 2.799776
+[2020.08.22-16.07.45:725][372]LogBlueprintUserMessages: [Player_BP_C_0] 2.801445
+[2020.08.22-16.07.45:733][373]LogBlueprintUserMessages: [Player_BP_C_0] 2.803099
+[2020.08.22-16.07.45:733][373]LogBlueprintUserMessages: [Player_BP_C_0] 2.80474
+[2020.08.22-16.07.45:741][374]LogBlueprintUserMessages: [Player_BP_C_0] 2.806367
+[2020.08.22-16.07.45:741][374]LogBlueprintUserMessages: [Player_BP_C_0] 2.807981
+[2020.08.22-16.07.45:750][375]LogBlueprintUserMessages: [Player_BP_C_0] 2.809581
+[2020.08.22-16.07.45:750][375]LogBlueprintUserMessages: [Player_BP_C_0] 2.811168
+[2020.08.22-16.07.45:758][376]LogBlueprintUserMessages: [Player_BP_C_0] 2.812742
+[2020.08.22-16.07.45:758][376]LogBlueprintUserMessages: [Player_BP_C_0] 2.814302
+[2020.08.22-16.07.45:767][377]LogBlueprintUserMessages: [Player_BP_C_0] 2.81585
+[2020.08.22-16.07.45:767][377]LogBlueprintUserMessages: [Player_BP_C_0] 2.817384
+[2020.08.22-16.07.45:775][378]LogBlueprintUserMessages: [Player_BP_C_0] 2.818906
+[2020.08.22-16.07.45:775][378]LogBlueprintUserMessages: [Player_BP_C_0] 2.820415
+[2020.08.22-16.07.45:783][379]LogBlueprintUserMessages: [Player_BP_C_0] 2.821912
+[2020.08.22-16.07.45:783][379]LogBlueprintUserMessages: [Player_BP_C_0] 2.823396
+[2020.08.22-16.07.45:791][380]LogBlueprintUserMessages: [Player_BP_C_0] 2.824868
+[2020.08.22-16.07.45:791][380]LogBlueprintUserMessages: [Player_BP_C_0] 2.826327
+[2020.08.22-16.07.45:800][381]LogBlueprintUserMessages: [Player_BP_C_0] 2.827775
+[2020.08.22-16.07.45:800][381]LogBlueprintUserMessages: [Player_BP_C_0] 2.82921
+[2020.08.22-16.07.45:809][382]LogBlueprintUserMessages: [Player_BP_C_0] 2.830633
+[2020.08.22-16.07.45:809][382]LogBlueprintUserMessages: [Player_BP_C_0] 2.832045
+[2020.08.22-16.07.45:816][383]LogBlueprintUserMessages: [Player_BP_C_0] 2.833444
+[2020.08.22-16.07.45:816][383]LogBlueprintUserMessages: [Player_BP_C_0] 2.834832
+[2020.08.22-16.07.45:825][384]LogBlueprintUserMessages: [Player_BP_C_0] 2.836209
+[2020.08.22-16.07.45:825][384]LogBlueprintUserMessages: [Player_BP_C_0] 2.837574
+[2020.08.22-16.07.45:833][385]LogBlueprintUserMessages: [Player_BP_C_0] 2.838927
+[2020.08.22-16.07.45:834][385]LogBlueprintUserMessages: [Player_BP_C_0] 2.84027
+[2020.08.22-16.07.45:842][386]LogBlueprintUserMessages: [Player_BP_C_0] 2.841601
+[2020.08.22-16.07.45:842][386]LogBlueprintUserMessages: [Player_BP_C_0] 2.842921
+[2020.08.22-16.07.45:850][387]LogBlueprintUserMessages: [Player_BP_C_0] 2.84423
+[2020.08.22-16.07.45:850][387]LogBlueprintUserMessages: [Player_BP_C_0] 2.845528
+[2020.08.22-16.07.45:858][388]LogBlueprintUserMessages: [Player_BP_C_0] 2.846815
+[2020.08.22-16.07.45:858][388]LogBlueprintUserMessages: [Player_BP_C_0] 2.848092
+[2020.08.22-16.07.45:867][389]LogBlueprintUserMessages: [Player_BP_C_0] 2.849358
+[2020.08.22-16.07.45:867][389]LogBlueprintUserMessages: [Player_BP_C_0] 2.850613
+[2020.08.22-16.07.45:875][390]LogBlueprintUserMessages: [Player_BP_C_0] 2.851858
+[2020.08.22-16.07.45:875][390]LogBlueprintUserMessages: [Player_BP_C_0] 2.853092
+[2020.08.22-16.07.45:884][391]LogBlueprintUserMessages: [Player_BP_C_0] 2.854316
+[2020.08.22-16.07.45:884][391]LogBlueprintUserMessages: [Player_BP_C_0] 2.855531
+[2020.08.22-16.07.45:892][392]LogBlueprintUserMessages: [Player_BP_C_0] 2.856735
+[2020.08.22-16.07.45:892][392]LogBlueprintUserMessages: [Player_BP_C_0] 2.857929
+[2020.08.22-16.07.45:900][393]LogBlueprintUserMessages: [Player_BP_C_0] 2.859113
+[2020.08.22-16.07.45:900][393]LogBlueprintUserMessages: [Player_BP_C_0] 2.860286
+[2020.08.22-16.07.45:908][394]LogBlueprintUserMessages: [Player_BP_C_0] 2.861451
+[2020.08.22-16.07.45:908][394]LogBlueprintUserMessages: [Player_BP_C_0] 2.862605
+[2020.08.22-16.07.45:917][395]LogBlueprintUserMessages: [Player_BP_C_0] 2.86375
+[2020.08.22-16.07.45:917][395]LogBlueprintUserMessages: [Player_BP_C_0] 2.864886
+[2020.08.22-16.07.45:925][396]LogBlueprintUserMessages: [Player_BP_C_0] 2.866012
+[2020.08.22-16.07.45:925][396]LogBlueprintUserMessages: [Player_BP_C_0] 2.867128
+[2020.08.22-16.07.45:933][397]LogBlueprintUserMessages: [Player_BP_C_0] 2.868235
+[2020.08.22-16.07.45:934][397]LogBlueprintUserMessages: [Player_BP_C_0] 2.869334
+[2020.08.22-16.07.45:942][398]LogBlueprintUserMessages: [Player_BP_C_0] 2.870422
+[2020.08.22-16.07.45:942][398]LogBlueprintUserMessages: [Player_BP_C_0] 2.871502
+[2020.08.22-16.07.45:949][399]LogBlueprintUserMessages: [Player_BP_C_0] 2.872573
+[2020.08.22-16.07.45:949][399]LogBlueprintUserMessages: [Player_BP_C_0] 2.873635
+[2020.08.22-16.07.45:958][400]LogBlueprintUserMessages: [Player_BP_C_0] 2.874688
+[2020.08.22-16.07.45:958][400]LogBlueprintUserMessages: [Player_BP_C_0] 2.875732
+[2020.08.22-16.07.45:966][401]LogBlueprintUserMessages: [Player_BP_C_0] 2.876768
+[2020.08.22-16.07.45:966][401]LogBlueprintUserMessages: [Player_BP_C_0] 2.877795
+[2020.08.22-16.07.45:975][402]LogBlueprintUserMessages: [Player_BP_C_0] 2.878813
+[2020.08.22-16.07.45:975][402]LogBlueprintUserMessages: [Player_BP_C_0] 2.879823
+[2020.08.22-16.07.45:982][403]LogBlueprintUserMessages: [Player_BP_C_0] 2.880825
+[2020.08.22-16.07.45:983][403]LogBlueprintUserMessages: [Player_BP_C_0] 2.881818
+[2020.08.22-16.07.45:991][404]LogBlueprintUserMessages: [Player_BP_C_0] 2.882803
+[2020.08.22-16.07.45:991][404]LogBlueprintUserMessages: [Player_BP_C_0] 2.883779
+[2020.08.22-16.07.46:000][405]LogBlueprintUserMessages: [Player_BP_C_0] 2.884748
+[2020.08.22-16.07.46:000][405]LogBlueprintUserMessages: [Player_BP_C_0] 2.885708
+[2020.08.22-16.07.46:008][406]LogBlueprintUserMessages: [Player_BP_C_0] 2.886661
+[2020.08.22-16.07.46:008][406]LogBlueprintUserMessages: [Player_BP_C_0] 2.887605
+[2020.08.22-16.07.46:016][407]LogBlueprintUserMessages: [Player_BP_C_0] 2.888542
+[2020.08.22-16.07.46:017][407]LogBlueprintUserMessages: [Player_BP_C_0] 2.889471
+[2020.08.22-16.07.46:024][408]LogBlueprintUserMessages: [Player_BP_C_0] 2.890393
+[2020.08.22-16.07.46:024][408]LogBlueprintUserMessages: [Player_BP_C_0] 2.891307
+[2020.08.22-16.07.46:033][409]LogBlueprintUserMessages: [Player_BP_C_0] 2.892212
+[2020.08.22-16.07.46:033][409]LogBlueprintUserMessages: [Player_BP_C_0] 2.893111
+[2020.08.22-16.07.46:041][410]LogBlueprintUserMessages: [Player_BP_C_0] 2.894001
+[2020.08.22-16.07.46:041][410]LogBlueprintUserMessages: [Player_BP_C_0] 2.894885
+[2020.08.22-16.07.46:050][411]LogBlueprintUserMessages: [Player_BP_C_0] 2.895761
+[2020.08.22-16.07.46:050][411]LogBlueprintUserMessages: [Player_BP_C_0] 2.896629
+[2020.08.22-16.07.46:058][412]LogBlueprintUserMessages: [Player_BP_C_0] 2.897491
+[2020.08.22-16.07.46:058][412]LogBlueprintUserMessages: [Player_BP_C_0] 2.898345
+[2020.08.22-16.07.46:066][413]LogBlueprintUserMessages: [Player_BP_C_0] 2.899192
+[2020.08.22-16.07.46:066][413]LogBlueprintUserMessages: [Player_BP_C_0] 2.900032
+[2020.08.22-16.07.46:075][414]LogBlueprintUserMessages: [Player_BP_C_0] 2.900865
+[2020.08.22-16.07.46:075][414]LogBlueprintUserMessages: [Player_BP_C_0] 2.901691
+[2020.08.22-16.07.46:083][415]LogBlueprintUserMessages: [Player_BP_C_0] 2.90251
+[2020.08.22-16.07.46:083][415]LogBlueprintUserMessages: [Player_BP_C_0] 2.903323
+[2020.08.22-16.07.46:092][416]LogBlueprintUserMessages: [Player_BP_C_0] 2.904129
+[2020.08.22-16.07.46:092][416]LogBlueprintUserMessages: [Player_BP_C_0] 2.904927
+[2020.08.22-16.07.46:100][417]LogBlueprintUserMessages: [Player_BP_C_0] 2.90572
+[2020.08.22-16.07.46:100][417]LogBlueprintUserMessages: [Player_BP_C_0] 2.906505
+[2020.08.22-16.07.46:108][418]LogBlueprintUserMessages: [Player_BP_C_0] 2.907284
+[2020.08.22-16.07.46:108][418]LogBlueprintUserMessages: [Player_BP_C_0] 2.908057
+[2020.08.22-16.07.46:116][419]LogBlueprintUserMessages: [Player_BP_C_0] 2.908823
+[2020.08.22-16.07.46:116][419]LogBlueprintUserMessages: [Player_BP_C_0] 2.909583
+[2020.08.22-16.07.46:124][420]LogBlueprintUserMessages: [Player_BP_C_0] 2.910337
+[2020.08.22-16.07.46:124][420]LogBlueprintUserMessages: [Player_BP_C_0] 2.911084
+[2020.08.22-16.07.46:133][421]LogBlueprintUserMessages: [Player_BP_C_0] 2.911825
+[2020.08.22-16.07.46:133][421]LogBlueprintUserMessages: [Player_BP_C_0] 2.91256
+[2020.08.22-16.07.46:141][422]LogBlueprintUserMessages: [Player_BP_C_0] 2.913288
+[2020.08.22-16.07.46:141][422]LogBlueprintUserMessages: [Player_BP_C_0] 2.914011
+[2020.08.22-16.07.46:149][423]LogBlueprintUserMessages: [Player_BP_C_0] 2.914728
+[2020.08.22-16.07.46:150][423]LogBlueprintUserMessages: [Player_BP_C_0] 2.915438
+[2020.08.22-16.07.46:158][424]LogBlueprintUserMessages: [Player_BP_C_0] 2.916143
+[2020.08.22-16.07.46:158][424]LogBlueprintUserMessages: [Player_BP_C_0] 2.916842
+[2020.08.22-16.07.46:166][425]LogBlueprintUserMessages: [Player_BP_C_0] 2.917535
+[2020.08.22-16.07.46:166][425]LogBlueprintUserMessages: [Player_BP_C_0] 2.918222
+[2020.08.22-16.07.46:175][426]LogBlueprintUserMessages: [Player_BP_C_0] 2.918904
+[2020.08.22-16.07.46:175][426]LogBlueprintUserMessages: [Player_BP_C_0] 2.91958
+[2020.08.22-16.07.46:183][427]LogBlueprintUserMessages: [Player_BP_C_0] 2.92025
+[2020.08.22-16.07.46:183][427]LogBlueprintUserMessages: [Player_BP_C_0] 2.920914
+[2020.08.22-16.07.46:191][428]LogBlueprintUserMessages: [Player_BP_C_0] 2.921573
+[2020.08.22-16.07.46:191][428]LogBlueprintUserMessages: [Player_BP_C_0] 2.922227
+[2020.08.22-16.07.46:200][429]LogBlueprintUserMessages: [Player_BP_C_0] 2.922875
+[2020.08.22-16.07.46:200][429]LogBlueprintUserMessages: [Player_BP_C_0] 2.923518
+[2020.08.22-16.07.46:208][430]LogBlueprintUserMessages: [Player_BP_C_0] 2.924156
+[2020.08.22-16.07.46:208][430]LogBlueprintUserMessages: [Player_BP_C_0] 2.92479
+[2020.08.22-16.07.46:216][431]LogBlueprintUserMessages: [Player_BP_C_0] 2.925417
+[2020.08.22-16.07.46:217][431]LogBlueprintUserMessages: [Player_BP_C_0] 2.926038
+[2020.08.22-16.07.46:224][432]LogBlueprintUserMessages: [Player_BP_C_0] 2.926655
+[2020.08.22-16.07.46:225][432]LogBlueprintUserMessages: [Player_BP_C_0] 2.927266
+[2020.08.22-16.07.46:233][433]LogBlueprintUserMessages: [Player_BP_C_0] 2.927872
+[2020.08.22-16.07.46:233][433]LogBlueprintUserMessages: [Player_BP_C_0] 2.928473
+[2020.08.22-16.07.46:241][434]LogBlueprintUserMessages: [Player_BP_C_0] 2.929069
+[2020.08.22-16.07.46:241][434]LogBlueprintUserMessages: [Player_BP_C_0] 2.92966
+[2020.08.22-16.07.46:249][435]LogBlueprintUserMessages: [Player_BP_C_0] 2.930246
+[2020.08.22-16.07.46:250][435]LogBlueprintUserMessages: [Player_BP_C_0] 2.930828
+[2020.08.22-16.07.46:258][436]LogBlueprintUserMessages: [Player_BP_C_0] 2.931404
+[2020.08.22-16.07.46:258][436]LogBlueprintUserMessages: [Player_BP_C_0] 2.931976
+[2020.08.22-16.07.46:266][437]LogBlueprintUserMessages: [Player_BP_C_0] 2.932543
+[2020.08.22-16.07.46:266][437]LogBlueprintUserMessages: [Player_BP_C_0] 2.933105
+[2020.08.22-16.07.46:274][438]LogBlueprintUserMessages: [Player_BP_C_0] 2.933662
+[2020.08.22-16.07.46:274][438]LogBlueprintUserMessages: [Player_BP_C_0] 2.934215
+[2020.08.22-16.07.46:283][439]LogBlueprintUserMessages: [Player_BP_C_0] 2.934763
+[2020.08.22-16.07.46:283][439]LogBlueprintUserMessages: [Player_BP_C_0] 2.935307
+[2020.08.22-16.07.46:291][440]LogBlueprintUserMessages: [Player_BP_C_0] 2.935846
+[2020.08.22-16.07.46:292][440]LogBlueprintUserMessages: [Player_BP_C_0] 2.936381
+[2020.08.22-16.07.46:300][441]LogBlueprintUserMessages: [Player_BP_C_0] 2.936911
+[2020.08.22-16.07.46:300][441]LogBlueprintUserMessages: [Player_BP_C_0] 2.937437
+[2020.08.22-16.07.46:308][442]LogBlueprintUserMessages: [Player_BP_C_0] 2.937958
+[2020.08.22-16.07.46:308][442]LogBlueprintUserMessages: [Player_BP_C_0] 2.938476
+[2020.08.22-16.07.46:316][443]LogBlueprintUserMessages: [Player_BP_C_0] 2.938988
+[2020.08.22-16.07.46:316][443]LogBlueprintUserMessages: [Player_BP_C_0] 2.939497
+[2020.08.22-16.07.46:325][444]LogBlueprintUserMessages: [Player_BP_C_0] 2.940001
+[2020.08.22-16.07.46:325][444]LogBlueprintUserMessages: [Player_BP_C_0] 2.940501
+[2020.08.22-16.07.46:333][445]LogBlueprintUserMessages: [Player_BP_C_0] 2.940997
+[2020.08.22-16.07.46:333][445]LogBlueprintUserMessages: [Player_BP_C_0] 2.941489
+[2020.08.22-16.07.46:342][446]LogBlueprintUserMessages: [Player_BP_C_0] 2.941976
+[2020.08.22-16.07.46:342][446]LogBlueprintUserMessages: [Player_BP_C_0] 2.94246
+[2020.08.22-16.07.46:350][447]LogBlueprintUserMessages: [Player_BP_C_0] 2.942939
+[2020.08.22-16.07.46:350][447]LogBlueprintUserMessages: [Player_BP_C_0] 2.943414
+[2020.08.22-16.07.46:358][448]LogBlueprintUserMessages: [Player_BP_C_0] 2.943886
+[2020.08.22-16.07.46:358][448]LogBlueprintUserMessages: [Player_BP_C_0] 2.944354
+[2020.08.22-16.07.46:366][449]LogBlueprintUserMessages: [Player_BP_C_0] 2.944817
+[2020.08.22-16.07.46:366][449]LogBlueprintUserMessages: [Player_BP_C_0] 2.945277
+[2020.08.22-16.07.46:375][450]LogBlueprintUserMessages: [Player_BP_C_0] 2.945733
+[2020.08.22-16.07.46:375][450]LogBlueprintUserMessages: [Player_BP_C_0] 2.946186
+[2020.08.22-16.07.46:384][451]LogBlueprintUserMessages: [Player_BP_C_0] 2.946634
+[2020.08.22-16.07.46:384][451]LogBlueprintUserMessages: [Player_BP_C_0] 2.947079
+[2020.08.22-16.07.46:392][452]LogBlueprintUserMessages: [Player_BP_C_0] 2.94752
+[2020.08.22-16.07.46:392][452]LogBlueprintUserMessages: [Player_BP_C_0] 2.947957
+[2020.08.22-16.07.46:400][453]LogBlueprintUserMessages: [Player_BP_C_0] 2.948391
+[2020.08.22-16.07.46:400][453]LogBlueprintUserMessages: [Player_BP_C_0] 2.948821
+[2020.08.22-16.07.46:408][454]LogBlueprintUserMessages: [Player_BP_C_0] 2.949247
+[2020.08.22-16.07.46:408][454]LogBlueprintUserMessages: [Player_BP_C_0] 2.94967
+[2020.08.22-16.07.46:417][455]LogBlueprintUserMessages: [Player_BP_C_0] 2.95009
+[2020.08.22-16.07.46:417][455]LogBlueprintUserMessages: [Player_BP_C_0] 2.950506
+[2020.08.22-16.07.46:426][456]LogBlueprintUserMessages: [Player_BP_C_0] 2.950918
+[2020.08.22-16.07.46:426][456]LogBlueprintUserMessages: [Player_BP_C_0] 2.951327
+[2020.08.22-16.07.46:434][457]LogBlueprintUserMessages: [Player_BP_C_0] 2.951733
+[2020.08.22-16.07.46:434][457]LogBlueprintUserMessages: [Player_BP_C_0] 2.952135
+[2020.08.22-16.07.46:442][458]LogBlueprintUserMessages: [Player_BP_C_0] 2.952534
+[2020.08.22-16.07.46:442][458]LogBlueprintUserMessages: [Player_BP_C_0] 2.952929
+[2020.08.22-16.07.46:450][459]LogBlueprintUserMessages: [Player_BP_C_0] 2.953322
+[2020.08.22-16.07.46:450][459]LogBlueprintUserMessages: [Player_BP_C_0] 2.953711
+[2020.08.22-16.07.46:459][460]LogBlueprintUserMessages: [Player_BP_C_0] 2.954097
+[2020.08.22-16.07.46:459][460]LogBlueprintUserMessages: [Player_BP_C_0] 2.954479
+[2020.08.22-16.07.46:467][461]LogBlueprintUserMessages: [Player_BP_C_0] 2.954858
+[2020.08.22-16.07.46:467][461]LogBlueprintUserMessages: [Player_BP_C_0] 2.955235
+[2020.08.22-16.07.46:476][462]LogBlueprintUserMessages: [Player_BP_C_0] 2.955608
+[2020.08.22-16.07.46:476][462]LogBlueprintUserMessages: [Player_BP_C_0] 2.955978
+[2020.08.22-16.07.46:483][463]LogBlueprintUserMessages: [Player_BP_C_0] 2.956345
+[2020.08.22-16.07.46:483][463]LogBlueprintUserMessages: [Player_BP_C_0] 2.956708
+[2020.08.22-16.07.46:492][464]LogBlueprintUserMessages: [Player_BP_C_0] 2.957069
+[2020.08.22-16.07.46:492][464]LogBlueprintUserMessages: [Player_BP_C_0] 2.957427
+[2020.08.22-16.07.46:499][465]LogBlueprintUserMessages: [Player_BP_C_0] 2.957782
+[2020.08.22-16.07.46:499][465]LogBlueprintUserMessages: [Player_BP_C_0] 2.958134
+[2020.08.22-16.07.46:508][466]LogBlueprintUserMessages: [Player_BP_C_0] 2.958483
+[2020.08.22-16.07.46:508][466]LogBlueprintUserMessages: [Player_BP_C_0] 2.958828
+[2020.08.22-16.07.46:516][467]LogBlueprintUserMessages: [Player_BP_C_0] 2.959172
+[2020.08.22-16.07.46:516][467]LogBlueprintUserMessages: [Player_BP_C_0] 2.959512
+[2020.08.22-16.07.46:524][468]LogBlueprintUserMessages: [Player_BP_C_0] 2.959849
+[2020.08.22-16.07.46:524][468]LogBlueprintUserMessages: [Player_BP_C_0] 2.960184
+[2020.08.22-16.07.46:533][469]LogBlueprintUserMessages: [Player_BP_C_0] 2.960515
+[2020.08.22-16.07.46:533][469]LogBlueprintUserMessages: [Player_BP_C_0] 2.960845
+[2020.08.22-16.07.46:541][470]LogBlueprintUserMessages: [Player_BP_C_0] 2.961171
+[2020.08.22-16.07.46:541][470]LogBlueprintUserMessages: [Player_BP_C_0] 2.961494
+[2020.08.22-16.07.46:550][471]LogBlueprintUserMessages: [Player_BP_C_0] 2.961815
+[2020.08.22-16.07.46:550][471]LogBlueprintUserMessages: [Player_BP_C_0] 2.962134
+[2020.08.22-16.07.46:558][472]LogBlueprintUserMessages: [Player_BP_C_0] 2.962449
+[2020.08.22-16.07.46:558][472]LogBlueprintUserMessages: [Player_BP_C_0] 2.962762
+[2020.08.22-16.07.46:566][473]LogBlueprintUserMessages: [Player_BP_C_0] 2.963073
+[2020.08.22-16.07.46:566][473]LogBlueprintUserMessages: [Player_BP_C_0] 2.963381
+[2020.08.22-16.07.46:574][474]LogBlueprintUserMessages: [Player_BP_C_0] 2.963686
+[2020.08.22-16.07.46:574][474]LogBlueprintUserMessages: [Player_BP_C_0] 2.963988
+[2020.08.22-16.07.49:364][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-16.07.49:364][805]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2020.08.22-16.07.49:364][805]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-16.07.49:365][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-16.07.49:371][805]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.22-16.07.49:375][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-16.07.49:415][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-16.07.49:416][805]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E01F302AC0), frame # 762805
+[2020.08.22-16.07.49:416][805]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E00178B000), frame # 762805
+[2020.08.22-16.07.49:418][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.08.22-16.07.49:450][806]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2020.08.22-16.07.53:227][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/engine3_Cue" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Sounds/engine3_Cue.uasset" SILENT=true
+[2020.08.22-16.07.53:235][246]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/engine3_Cue122247DB4B48139EE5D18E807A9DC6FA.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Sounds/engine3_Cue.uasset'
+[2020.08.22-16.07.53:243][246]AssetCheck: New page: Asset Save: engine3_Cue
+[2020.08.22-16.07.53:244][246]LogContentValidation: Display: Validating SoundCue /Game/Sounds/engine3_Cue.engine3_Cue
+[2020.08.22-16.07.59:864][ 22]BlueprintLog: New page: Compile Player_BP
+[2020.08.22-16.07.59:931][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.08.22-16.08.00:313][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.22-16.08.00:362][ 55]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BPCF3D77C64F7AD2D878C249813C63FBA4.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.22-16.08.00:375][ 55]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.22-16.08.00:375][ 55]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.22-16.08.06:795][812]BlueprintLog: New page: Compile Player_BP
+[2020.08.22-16.08.06:869][812]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.08.22-16.08.07:272][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.22-16.08.07:316][849]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP51C9E3004F32E373A2CCC8B4F0212DF2.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.22-16.08.07:327][849]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.22-16.08.07:327][849]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.22-16.08.08:709][ 12]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.22-16.08.08:726][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.22-16.08.08:727][ 12]PIE: New page: PIE session: TestMap (Aug 22, 2020, 6:08:08 AM)
+[2020.08.22-16.08.08:754][ 12]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.08.22-16.08.08:761][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007002s)
+[2020.08.22-16.08.08:762][ 12]LogAIModule: Creating AISystem for world TestMap
+[2020.08.22-16.08.08:762][ 12]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E00DDF6800), frame # 765012
+[2020.08.22-16.08.08:762][ 12]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DFFAAEB740), frame # 765012
+[2020.08.22-16.08.08:762][ 12]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2020.08.22-16.08.08:762][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.007964s)
+[2020.08.22-16.08.08:797][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.08.22-16.08.08:798][ 12]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.22-16.08.08:798][ 12]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.22-16.08.08:798][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.22-16.08.08:798][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.22-16.08.08:798][ 12]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.22-16.08.08:798][ 12]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.22-16.08.08:798][ 12]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.22-16.08.08:798][ 12]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.22-16.08.08:799][ 12]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.22-16.08.08:799][ 12]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.22-16.08.08:800][ 12]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.22-16.08.08:800][ 12]LogAudioMixer: Display: 1: FrontRight
+[2020.08.22-16.08.08:808][ 12]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.22-16.08.08:808][ 12]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.22-16.08.08:808][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.22-16.08.08:808][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.22-16.08.08:809][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.22-16.08.08:820][ 12]LogInit: FAudioDevice initialized.
+[2020.08.22-16.08.08:829][ 12]LogLoad: Game class is 'TestGameMode_C'
+[2020.08.22-16.08.08:830][ 12]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.08.22-11.08.08
+[2020.08.22-16.08.08:831][ 12]LogWorld: Bringing up level for play took: 0.000969
+[2020.08.22-16.08.08:831][ 12]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2020.08.22-16.08.08:834][ 12]PIE: Server logged in
+[2020.08.22-16.08.08:835][ 12]PIE: Play in editor total start time 0.111 seconds.
+[2020.08.22-16.08.15:945][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-16.08.15:945][858]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2020.08.22-16.08.15:945][858]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-16.08.15:945][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-16.08.15:954][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.22-16.08.15:958][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-16.08.15:998][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-16.08.15:998][858]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DFFAAEB740), frame # 765858
+[2020.08.22-16.08.15:998][858]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E00DDF6800), frame # 765858
+[2020.08.22-16.08.16:001][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.08.22-16.08.16:032][859]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2020.08.22-16.13.27:790][400]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\GameDev\Assets\Sounds\255202__michael-kur95__starship-01.wav)
+[2020.08.22-16.13.27:792][400]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave 255202__michael-kur95__starship-01...
+[2020.08.22-16.13.27:792][400]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/255202__michael-kur95__starship-01.255202__michael-kur95__starship-01 will be modified from 40 to 40.
+[2020.08.22-16.13.27:822][400]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 183724 while cooking SoundWave /Game/Sounds/255202__michael-kur95__starship-01.255202__michael-kur95__starship-01.
+[2020.08.22-16.13.53:617][380]LogMetaData: Removing '/Game/Sounds/EngineCue.EngineCue:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/Sounds/engine3_Cue.PackageMetaData'
+[2020.08.22-16.13.53:638][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/EngineCue" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Sounds/EngineCue.uasset" SILENT=true
+[2020.08.22-16.13.53:644][380]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/EngineCueF919288848E98D794878E2ACADD89688.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Sounds/EngineCue.uasset'
+[2020.08.22-16.13.53:820][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.08.22-16.13.53:859][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.08.22-16.13.53:886][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.08.22-16.13.53:911][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.22-16.13.53:959][380]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP697F0FD2412163FBB98BB791E8D36C7A.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.22-16.13.53:996][380]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.22-16.13.53:996][380]LogContentValidation: Display: Validating SoundCue /Game/Sounds/EngineCue.EngineCue
+[2020.08.22-16.13.53:996][380]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.22-16.13.57:339][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Maps/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.22-16.13.57:369][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.08.22-16.13.57:393][771]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/TestMap3F878EEE48F3717CE62326B64EDFBF96.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Maps/TestMap.umap'
+[2020.08.22-16.13.57:420][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap_BuiltData" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Maps/TestMap_BuiltData.uasset" SILENT=true
+[2020.08.22-16.13.57:434][771]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/TestMap_BuiltData8FA479314882DD3A4989C594641EA824.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Maps/TestMap_BuiltData.uasset'
+[2020.08.22-16.13.57:450][771]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.22-16.13.57:450][771]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2020.08.22-16.13.57:450][771]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/TestMap_BuiltData.TestMap_BuiltData
+[2020.08.22-16.14.11:081][383]BlueprintLog: New page: Compile Player_BP
+[2020.08.22-16.14.11:146][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.08.22-16.14.11:986][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.22-16.14.12:028][472]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP7889DE3645412CDBBE38B891D822A4D2.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.22-16.14.12:039][472]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.22-16.14.12:039][472]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.22-16.14.19:117][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Maps/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.22-16.14.19:150][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.08.22-16.14.19:170][313]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/TestMap9B2BA3874CEA82AE2DA1749CE6B6513C.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Maps/TestMap.umap'
+[2020.08.22-16.14.19:194][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap_BuiltData" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Maps/TestMap_BuiltData.uasset" SILENT=true
+[2020.08.22-16.14.19:203][313]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/TestMap_BuiltDataF04BBFAD4B81FF90EC8186B3E6CF9B6F.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Maps/TestMap_BuiltData.uasset'
+[2020.08.22-16.14.19:217][313]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.22-16.14.19:217][313]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2020.08.22-16.14.19:217][313]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/TestMap_BuiltData.TestMap_BuiltData
+[2020.08.22-16.14.22:694][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.08.22-16.14.22:713][713]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/barHorizontal_green_left0806EBC04195DA6888CB6896459763D5.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/UserInterface/Textures/barHorizontal_green_left.uasset'
+[2020.08.22-16.14.22:722][713]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/barHorizontal_green_mid5E90B56F4CFB95FCAF47D5869BBB3678.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/UserInterface/Textures/barHorizontal_green_mid.uasset'
+[2020.08.22-16.14.22:732][713]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/barHorizontal_green_right580ADFEB4CDB06A1796529B0D58304A4.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/UserInterface/Textures/barHorizontal_green_right.uasset'
+[2020.08.22-16.14.22:742][713]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/barHorizontal_white_right84FC4C1E4574791E98ABE980AF163D5E.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/UserInterface/Textures/barHorizontal_white_right.uasset'
+[2020.08.22-16.14.22:754][713]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/barHorizontal_white_mid060E630F4706B191C5861FB2EC572F3A.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/UserInterface/Textures/barHorizontal_white_mid.uasset'
+[2020.08.22-16.14.22:764][713]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/barHorizontal_white_leftE9F86FB54639020C8C11BF9B293E8C50.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/UserInterface/Textures/barHorizontal_white_left.uasset'
+[2020.08.22-16.14.22:770][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UserInterface/Textures/dotWhite" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/UserInterface/Textures/dotWhite.uasset" SILENT=true
+[2020.08.22-16.14.22:775][713]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/dotWhite517EFF39466026EB30CD44991B15A009.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/UserInterface/Textures/dotWhite.uasset'
+[2020.08.22-16.14.22:780][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UserInterface/Textures/dot_shadow" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/UserInterface/Textures/dot_shadow.uasset" SILENT=true
+[2020.08.22-16.14.22:785][713]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/dot_shadowEADAB07C4A1D4B6ECB5E2D8A1424A78B.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/UserInterface/Textures/dot_shadow.uasset'
+[2020.08.22-16.14.22:790][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UserInterface/Textures/dotYellow" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/UserInterface/Textures/dotYellow.uasset" SILENT=true
+[2020.08.22-16.14.22:795][713]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/dotYellowA84FA2EB43684A0EE7B6A0A932804FAC.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/UserInterface/Textures/dotYellow.uasset'
+[2020.08.22-16.14.22:799][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UserInterface/Textures/crossair_red" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/UserInterface/Textures/crossair_red.uasset" SILENT=true
+[2020.08.22-16.14.22:805][713]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/crossair_redC5D2601948651CEF9FB661A4FF9F9749.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/UserInterface/Textures/crossair_red.uasset'
+[2020.08.22-16.14.22:808][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/158729__erdie__engine03-loop" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Sounds/158729__erdie__engine03-loop.uasset" SILENT=true
+[2020.08.22-16.14.22:814][713]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/158729__erdie__engine03-loopBA38C62343891D33E6B806B10AEFB9F9.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Sounds/158729__erdie__engine03-loop.uasset'
+[2020.08.22-16.14.22:817][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/engine3-loop" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Sounds/engine3-loop.uasset" SILENT=true
+[2020.08.22-16.14.22:822][713]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/engine3-loop524BC8D5426ACA6106376F9AC8BD5CDC.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Sounds/engine3-loop.uasset'
+[2020.08.22-16.14.22:827][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/255202__michael-kur95__starship-01" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Sounds/255202__michael-kur95__starship-01.uasset" SILENT=true
+[2020.08.22-16.14.22:833][713]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/255202__michael-kur95__starship-823A7A4F4A0421CEBC3128B79A7330AC.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Sounds/255202__michael-kur95__starship-01.uasset'
+[2020.08.22-16.14.22:834][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/DashCue" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Sounds/DashCue.uasset" SILENT=true
+[2020.08.22-16.14.22:839][713]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/DashCue89B5D3164485D2F3665182B9081C2AB6.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Sounds/DashCue.uasset'
+[2020.08.22-16.14.22:913][713]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.22-16.14.22:913][713]LogContentValidation: Display: Validating Texture2D /Game/UserInterface/Textures/barHorizontal_green_left.barHorizontal_green_left
+[2020.08.22-16.14.22:913][713]LogContentValidation: Display: Validating Texture2D /Game/UserInterface/Textures/barHorizontal_green_mid.barHorizontal_green_mid
+[2020.08.22-16.14.22:913][713]LogContentValidation: Display: Validating Texture2D /Game/UserInterface/Textures/barHorizontal_green_right.barHorizontal_green_right
+[2020.08.22-16.14.22:913][713]LogContentValidation: Display: Validating Texture2D /Game/UserInterface/Textures/barHorizontal_white_right.barHorizontal_white_right
+[2020.08.22-16.14.22:913][713]LogContentValidation: Display: Validating Texture2D /Game/UserInterface/Textures/barHorizontal_white_mid.barHorizontal_white_mid
+[2020.08.22-16.14.22:913][713]LogContentValidation: Display: Validating Texture2D /Game/UserInterface/Textures/barHorizontal_white_left.barHorizontal_white_left
+[2020.08.22-16.14.22:913][713]LogContentValidation: Display: Validating Texture2D /Game/UserInterface/Textures/dotWhite.dotWhite
+[2020.08.22-16.14.22:913][713]LogContentValidation: Display: Validating Texture2D /Game/UserInterface/Textures/dot_shadow.dot_shadow
+[2020.08.22-16.14.22:913][713]LogContentValidation: Display: Validating Texture2D /Game/UserInterface/Textures/dotYellow.dotYellow
+[2020.08.22-16.14.22:913][713]LogContentValidation: Display: Validating Texture2D /Game/UserInterface/Textures/crossair_red.crossair_red
+[2020.08.22-16.14.22:913][713]LogContentValidation: Display: Validating SoundWave /Game/Sounds/158729__erdie__engine03-loop.158729__erdie__engine03-loop
+[2020.08.22-16.14.22:914][713]LogContentValidation: Display: Validating SoundWave /Game/Sounds/engine3-loop.engine3-loop
+[2020.08.22-16.14.22:914][713]LogContentValidation: Display: Validating SoundWave /Game/Sounds/255202__michael-kur95__starship-01.255202__michael-kur95__starship-01
+[2020.08.22-16.14.22:914][713]LogContentValidation: Display: Validating SoundCue /Game/Sounds/DashCue.DashCue
+[2020.08.22-16.14.23:805][807]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sounds/DashCue.DashCue
+[2020.08.22-16.15.00:612][156]BlueprintLog: New page: Compile Player_BP
+[2020.08.22-16.15.00:688][156]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.08.22-16.15.01:084][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.22-16.15.01:128][188]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP143C8A3C4CB685F2265FE592D84EC796.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.22-16.15.01:140][188]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.22-16.15.01:140][188]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.22-16.15.39:635][503]BlueprintLog: New page: Compile Player_BP
+[2020.08.22-16.15.39:708][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.08.22-16.15.40:161][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.22-16.15.40:205][541]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP4ED93F754D6940ED1CC4B795BC9D4A4C.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.22-16.15.40:217][541]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.22-16.15.40:217][541]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.22-16.15.41:512][690]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.22-16.15.41:527][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.22-16.15.41:527][690]PIE: New page: PIE session: TestMap (Aug 22, 2020, 6:15:41 AM)
+[2020.08.22-16.15.41:554][690]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.08.22-16.15.41:560][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005862s)
+[2020.08.22-16.15.41:561][690]LogAIModule: Creating AISystem for world TestMap
+[2020.08.22-16.15.41:561][690]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E011BEFC00), frame # 782690
+[2020.08.22-16.15.41:561][690]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E008C0FEC0), frame # 782690
+[2020.08.22-16.15.41:561][690]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2020.08.22-16.15.41:561][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.006839s)
+[2020.08.22-16.15.41:594][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.08.22-16.15.41:595][690]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.22-16.15.41:595][690]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.22-16.15.41:595][690]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.22-16.15.41:595][690]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.22-16.15.41:595][690]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.22-16.15.41:595][690]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.22-16.15.41:595][690]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.22-16.15.41:595][690]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.22-16.15.41:595][690]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.22-16.15.41:595][690]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.22-16.15.41:597][690]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.22-16.15.41:597][690]LogAudioMixer: Display: 1: FrontRight
+[2020.08.22-16.15.41:606][690]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.22-16.15.41:606][690]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.22-16.15.41:606][690]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.22-16.15.41:606][690]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.22-16.15.41:607][690]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.22-16.15.41:617][690]LogInit: FAudioDevice initialized.
+[2020.08.22-16.15.41:623][690]LogLoad: Game class is 'TestGameMode_C'
+[2020.08.22-16.15.41:624][690]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.08.22-11.15.41
+[2020.08.22-16.15.41:624][690]LogWorld: Bringing up level for play took: 0.000937
+[2020.08.22-16.15.41:624][690]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2020.08.22-16.15.41:627][690]PIE: Server logged in
+[2020.08.22-16.15.41:628][690]PIE: Play in editor total start time 0.103 seconds.
+[2020.08.22-16.15.57:595][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-16.15.57:595][599]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2020.08.22-16.15.57:595][599]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-16.15.57:595][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-16.15.57:601][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.22-16.15.57:605][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-16.15.57:646][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-16.15.57:647][599]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E008C0FEC0), frame # 784599
+[2020.08.22-16.15.57:647][599]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E011BEFC00), frame # 784599
+[2020.08.22-16.15.57:649][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.08.22-16.15.57:680][600]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2020.08.22-16.16.00:667][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/DashCue" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Sounds/DashCue.uasset" SILENT=true
+[2020.08.22-16.16.00:676][949]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/DashCue2613D9B24AF164A617EB4F97ED0580E2.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Sounds/DashCue.uasset'
+[2020.08.22-16.16.00:686][949]AssetCheck: New page: Asset Save: DashCue
+[2020.08.22-16.16.00:686][949]LogContentValidation: Display: Validating SoundCue /Game/Sounds/DashCue.DashCue
+[2020.08.22-16.16.28:382][216]BlueprintLog: New page: Compile Player_BP
+[2020.08.22-16.16.28:453][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.08.22-16.16.28:896][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.22-16.16.28:942][252]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BP422624724E4190306497CF840D81582C.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.22-16.16.28:954][252]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.22-16.16.28:954][252]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.22-16.16.30:088][382]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.22-16.16.30:105][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.22-16.16.30:105][382]PIE: New page: PIE session: TestMap (Aug 22, 2020, 6:16:30 AM)
+[2020.08.22-16.16.30:145][382]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.08.22-16.16.30:152][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006888s)
+[2020.08.22-16.16.30:152][382]LogAIModule: Creating AISystem for world TestMap
+[2020.08.22-16.16.30:152][382]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E013E0FC00), frame # 788382
+[2020.08.22-16.16.30:152][382]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E02157C900), frame # 788382
+[2020.08.22-16.16.30:153][382]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2020.08.22-16.16.30:153][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.007834s)
+[2020.08.22-16.16.30:186][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.08.22-16.16.30:187][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.22-16.16.30:187][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.22-16.16.30:187][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.22-16.16.30:187][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.22-16.16.30:187][382]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.22-16.16.30:187][382]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.22-16.16.30:187][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.22-16.16.30:187][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.22-16.16.30:187][382]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.22-16.16.30:187][382]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.22-16.16.30:189][382]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.22-16.16.30:189][382]LogAudioMixer: Display: 1: FrontRight
+[2020.08.22-16.16.30:197][382]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.22-16.16.30:197][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.22-16.16.30:197][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.22-16.16.30:197][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.22-16.16.30:197][382]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.22-16.16.30:208][382]LogInit: FAudioDevice initialized.
+[2020.08.22-16.16.30:213][382]LogLoad: Game class is 'TestGameMode_C'
+[2020.08.22-16.16.30:214][382]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.08.22-11.16.30
+[2020.08.22-16.16.30:214][382]LogWorld: Bringing up level for play took: 0.000838
+[2020.08.22-16.16.30:214][382]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2020.08.22-16.16.30:217][382]PIE: Server logged in
+[2020.08.22-16.16.30:217][382]PIE: Play in editor total start time 0.116 seconds.
+[2020.08.22-16.16.39:215][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-16.16.39:215][455]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2020.08.22-16.16.39:216][455]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-16.16.39:216][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-16.16.39:220][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.22-16.16.39:225][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-16.16.39:267][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-16.16.39:268][455]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E02157C900), frame # 789455
+[2020.08.22-16.16.39:268][455]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E013E0FC00), frame # 789455
+[2020.08.22-16.16.39:271][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.08.22-16.16.39:303][456]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2020.08.22-16.16.57:777][607]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sounds/DashCue.DashCue
+[2020.08.22-16.17.25:162][859]BlueprintLog: New page: Compile Player_BP
+[2020.08.22-16.17.25:235][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.08.22-16.17.25:706][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.22-16.17.25:750][899]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BPC1F0D5CA483DFB3FCC3D0DA2C4495129.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.22-16.17.25:761][899]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.22-16.17.25:761][899]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
+[2020.08.22-16.17.29:016][277]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.22-16.17.29:032][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.22-16.17.29:032][277]PIE: New page: PIE session: TestMap (Aug 22, 2020, 6:17:29 AM)
+[2020.08.22-16.17.29:032][277]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.08.22-16.17.29:039][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006663s)
+[2020.08.22-16.17.29:040][277]LogAIModule: Creating AISystem for world TestMap
+[2020.08.22-16.17.29:040][277]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DFD9E3E200), frame # 795277
+[2020.08.22-16.17.29:040][277]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DFFFB83C40), frame # 795277
+[2020.08.22-16.17.29:040][277]LogPlayLevel: PIE: World Init took: (0.000967s)
+[2020.08.22-16.17.29:040][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.007727s)
+[2020.08.22-16.17.29:073][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.08.22-16.17.29:074][277]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.22-16.17.29:074][277]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.22-16.17.29:074][277]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.22-16.17.29:074][277]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.22-16.17.29:074][277]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.22-16.17.29:074][277]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.22-16.17.29:074][277]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.22-16.17.29:075][277]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.22-16.17.29:075][277]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.22-16.17.29:075][277]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.22-16.17.29:076][277]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.22-16.17.29:076][277]LogAudioMixer: Display: 1: FrontRight
+[2020.08.22-16.17.29:085][277]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.08.22-16.17.29:085][277]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.08.22-16.17.29:085][277]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.08.22-16.17.29:085][277]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.08.22-16.17.29:085][277]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.08.22-16.17.29:095][277]LogInit: FAudioDevice initialized.
+[2020.08.22-16.17.29:099][277]LogLoad: Game class is 'TestGameMode_C'
+[2020.08.22-16.17.29:100][277]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.08.22-11.17.29
+[2020.08.22-16.17.29:100][277]LogWorld: Bringing up level for play took: 0.000831
+[2020.08.22-16.17.29:101][277]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2020.08.22-16.17.29:103][277]PIE: Server logged in
+[2020.08.22-16.17.29:103][277]PIE: Play in editor total start time 0.074 seconds.
+[2020.08.22-16.17.43:525][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-16.17.43:525][995]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2020.08.22-16.17.43:525][995]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.22-16.17.43:526][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-16.17.43:535][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.22-16.17.43:539][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.22-16.17.43:579][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.22-16.17.43:580][995]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DFD9E3E200), frame # 796995
+[2020.08.22-16.17.43:580][995]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DFFFB83C40), frame # 796995
+[2020.08.22-16.17.43:583][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.08.22-16.17.43:614][996]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2020.08.22-16.17.48:949][621]BlueprintLog: New page: Compile Player_BP
+[2020.08.22-16.17.49:016][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.08.22-16.17.49:359][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player_BP" FILE="E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset" SILENT=true
+[2020.08.22-16.17.49:404][646]LogSavePackage: Moving 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Saved/Player_BPBA5535B443B7A56FFBA4E7B2284638CD.tmp' to 'E:/GameDev/Repos/UE4/KenneyJam2020/CursedPlanet/Content/Blueprints/Player_BP.uasset'
+[2020.08.22-16.17.49:416][646]AssetCheck: New page: Asset Save: Player_BP
+[2020.08.22-16.17.49:416][646]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player_BP.Player_BP
